@@ -1,0 +1,1250 @@
+0	XSSCross-Site Request Forgery (CSRF)CSRFCross-Site Request Forgery
+1	memory leaknull pointer dereferencedouble freemishandles a plaintext
+2	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Cross-site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)Stored XSS vulnerability
+3	race conditionRace conditiontiming attacktiming error
+4	a connection race from a malicious local peerconnection racea race from a malicious local peera connection race from the local peer
+5	sensitive informationunauthentication bypassan unauthentication bypassunauthenticated users to gain privileges
+6	an error handlingan incorrect state transitionan error handling of erroran error handling of error handling
+7	Cross-site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)XSSStored Cross-Site Scripting
+8	denial of servicecrashdenial of service (DoS)denial of service (crash
+9	buffer over-readbuffer overreadbuffer-over-readbuffer over-reads
+10	buffer over-readbuffer over-buffer over-readbuffer over-read-readbuffer-over-read
+11	buffer over-readstack-based buffer over-readout-of-bounds readbuffer overflow
+12	CSRF attackCSRF attacksCSRF protectionCross-Site Request Forgery
+13	buffer over-readBuffer over-readbuffer over-readsbuffer over-read vulnerability
+14	path traversaldirectory traversalpath traversal vulnerabilityDirectory traversal vulnerability
+15	denial of serviceNULL pointer dereferenceRequest timed out.denial of service (DoS
+16	an uninitialized variableuninitialized structuresuninitialized structurean uninitialized structure
+17	NULL pointer dereferenceNULL Pointer Dereferencenull pointer dereferenceNull Pointer Dereference
+18	remote code executiondeserializationcookie leakagecookie injection
+19	Out-of-bounds ReadBuffer OverflowHeap-based Buffer Overflowout-of-bounds write
+20	out-of-bounds readout-of-bounds writesegmentation faultheap-based buffer overflow
+21	reflected XSSImproper Neutralization of Input During Web Page Generation ('Cross-site Scripting')improper input validationImproper Neutralization of Input During Web Page Generation
+22	SQL InjectionSQL injectionsql injectionSQL queries
+23	XSSXSS vulnerabilityCross-site scripting (XSS)XSS due to improper input validation
+24	insufficiently random valuesbypass the signature verificationa flaw in the server keya flaw in the server-side template injection
+25	authentication bypassimproper input validationbypass authorizationbypass the cookie check
+26	bypass intended access restrictionsbypass intended restrictionsbypass intended container restrictionsbypass intended container protection
+27	improper authenticationimproper access controlimproper authorizationImproper Authorization
+28	stored XSSstored cross-site scriptingarbitrary codearbitrary code execution
+29	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedCross-Site Scripting (XSS) - StoredCross Site Scripting (XSS
+30	remote code executionImproper Authorizationimproperly validate user inputimproperly check for logs
+31	privilege escalationbrute-forceauthentication bypassunauthorized access
+32	Unchecked NULL pointer dereferenceUnchecked NULL pointer usageincomplete fixunbounded recursion
+33	Prototype PollutionPrototype pollutionPrototype pollution vulnerabilityPrototype Pollution (RCE
+34	account takeoverinformation disclosureinformation exposurelacks a password check
+35	SSRFserver-side request forgeryServer-Side Request Forgery (SSRF)SSRF vulnerability
+36	XSSDOM-based XSSStored Cross-Site ScriptingCross-site scripting (XSS
+37	path traversalpath traversal vulnerabilitypath traversal attackpath traversal attacks
+38	integer overflowInteger overflowinteger overflow and application crashinteger overflow and overflow
+39	NULL pointer dereferencenull pointer dereferenceNULL pointer dereference and crashNULL pointer dereference and system crash
+40	Cross-site Scripting (XSS) - Storedcross site scriptingCross-site scripting (XSS) vulnerabilitycross-site scripting (XSS
+41	race conditionRace conditionrace conditionsrace condition, race condition
+42	buffer over-readbuffer over-read vulnerabilitybuffer over-readsbuffer over-read
+43	remote code executionxml external entity referenceRemote Code Execution (RCE)XML External Entity (XXE
+44	denial of servicesegmentation violationsegmentation faultnull pointer dereference
+45	path traversalPath Traversalinformation disclosureremote code execution
+46	Heap-based Buffer OverflowOut-of-bounds Readheap-based Buffer OverflowUse After Free
+47	an uninitialized structure memberan uninitialized variablean uninitialized structureuninitialized structures
+48	use after freeuse-after-freeuse of uninitialized memoryuse-after-free vulnerability
+49	buffer overflowbuffer overflowsbuffer overrunmishandles certain data structure
+50	command injectionremote code executionarbitrary commandsarbitrary code
+51	Cross-site Scripting (XSS) - ReflectedCross-site Scripting (XSS) - StoredXSSCross-site scripting (XSS) vulnerability
+52	information leakageimproper input validationimproperly validate user inputimproperly restrict access control
+53	Path TraversalTarSlip vulnerabilityarbitrary codeArbitrary File Write
+54	Cross-Site Request Forgery (CSRF)Cross-Site Request ForgeryOpen RedirectServer-Side Request Forgery (SSRF
+55	memory leakMemory leakmemory leaksMemory leaks
+56	path traversaldirectory traversalPath Traversalpath traversal vulnerability
+57	improper access controlaccess controlinformation disclosureimproper access controls
+58	insecure temporary fileprivilege escalationpermissionsinsecure temporary files
+59	Server-Side Request Forgery (SSRF)Server-Side Request Forgeryserver-side request forgeryServer Side Request Forgery (SSRF
+60	NULL pointer dereferenceheap-based buffer overflowNULL Pointer Dereferencememory leak
+61	Cross-site Scripting (XSS) - StoredXSSStored Cross-Site Scripting (XSS)Reflected Cross-Site Scripting (XSS
+62	bypass intended access restrictionsprivilege escalationbypass intended restrictionsimproperly restrict permissions
+63	improper access controlaccess controlbypass intended access restrictionsunauthenticated access control
+64	symlink attackRace conditionrace conditiona race condition
+65	xml external entity referenceremote code executionXML External Entity (XXE) attacksXML External Entity (XXE) injection
+66	Heap-based buffer overflowInteger overflowInteger Overflowheap-based buffer overflow
+67	Command Injectioncommand injectionOS Command InjectionArbitrary Command Injection
+68	XSSCross-site scripting (XSS) vulnerabilityXSS vulnerabilityCross-site Scripting (XSS
+69	denial of servicedenial of service (memory corruption)denial of service, memory corruptiondenial of service (NULL pointer dereference
+70	XSSarbitrary PHP codearbitrary JavaScript injectionCross-site scripting (XSS
+71	buffer overflowout-of-bounds array accessout-of-bounds readdenial of service
+72	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Improper AuthorizationImproper Access ControlImproper Restriction of Excessive Authentication Attempts
+73	path traversalarbitrary file uploadarbitrary file deletionarbitrary code execution
+74	memory leakheap-based buffer overflowdenial of serviceheap-based buffer over-read
+75	improperly validated bracketed hostsimproperly validated bracketedimproperly validate user inputimproperly validate the user input
+76	information leakageinformation disclosureremote code executioninformation exposure
+77	remote code executionlog injectionsensitive informationlocal file inclusion
+78	Improper Authorizationimproper authorizationauthentication bypassimproper verification of cryptographic signature
+79	sandbox escapean uninitialized variablelack of an error handlinglack of an invalid check
+80	access controlbypass intended access restrictionsarbitrary accessarbitrary user access
+81	bypass intended access restrictionsfile overwritefile ownershipbypass intended restrictions
+82	Arbitrary Code ExecutionDenial of Serviceuncaught exceptionArbitrary File Write
+83	NULL Pointer DereferenceNULL pointer dereferencenull pointer dereferenceNull Pointer Dereference
+84	Unrestricted Upload of File with Dangerous Typeunrestricted uploadarbitrary PHP codearbitrary code execution
+85	Code Injectionremote code executioncode injectionRemote Code Execution
+86	timing side-channel attacktiming side-channel attackstiming attackman-in-the-middle attacks
+87	race conditionRace conditionrace conditionsa race condition
+88	Directory TraversalDirectory Traversal vulnerabilitydirectory traversalarbitrary file upload
+89	symlink attackfile creation vulnerabilitysymlink outside the sandboxsymlink outside of the user file
+90	Stored XSSUnrestricted Upload of File with Dangerous TypeStored XSS via File UploadStored XSS due to insufficient File Upload
+91	Integer overflowInteger overflow vulnerabilityinteger overflowheap-based buffer overflow
+92	directory traversaldirectory traversal vulnerabilitypath traversal vulnerabilityDirectory Traversal
+93	improper escapingImproper escapingmissing escapingremote code execution
+94	buffer over-readBuffer over-readbuffer overreadbuffer over-read
+95	ReDoS vulnerabilityReDoSReDoS, DoS vulnerabilityReDoS, DoS
+96	cross-site request forgeryCSRF attackCross-Site Request Forgerycross-site scripting
+97	sql injectionSQL injectionSQL injection vulnerabilitySQL Injection
+98	integer overflowInteger overflowInteger overflow vulnerabilityinteger overflow vulnerability
+99	Stored Cross-Site Scripting (XSS)Stored XSSStored Cross-Site ScriptingStored XSS due to improper input validation
+100	bypassPrototype Pollutionimproperly validate inputimproperly validate user input
+101	Improper Access ControlImproper AuthorizationInsufficient Session ExpirationImproper Restriction of Expiration
+102	buffer overflowbuffer overflowsinteger overflowBuffer overflow
+103	remote code executionXXElocal file inclusionImproper Restriction of XML External Entity Reference
+104	use-after-freeuse-after-free vulnerabilityUse-after-free vulnerabilityuse-after-free flaw
+105	integer overflowInteger overflowinteger overflowsinteger overflow, overflow
+106	file uploadfile upload vulnerabilityinformation disclosurefile overwrite
+107	insecure direct object referenceincomplete fixinsecure direct Object referenceinsecure direct object references
+108	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Stored XSSStored Cross-Site ScriptingInsecure Direct Object Reference
+109	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')SQL injectionCross-site Scripting (XSS) - StoredStored Cross-Site Scripting
+110	escalate the privilegesdenial of serviceescalate privilegesescalate a privileges
+111	XXExml external entity referenceXML External Entity InjectionXML External Entity (XX
+112	out-of-bounds writeout-of-bounds readheap-based buffer overflowInteger overflow
+113	sensitive informationsensitive information exposureexposure of sensitive informationexposed tokens
+114	signature verification issuesignature verificationsensitive informationprivilege escalation
+115	arbitrary filesarbitrary codesandbox escapebypass
+116	XSSCross-site Scripting (XSS) - StoredStored XSSStored XSS vulnerability
+117	Missing AuthorizationIncorrect Access ControlIncorrect AuthorizationImproper validation
+118	Incorrect Access Controlprivilege escalationImproper Access Controlbypass the permission check
+119	Race conditionpath traversalabsolute path traversalarbitrary file upload
+120	denial of servicedenial of service (NULL pointer dereference and system crash)denial of service, memory corruptiondenial of service, out-of-bounds memory access
+121	authentication bypassAuthentication Bypassauthentication-bypassAuthentication Bypass bypass
+122	use-after-freeWeak Password Requirementspredictable random number generatoruse-after-free vulnerability
+123	Cross-site Scripting (XSS) - ReflectedReflected Cross-Site Scripting (XSS)reflected XSSreflected XSS vulnerability
+124	sql injectionSQL injectionSQL Injectionsql injection vulnerability
+125	Server-Side Request Forgery (SSRF)Cross-site Scripting (XSS) - StoredSSRFCross-Site Request Forgery (CSRF
+126	XSSXSS vulnerabilitycross site scriptingCross-site scripting
+127	use after freeuninitialized memoryuse of uninitialized memoryarbitrary code
+128	an uninitialized variablean uninitialized data structurean incorrect data structurean uninitialized structure
+129	buffer overflowBuffer overflowArray index errorout-of-bounds write
+130	path traversalpath traversal vulnerabilityUnrestricted Upload of File with Dangerous Typepath traversal attack
+131	out-of-bounds readOut-of-bounds ReadOut-of-bounds readOut-of-Bounds Read
+132	Denial of Serviceexcessive CPU usageReDoSexcessive memory consumption
+133	Cross-site Scripting (XSS) - StoredCross-Site Scripting (XSS) - StoredCross-Site Request Forgery (CSRF)Cross-site Scripting (XSS) - Storing
+134	cross site scriptingXSSXSS vulnerabilitystored cross site scripting
+135	XSSCross-site Scripting (XSS) - StoredCross-site scripting (XSS)Cross-site scripting (XSS) vulnerability
+136	buffer overflowbuffer overflowsBuffer overflowBuffer Overflow
+137	Insufficient Session ExpirationSession FixationCSRF attackInsufficient Session Excessive Authentication
+138	arbitrary code injectionarbitrary codelacks injectionarbitrary code execution
+139	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - Reflectedcross-site scripting (XSS)cross site scripting
+140	bypassimproper input validationimproper inputimproperly restrict access
+141	Cross-site Scripting (XSS) - StoredXSSStored Cross-Site Scripting (XSS)XSS attack
+142	integer overflowbuffer overflowout-of-bounds writeBuffer overflow
+143	sql injectionSQL injectionSQL Injectionarbitrary SQL
+144	improper access controlunauthorized accessImproper Authorizationimproper authorization
+145	Cross-site Scripting (XSS) - StoredCross-Site Request Forgery (CSRF)Cross-Site ScriptingCross-Site Scripting (XSS
+146	cross-site scripting (XSS)XSSCross-site scripting (XSS) vulnerabilityCross-site Scripting (XSS
+147	timing attacksession hijackingsignature verification issuetiming side-channel
+148	path traversalpath traversal vulnerabilityPath TraversalDirectory Traversal
+149	buffer overflowBuffer OverflowBuffer overflowheap-based buffer overflow
+150	privilege escalationbypass intended access restrictionsaccess controlImproper Privilege Management
+151	Improper AuthorizationImproper Access ControlImproper Restriction of ExpirationAuthorization Bypass
+152	race conditionRace conditionrace conditionsRace Condition
+153	XSScross site scriptingcross-site scriptingCross-site Scripting
+154	path traversalreflected XSSpath traversal vulnerabilityreflected cross-site scripting
+155	denial of serviceuse-after-freeuse after freeuse-after-free flaw
+156	use-after-freedenial of serviceuse after freea crash
+157	open redirectopen redirect vulnerabilityauthentication bypasshostname spoofing
+158	SQL injectionXSSSQL injection vulnerabilityreflected XSS
+159	NULL Pointer DereferenceNULL pointer dereferencenull pointer dereferenceNull Pointer Dereference
+160	NULL pointer dereferencedenial of serviceNULL pointer dereference and crashNULL pointer dereference and application crash
+161	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')XSSCross-site Scripting (XSS) - StoredImproper Input Validation
+162	Prototype PollutionPrototype pollutionimproperly controlled modification of object prototypeImproperly Controlled Modification of Object Reference
+163	bypass authorizationarbitrary codearbitrary code executionarbitrary file upload
+164	Cross-site Scripting (XSS) - StoredCross-Site Request Forgery (CSRF)stored cross-site scripting (XSS)Cross-Site Scripting (XSS
+165	Reflected XSSReflected Cross-Site Request Forgery (CSRF)Reflected Cross-Site Request Forgeryreflected XSS
+166	buffer over-readtiming-buffer over-readtimingbuffer over-read
+167	NULL pointer dereferencedenial of serviceNULL pointer dereference and system crashNULL pointer dereference and OOPS
+168	improper validationimproper input validationimproperly sanitizationimproperly validate input
+169	sensitive informationinformation disclosureimproper access controlimproper authorization
+170	SQL injectionsql injectionSQL Injection SQL injection
+171	denial of serviceuse after freeinteger overflowdenial of service (application crash
+172	Improper Authorizationimproper authorizationimproper authenticationimproper access control
+173	double freemisinterprets the return valuenull pointer dereferencemisinterprets
+174	Unrestricted Upload of File with Dangerous Typefile upload vulnerabilityunrestricted uploadArbitrary File Upload
+175	Cross Site Scripting (XSS)Cross Site ScriptingXSS Cross Site Scripting (XSS
+176	XSSXML External Entity (XXE)XXEXSS vulnerability
+177	NULL pointer dereferencenull pointer dereferenceNull pointer dereferenceNULL pointer dereference and OOPS
+178	improper access controlprivilegesimproperly restrict permissionsimproperly restrict access
+179	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Improper Input ValidationImproper input validationImproper Neutralization of input
+180	out-of-bounds readout-of-bound readout of bounds readout of bound read
+181	access controlimproper access controlImproper Access ControlImproper Access control
+182	insufficient validationsignature forgerysignature verificationsignature verification issue
+183	improperly validate the signaturemishandles a crashimproperly validate the signature of inputimproperly validate the signature of signature
+184	Cross-site Scripting (XSS) - StoredStored Cross-Site ScriptingStored Cross-Site Scripting (XSS)Stored XSS
+185	remote code executionarbitrary codearbitrary code executionarbitrary remote code
+186	information exposureinformation disclosureaccess controlunauthorized access
+187	cross-site scripting (XSS)XSScross site scriptingcross-site scripting
+188	NULL pointer dereferencedenial of servicenull pointer dereferencedenial of service (memory corruption
+189	authentication bypassimproper input validationImproper Neutralization of Input During Web Page Generationimproperly verify the user input
+190	remote code executionRemote Code ExecutionIncorrect Access ControlRemote Code Execution (L
+191	Cross-site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)Cross-site Scripting (XSS) - ReflectedCross Site Scripting (XSS
+192	Improper Input ValidationImproper Access ControlImproper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Improper Neutralization of Input During Web Page Generation
+193	denial of servicetiming side-channeltiming attacktiming side channel
+194	Integer overflowinteger overflow overflowinteger overflow and overflow
+195	SQL InjectionSQL injection SQL InjectionSQL Injection (SQL Injection
+196	path traversalPath Traversalpath traversal attackpath traversal, remote code execution
+197	SQL injectionsql injectionSQL Injectionunauthenticated SQL injection
+198	open redirect vulnerabilityOpen Redirectopen redirectOpen redirect vulnerability
+199	stored XSSXSSfile uploadarbitrary file upload
+200	stack-based buffer overflowStack-based buffer overflowstack-based buffer overflowsuninitialized stack-based buffer overflow
+201	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')XSSCross-site Scripting (XSS) - StoredImproper Input Validation
+202	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Cross-site Scripting (XSS) - StoredImproper Input ValidationImproper Neutralization of Input During Web Page Generation
+203	Server-Side Request Forgery (SSRF)unauthorized accessSSRFAuthorization Bypass
+204	cross-site request forgerycross-site scriptingcross site scriptingcross-site request
+205	integer overflowInteger overflowstack overflowdenial of service
+206	SQL injectionSQL InjectionSQL queriesSQL injection vulnerability
+207	command injectionCommand InjectionCommand injectionOS Command Injection
+208	buffer over-readbuffer overreadbuffer under-readbuffer over-read
+209	denial of servicedenial of service (NULL pointer dereference)denial of service, memory corruptionDenial of Service (DoS
+210	remote code executiondeserializationobject injectionobject injection vulnerability
+211	Denial of ServiceReDoSexcessive CPU usageexcessive memory consumption
+212	bypass intended access restrictionsdenial of servicepermissionsbypass intended restrictions
+213	out-of-bounds readout-of-bound readout of bounds readout-of-bounds write
+214	command injectionarbitrary commandsremote code executionCommand Injection
+215	path traversalPath TraversalDirectory traversalDirectory traversal vulnerability
+216	NULL pointer dereferencedenial of servicedenial of service (NULL pointer dereference)NULL pointer dereference and application crash
+217	weak hashing algorithmbrute-forcebrute-force attacksbrute-force attack
+218	Improper Access ControlImproper Privilege ManagementImproper Authorizationimproper access control
+219	denial of serviceDenial of servicedenial of service, memory corruptiondenial of service, out of service
+220	Authorization BypassImproper Authorizationbypass intended access restrictionsbypass the authentication
+221	Reflected Cross-Site Scripting (XSS)XSSReflected XSSReflected Cross-site Scripting (XSS
+222	memory leaksmemory leakmemory leak vulnerabilitymemory corruption
+223	arbitrary commandsremote code executionarbitrary codecommand injection
+224	bypassbypass intended access restrictionsCross-site Scriptingbypass the cross-site scripting
+225	Stored Cross-Site Scripting (XSS)Stored Cross-Site ScriptingStored XSSImproper Neutralization of Input During Web Page Generation
+226	CSRFCSRF protectionCSRF attackCSRF attacks
+227	denial of servicedivision by zerooverflowsegfault
+228	heap-based buffer overflowbuffer overflowHeap-based buffer overflowdenial of service
+229	use-after-freedouble-freedouble-free vulnerabilitydouble-free flaw
+230	remote code executionRemote Code Executionarbitrary commandsarbitrary code
+231	NULL pointer dereferencedenial of serviceNULL Pointer Dereferencedenial of service (NULL error
+232	improper access controlImproper access controlaccess controlImproper Access Control
+233	Cross-Site Request Forgery (CSRF)Cross-Site Request Forgerycross-site request forgery (CSRF)cross-site request forgery
+234	denial of serviceDenial of Service (DoS)NULL pointer dereferenceheap-based buffer overflow
+235	information exposureexpose sensitive informationexposure of sensitive informationexpose sensitive data
+236	stored XSSImproper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Cross-site Scripting (XSS) - StoredImproper Neutralization of Input During Web Page Generation ('Cross-site scripting
+237	sql injectionSQL injectionsql injection vulnerabilitysql injection vulnerabilities
+238	heap-based buffer over-readmemory leakuse-after-freememory leaks
+239	denial of serviceoverflowheap-based buffer overflowout-of-bounds write
+240	remote code executionRemote Code Executionpath traversal vulnerabilityarbitrary code
+241	heap-based buffer over-readheap-based buffer overflowheap buffer overflowHeap-based buffer over-read
+242	XXEXXE attacksxml external entity referencexml external entity references
+243	out-of-bounds array accessout-of-array accessout of array accessOut-of-bounds array access
+244	remote code executionremote attackers to execute arbitrary coderemote attackers to execute arbitrary commandsremote attackers to execute arbitrary files
+245	use-after-freedenial of serviceuse-after-free vulnerabilityuse-after-free flaw
+246	out-of-bounds writeout-of-bounds readheap-based buffer overflowstack-based buffer overflow
+247	symlink attackarbitrary filesarbitrary file writesymlinks
+248	denial of servicedenial of service (DoS)denial of service, memory corruptionRequest timed out.
+249	cross site scriptingcross-site scripting (XSS)cross-site scriptingCross-site Scripting
+250	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Stored XSSRemote Code ExecutionUnrestricted Upload of File with Dangerous Type
+251	memory leakheap-based buffer overflowdenial of servicememory leaks
+252	Cross-site scripting (XSS)Cross-site Scripting (XSS)Cross-site scripting (XSS) vulnerabilityCross-site Scripting (XSS) - Stored
+253	Business Logic Errorsinsecure direct object referenceIncorrect Access Controlbypass the authentication
+254	Buffer overflowInteger overflowheap buffer overflowinteger overflow
+255	out-of-bounds readmemory leakout-of-bounds writedenial of service
+256	Cross-site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)Cross-site Scripting (XSS) - Reflectedcross-site scripting (XSS) vulnerability
+257	buffer overflowstack-based buffer overflowheap-based buffer overflowstack overflow
+258	Cross-Site Request Forgery (CSRF)Cross-Site Request Forgerycross-site request forgeryCross-site request forgery (CSRF
+259	Integer overflowInteger overflow vulnerabilityinteger overflowout-of-array access
+260	arbitrary file uploadarbitrary filesArbitrary File Uploadarbitrary file upload vulnerability
+261	sql injectionSQL injectionsql injection and injectionsql injection, SQL injection
+262	Cross-site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)cross-site scripting (XSS)cross-site scripting (XSS) vulnerabilities
+263	memory leakmemory leaksuse after freeuse after free vulnerability
+264	NULL pointer dereferenceNULL Pointer Dereferencebuffer overflowStack-based buffer overflow
+265	cross site scriptingXSScross-site scriptingcross site scripting (XSS
+266	denial of serviceDenial of Servicean assertion failuredenial of service (DoS
+267	remote code executionpath traversalRemote Code Executionarbitrary file read
+268	buffer overflowstack-based buffer overflowan uninitialized variableimproperly initialize certain data structure
+269	Heap-based Buffer OverflowOut-of-bounds ReadOut-of-bounds WriteStack-based Buffer Overflow
+270	use-after-freeuse-after-free vulnerabilityuse after freeUse-after-free vulnerability
+271	account takeoverinsufficient security checksbypass the sandbox protectionbypass the server key
+272	stack-based buffer overflowbuffer overflowBuffer Overflowstack buffer overflow
+273	Prototype Pollutionobject injectionprototype pollutionPrototype pollution
+274	crashmemory corruptionundefined behaviormishandles a crash
+275	information disclosureremote code executioninformation leakageremote attackers to execute arbitrary code
+276	out-of-bounds readout of bounds readout of bound readout-of-bound read
+277	remote code executioncode executionRemote Code Executionarbitrary code
+278	path traversalarbitrary code executionarbitrary filesarbitrary file read
+279	out-of-bounds accessout of bounds readoff-by-one errorout-of-bounds read
+280	heap-based buffer overflowBuffer overflowheap buffer overflowout-of-bounds read
+281	Modification of Assumed-Immutable DataRemote Code ExecutionRemote Code Execution (RCE)Modification of Assumed-Immutable Data (MAID
+282	remote code executionarbitrary file readarbitrary file writearbitrary file upload
+283	SQL injectionSQL injection vulnerabilitySQL injection vulnerabilitiesImproper Neutralization
+284	command injectionremote code executionsensitive informationremote attackers to execute arbitrary commands
+285	sql injectionSQL injection SQL injectionarbitrary SQL
+286	XSSstored XSSStored XSSCross-site Scripting
+287	Command Injectioncommand injectionOS Command Injectionarbitrary commands
+288	cross site scriptingCross Site Scripting (XSS)Cross Site ScriptingCross-site scripting (XSS
+289	SQL injectionSQL injection vulnerabilityLack of authorizationLack of authorization check
+290	symlink attackaccess controlunauthorized accessunauthorized users to gain privileges
+291	denial of serviceDenial of Servicedenial of service (DoS)denial of service, system crash
+292	Cross-site Scripting (XSS) - StoredStored XSSstored XSSStored Cross-Site Scripting
+293	bypass intended access restrictionscleartext credentialscleartextcleartext encryption
+294	integer overflowInteger overflowinteger overflow, heap overflowinteger overflow and heap overflow
+295	Cross-site scripting (XSS) vulnerabilityCross-site Scripting (XSS) - StoredXSSStored XSS
+296	remote code executionarbitrary codeImproper input validationarbitrary code execution
+297	Heap-based Buffer OverflowBuffer Over-readOut-of-bounds ReadBuffer Overflow
+298	script executionstored XSScode executionarbitrary code
+299	denial of serviceRegular Expression Denial of Service (ReDoS)Regular Expression Denial of Serviceregular expression denial of service
+300	remote code executioncommand injectionRemote Code ExecutionHTML injection
+301	sql injectionSQL injectionsql injection, SQL injectionsql injection and SQL injection
+302	denial of serviceuse-after-freedenial of service, memory corruptiondenial of service (memory corruption
+303	denial of servicememory corruptionout-of-bounds readout-of-bounds write
+304	command injectionremote code executionCommand Injectionarbitrary commands
+305	Improper Authorizationimproper access controlImproper Access Controlimproper authorization
+306	Prototype Pollutionimproperly restrict access controlimproperly restrict accessImproper Restriction of Object Reference
+307	buffer overflowstack-based buffer overflowBuffer overflowheap-buffer overflow
+308	use-after-freeuse after freeUse After FreeUse-after-free
+309	XSScross-site scriptingXML External Entity (XXE) attackscross-site scripting (XSS
+310	heap buffer overflowbuffer overflowheap buffer over-readBuffer Overflow
+311	content spoofingcontent spoofing vulnerabilitycontent spoofing attackcontent spoofing (XSS
+312	out-of-bounds readheap buffer overflowout-of-bounds writeheap-based buffer over-read
+313	heap-based buffer overflowHeap-based buffer overflowHeap-based Buffer Overflowdenial of service
+314	Denial of Service (DoS)Denial of ServiceXSS vulnerabilityXSS
+315	Server-Side Request Forgery (SSRF)SSRFCross-Site Request Forgery (CSRF)Cross-site Request Forgery (CSRF
+316	privilege escalationcleartext credentialsinformation exposureprivileges
+317	SQL injectionSQL injection vulnerabilitysql injectionSQL injection vulnerabilities
+318	remote code executionImproper Access Controlremote attackers to obtain sensitive informationremote attackers to obtain the user input
+319	bypass authenticationimproper authenticationimproper verification of authenticationimproper verification of signature verification
+320	Weak Password RequirementsImproper Neutralization of Input During Web Page GenerationRegular Expression Denial of Service (ReDoS)Improper Neutralization of Formula Elements
+321	denial of servicesegfaultdenial of service (DoS)denial of service, memory corruption
+322	XML External Entity (XXE)XXEXML External Entity (XXE) vulnerabilityXML External Entity (XXE) attacks
+323	improper validationauthentication bypassimproper input validationimproperly validate input
+324	XML External Entity (XXE) attacksXXE attacksXML External Entity (XXE) injectionxml external entity reference
+325	remote code executionbypassarbitrary codearbitrary code execution
+326	Cross-site scripting (XSS) vulnerabilitycross-site scripting (XSS)cross site scriptingcross-site scripting (XSS) vulnerability
+327	excessive memory allocationexcessive computationDenial of Serviceexcessive memory access
+328	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - Reflectedcross site scriptingcross-site scripting (XSS
+329	denial of serviceDenial of Servicedenial of service (DoS)denial of service (application crash
+330	remote code executionpath traversalXSSarbitrary JavaScript
+331	cross-site scripting (XSS)cross site scriptingXSSCross-site scripting (XSS
+332	denial of servicedenial of service (memory corruption)denial of service (deadlock)denial of service (memory crash
+333	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedCross-site Scripting (XSS)Cross-Site Scripting (XSS
+334	Cross-Site Scripting (XSS)Cross-Site ScriptingCross-site Scripting (XSS)Improper Restriction of Rendered UI Layers
+335	authentication bypassan incorrect access controlan incorrect validationlack of validation error
+336	xml external entity referenceXXEXXE attacksxml external entity references
+337	denial of serviceNULL pointer dereferencedenial of service (NULL pointer dereferencedenial of service (NULL pointer dereference and system crash
+338	Denial of Service (DoS)denial of serviceexcessive memory consumptiondenial of service (memory consumption
+339	sql injectionSQL injectionsql injectionsSQL Injection
+340	heap-based buffer over-readHeap-based Buffer Overflowheap buffer over-readHeap-based buffer over-read
+341	XSSXSS vulnerabilityCross-site ScriptingCross-site scripting (XSS
+342	Cross-site request forgery (CSRF)bypass authenticationcross-site request forgery (CSRF)cross-site request forgery
+343	Cross-site Scripting (XSS) - ReflectedReflected Cross-Site Scripting (XSS)Cross-site Scripting (XSS) - StoredReflected XSS
+344	denial of serviceInteger overflowout-of-bounds accessout-of-bounds write
+345	unauthorized accessimproper access controlunauthorized access controlinsecure direct object reference
+346	double freeuse after freeUse After Freeuse-after free
+347	memory leakdenial of servicememory leak vulnerabilitymemory leaks
+348	bypass intended access restrictionsbypass intended restrictionsdenial of servicebypass intended filesystem restrictions
+349	Incorrect Access ControlImproper Access ControlInsecure Direct Object ReferenceCross-Site Request Forgery
+350	improperly restrict accessimproper input validationimproperly validate user inputimproperly validate input
+351	command injectionCommand InjectionOS Command Injectionarbitrary commands
+352	NULL pointer dereferencesegmentation violationsegmentation faultDenial of Service (DoS
+353	man-in-the-middle attacksman-in-the-middle attackman-in-the-middleman-in-middle attacks
+354	XSSXSS vulnerabilityStored XSS vulnerabilityStored XSS
+355	uncaught exceptionuncaught Exceptionuncuncaught exceptionNULL Pointer Dereference
+356	Server-Side Request Forgery (SSRF)server-side request forgeryserver-side request forgery (SSRF)Server Side Request Forgery (SSRF
+357	denial of serviceuse-after-freedenial of service, memory corruptionuninitialized memory
+358	Cross-Site Request Forgery (CSRF)Cross-site Scripting (XSS) - StoredCross-site Request Forgery (CSRF)cross-site request forgery (CSRF
+359	cross site scriptingXSSstored cross-site scriptingCross-site Scripting
+360	Out-of-bounds Readout-of-bounds readout-of-bounds writedenial of service (NULL pointer dereference
+361	denial of serviceout of bounds readarbitrary codeout-of-bounds read
+362	XSS attacksXSSXSS attackarbitrary code
+363	incorrect access controlIncorrect Access ControlInsufficient Session ExpirationInsecure Direct Object Reference
+364	buffer overflowBuffer overflowbuffer overflowsbuffer overflow and application
+365	privilege escalationescalate privilegesprivilegesbypass intended access restrictions
+366	Cross-site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)Stored XSSstored XSS
+367	Unrestricted Upload of File with Dangerous Typefile uploadfile upload vulnerabilityfile uploads
+368	XSSXSS vulnerabilitycross-site scriptingCross-site Scripting
+369	access controlinformation exposureauthentication bypassan incorrect access control
+370	Unrestricted Upload of File with Dangerous TypeStored XSSStored Cross-Site ScriptingStored XSS due to Unrestricted Upload
+371	local privilege escalationimproperly restrict permissionsbypass intended access restrictionsimproperly restrict access
+372	path traversal vulnerabilitypath traversalremote code executionstored cross-site scripting
+373	out-of-bounds readout-of-bounds accessdenial of serviceout-of-bound read access
+374	out-of-bounds readdenial of serviceout-of-bounds accessout-of-bounds read and read
+375	Cross-site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)Stored Cross-Site ScriptingStored XSS
+376	Improper Access ControlStored XSSImproper Restriction of Excessive Authentication AttemptsStored Cross-Site Scripting
+377	Business Logic ErrorsSSRFImproper Access ControlCross-site Scripting
+378	use-after-freeUse-after-freeUse After FreeUse-after-Free
+379	denial of servicedenial of service (DoS)denial-of-servicedenial of service (denial of service
+380	bypassDoSimproper validationimproper authorization
+381	heap-based buffer overflowout-of-bounds writeHeap-based buffer overflowout-of-bounds write vulnerability
+382	stack-based buffer overflowstack buffer overflowStack-based buffer overflowBuffer overflow
+383	local privilege escalationcode injectioncode executionlocal file inclusion
+384	memory leakmemory leaksNULL pointer dereferencememory leak vulnerability
+385	Cross-site Scripting (XSS) - StoredCross-Site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedCross-Site Scripting (XSS
+386	account takeoverbypass authenticationauthentication bypassAuthentication Bypass
+387	Server-Side Request Forgery (SSRF)SSRFserver-side request forgeryserver-side request forgery (SSRF
+388	Cross-site Scripting (XSS) - StoredRegular Expression Denial of Service (ReDoS)Cross-site Scripting (XSS)Improperly sanitization
+389	authentication bypassAuthentication Bypasssignature verificationsignature verification issue
+390	heap-based buffer overflowInteger overflowHeap-based buffer overflowdenial of service
+391	Cross-site Scripting (XSS) - ReflectedCross-site Scripting (XSS) - StoredCross Site Scripting (XSS)cross site scripting
+392	buffer overflowBuffer Overflowinvalid memory accessinvalid memory address
+393	sql injectionSQL injectionSQL Injectionsql injection and injection
+394	Denial of Service (DoS)arbitrary code executiondenial of serviceDenial of Service
+395	denial of serviceDenial of Service (DoS)Denial of Servicedenial of service (DoS
+396	Cross-site scripting (XSS) vulnerabilityCross-site scripting (XSS)Cross-site Scripting (XSS)cross-site scripting (XSS
+397	integer overflowInteger overflowan integer overflowfloating point exception
+398	improper access controlImproper Access Controlunauthorized accessImproper access control
+399	out-of-bounds array accessout-of-bounds accessout-of-bounds memory accessout-of-bounds write
+400	XSSCross-site Scripting (XSS) - Storedstored XSSStored XSS
+401	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedCross-site Scripting (XSS)Cross Site Scripting (XSS
+402	Server-Side Request Forgery (SSRF)Cross-site Scripting (XSS) - StoredCross-Site Request Forgery (CSRF)Cross-site request forgery (CSRF
+403	Denial of Service (DoS)Denial of Servicedenial of serviceRace condition
+404	man-in-the-middle attacksman-in-the-middle attackauthentication bypassman-in-middle attacks
+405	Cross-site scripting (XSS) vulnerabilitycross-site scripting (XSS) vulnerabilitycross site scriptingcross-site scripting (XSS
+406	MITM attackauthorization bypassbypass the signature verificationbypass the signature validation
+407	LDAP injectionCross-site scripting (XSS)bypass intended access restrictionsCross-site Scripting
+408	Cross-site Scripting (XSS) - Storedstored XSSStored XSSStored Cross-Site Scripting
+409	privilege escalationImproper Privilege ManagementPrivilege EscalationPrivilege Escal
+410	heap-based buffer overflowHeap-based buffer overflowout-of-bounds writeout-of-bounds array access
+411	Race conditionrace conditionrace conditionsRace Condition
+412	arbitrary codearbitrary code executionarbitrary filesarbitrary file write
+413	denial of servicemissing checkDoSmissing check for length
+414	Cross-site Scripting (XSS)XSSinformation disclosureCross-site scripting (XSS) vulnerability
+415	XSSReflected XSSReflected Cross-Site ScriptingCross-site Scripting
+416	improper access controlbypass authenticationImproper Privilege Managementbypass the authentication
+417	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedXSSCross-Site Scripting (XSS) - Stored
+418	buffer overflowBuffer overflowheap buffer overflowheap buffer underflow
+419	memory corruptionuse-after-freeinvalid memory accessinvalid memory corruption
+420	integer overflowinvalid memory addressout-of-bounds readinvalid memory access
+421	an uninitialized variableuninitialized data structurean uninitialized data structurean uninitialized structure member
+422	CSRF vulnerabilityCross-Site Request Forgery (CSRF)CSRF attacksCSRF attack
+423	NULL pointer dereferencedenial of servicedenial of service (DoS)an uninitialized variable
+424	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS)Cross-site ScriptingCross-site Scripting (XSS) - Reflected
+425	out-of-bounds readheap-based buffer overflowout-of-bounds writeHeap-based buffer overflow
+426	integer overflowinteger overflowsInteger overflowinteger overflow and heap overflow
+427	use-after-freeUse-after-free vulnerabilityuse-after-free vulnerabilityuse after free
+428	path traversal vulnerabilitydirectory traversal vulnerabilityDirectory Traversal vulnerabilityPath Traversal vulnerability
+429	Reflected XSSreflected XSSOpen RedirectReflected XSS vulnerability
+430	cross site scriptingXSSCross Site ScriptingCross-site Scripting
+431	bypass intended access restrictionsbypass the protection mechanismbypass intended access restrictions, denial of servicemishandles the origin, denial of service
+432	denial of servicean uninitialized variabledenial of service (memory corruption)denial of service, memory corruption
+433	path traversallocal file inclusionfile inclusionpath traversal vulnerability
+434	out-of-bounds readoverflowout-of-bounds writeexcessive computation
+435	directory traversalpath traversal vulnerabilitypath traversaldirectory traversal vulnerability
+436	Directory traversal vulnerabilitydirectory traversaldirectory traversal vulnerabilitypath traversal vulnerability
+437	open redirect vulnerabilityOpen Redirectopen redirectOpen redirect vulnerability
+438	crashDenial of ServiceDenial-of-ServiceDenial-of-service
+439	XML External Entity (XXE)XXEreflected XSSXML signature
+440	stored XSSStored XSSUnrestricted Upload of File with Dangerous TypeUnrestricted Upload of File
+441	out-of-bounds readOut-of-bounds Readout of bounds readout-of-bounds write
+442	XSScross-site scripting (XSS)stored XSSCross-site scripting (XSS
+443	use-after-freeUse-after-freeUse After FreeUse-after-free vulnerability
+444	arbitrary code executionremote code executionarbitrary commandsarbitrary code
+445	remote code executionlocal file inclusionpath traversal vulnerabilitypath traversal
+446	Cross-site Scripting (XSS) - Storedstored XSSstored cross-site scripting (XSS)stored cross-site scripting (XSS) vulnerability
+447	improper input validationunsanitized inputlacks injectionlacks parameter validation
+448	command injectionremote code executionremote attackers to execute arbitrary commandsremote attackers to execute arbitrary code
+449	out-of-bounds readbuffer overflowBuffer overflowout-of-bounds write
+450	Open Redirectopen redirectopen redirect vulnerabilityOpen redirect vulnerability
+451	NULL pointer dereferencean uninitialized variabledenial of servicemishandles a crash
+452	unauthorized accessauthentication bypassunauthorized users to accessunauthorized users to obtain access
+453	weak password hashing algorithmbypass authenticationweak password hashingleak of password hashes
+454	null pointer dereferencebuffer overflowmemory corruptionnull pointer derefence
+455	denial of servicestored XSSstored XSS vulnerabilityImproper Neutralization of Input During Web Page Generation
+456	bypassexposedbypass authorizationbypass the authorization
+457	Denial of Service (DoS)Denial of Servicedenial of serviceRegular Expression Denial of Service
+458	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Stored XSSStored Cross-Site Scripting (XSS)stored XSS
+459	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedHTML injectionXSS
+460	insufficient access controlbypassinsufficient authorizationinsufficient access
+461	sensitive informationunauthorized accessbypass intended access restrictionsunauthorized user access
+462	XSSXSS vulnerabilityremote code executionXML External Entity Injection
+463	Stored Cross-Site Scripting (XSS)Reflected Cross-Site Scripting (XSS)Stored Cross-Site ScriptingStored Cross Site Scripting (XSS
+464	denial of servicebypassunsanitized user inputbypass the sandbox protection
+465	denial of serviceDenial of ServiceDenial of Service (DoS)uninitialized variable
+466	infinite loopOut-of-bounds ReadOut-of-bounds readOut-of-bounds write
+467	command injectioncommand injection vulnerabilityCommand InjectionOS command injection
+468	Cross-site Scripting (XSS) - Storedstored XSSStored Cross-Site ScriptingImproper Neutralization of Input During Web Page Generation
+469	Heap-based Buffer OverflowOut-of-bounds ReadHeap-based buffer overflowOut-of-bounds Write
+470	heap-based buffer overflowHeap-based buffer overflowdenial of servicedouble-free vulnerability
+471	denial of servicedouble freeuse-after-freemisinterprets the return value
+472	unauthorized accessauthentication bypassunauthorized users to obtain sensitive informationunauthorized users to obtain sensitive data
+473	bypass the CSRCEbypass the CSRF protection mechanismbypass the CSRF protectionbypass the CSRF check
+474	path traversalpath traversal vulnerabilitycontent spoofingdirectory traversal
+475	SSRFSSRF vulnerabilityCross-site scripting (XSS) vulnerabilitycross-site scripting (XSS
+476	Improper Access ControlMissing Authorizationimproper access controlImproper Privilege Management
+477	XSSStored Cross-Site ScriptingStored XSSImproper Neutralization of Input During Web Page Generation ('Cross-site Scripting
+478	out-of-bounds readout-of-bounds writeBuffer overflowheap-based buffer overflow
+479	denial of servicean invalid pointer dereferencean invalid memory accessan invalid pointer dereference flaw
+480	CSRFCSRF attackCSRF protectionCSRF token
+481	command injectionremote code executionOS Command Injectionremote command execution
+482	improper access controlInsecure Direct Object ReferenceImproper Access ControlPrivilege escalation
+483	man-in-the-middle attacksman-in-the-middleman-in-the-middle attackinvalid memory access
+484	SQL injectionSQL InjectionSQL injection vulnerabilityImproper Neutralization
+485	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')stored cross-site scripting (XSS)Cross-site Scripting (XSS) - Storedstored cross-site scripting (XSS) vulnerability
+486	Insufficient Session ExpirationInsufficient Session Excessive Authenticationinsecure temporary fileInsufficient Session Excessive Session Expiration
+487	deserializationImproper Input Validationdeserialization of arbitrary datadeserialization of arbitrary code
+488	remote code executionRemote Code Executionabsolute path traversalRemote Code Execution (RCE
+489	denial of servicestack-based buffer overflowstack-based buffer overflowsdenial of service (DoS
+490	SSRFreflected cross-site scripting (XSS)Server-Side Request Forgery (SSRF)Cross-site scripting (XSS
+491	XSSXSS vulnerabilitycross site scriptingCross-site Scripting
+492	stored cross-site scripting (XSS)stored cross-site scripting (XSS) vulnerabilityStored Cross-Site Scripting (XSS)stored cross-site scripting (XSS) vulnerability
+493	buffer overflowheap buffer overflowBuffer overflowbuffer overflows
+494	use-after-freeuse after freeRace conditionrace condition
+495	path traversalremote code executionunauthorized accessunauthorized users
+496	remote code executionRemote Code ExecutionRemote Code Execution (RCE)Server-Side Request Forgery
+497	use-after-freeNULL pointer dereferencea crasha connection race condition
+498	arbitrary commandsarbitrary codearbitrary OS commandsarbitrary code execution
+499	regular expression denial of serviceRegular Expression Denial of ServiceCORS restrictionsregular expression denial of service (DoS
+500	authentication bypassimproper validationimproperly validate the JWT tokenimproperly verify the signature
+501	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')stored cross-site scripting (XSS)cross-site scripting (XSS)stored cross-site scripting
+502	infinite loopexcessive memory usageexcessive memory consumptionexcessive memory allocation
+503	denial of serviceout-of-bounds readout-of-bounds writeinteger overflow
+504	access controlbypass intended access restrictionsimproper access controlimproperly check permissions
+505	Heap-based Buffer OverflowOut-of-bounds ReadHeap-based buffer overflowOut-of-bounds Write
+506	SQL injectionsql injectionSQL InjectionSQL injection vulnerability
+507	use after freeUse After Freeuse-after-freedouble-free
+508	denial of serviceDenial of Service (DoS)Denial-of-ServiceDenial of Service
+509	stored XSS vulnerabilityCross-site Scripting (XSS) - StoredXSSstored XSS
+510	signature verification issuesignature verification flawsignature mismatchsignature verification error
+511	denial of servicerace conditionRace conditiondouble-free
+512	Cross-site Scripting (XSS) - ReflectedCross-site scripting (XSS) vulnerabilityCross-site Scripting (XSS) - Storedcross-site scripting (XSS
+513	command injectionarbitrary commandsuntrusted user inputarbitrary code execution
+514	path traversalpath traversal vulnerabilityPath Traversalpath traversal attack
+515	NULL Pointer DereferenceBuffer OverflowNULL pointer dereferenceHeap-based buffer overflow
+516	cross site scriptingcross-site scripting (XSS)cross-site scriptingcross site scripting (XSS
+517	privilegesprivilege escalationbypass intended access restrictionsbypass intended restrictions
+518	remote code executionlocal privilege escalationarbitrary code executionarbitrary code
+519	denial of serviceDenial of ServiceDenial of Service (DoS)denial of service (DoS
+520	improper authorizationimproper access controlimproper authenticationimproperly validate user input
+521	sql injectionSQL injectionsql injectionsinformation disclosure
+522	authentication bypassprivilege escalationexposed credentialsexposed secret key
+523	improper access controlimproper authorizationauthentication bypassunauthorized access
+524	denial of servicedenial of service (NULL pointer dereference)Denial of ServiceDenial of Service (DoS
+525	out-of-bounds readout-of-bounds accessout-of-bounds writeout of bounds read
+526	arbitrary file uploadfile inclusioninsecure file inclusionarbitrary file inclusion
+527	denial of serviceheap-based buffer overflowheap-based buffer over-readsegmentation fault
+528	remote code executioncommand injectioncommand executionarbitrary code execution
+529	Heap-based Buffer OverflowOut-of-bounds ReadOut-of-bounds WriteBuffer Overflow
+530	XSSscript executionpersistent XSSpersistent XSS vulnerability
+531	Cross-site Scripting (XSS) - Storedstored cross-site scripting (XSS)Cross-Site Request Forgery (CSRF)Cross-site Scripting (XSS) - Storing
+532	Stored XSSStored Cross-Site Scripting (XSS)Stored Cross-Site Scriptingstored XSS
+533	SQL injectionSQL Injectionsql injectionSQL injection attacks
+534	denial of servicememory corruptionmemory leakdenial of service (memory corruption
+535	NULL pointer dereferenceNULL Pointer Dereferencenull pointer dereferenceNULL pointer dereference and crash
+536	an uninitialized data structurean uninitialized structure membersensitive informationan uninitialized variable
+537	Cross-Site Request Forgery (CSRF)cross-site request forgery (CSRF)cross-site request forgeryCross-Site Request Forgery
+538	stack-based buffer overflowout-of-bounds readstack-based buffer over-readout-of-bounds write
+539	Prototype PollutionPrototype pollutionPrototype pollution vulnerabilityRemote Code Execution
+540	Denial of Service (DoS)Denial of Servicedenial of serviceDenial-of-Service
+541	man-in-the-middle attacksman-in-the-middle attackman-in-middle attacksman-in-middle attack
+542	privilege escalationauthentication bypassaccess controlexposed
+543	denial of servicedenial-of-serviceDenial of Servicedenial-of-Service
+544	SQL InjectionImproper Access ControlSQL injectionImproper Neutralization of Input During Web Page Generation ('Cross-site Scripting
+545	Unrestricted Upload of File with Dangerous Typearbitrary file uploadunrestricted file uploadarbitrary files
+546	out-of-bounds readout-of-bounds writeRequest timed out.off-by-one error
+547	NULL pointer dereferencedenial of serviceout-of-bounds readout-of-bounds write
+548	infinite loopInfinite loopdirectory traversalinformation disclosure
+549	buffer over-readBuffer over-readbuffer-readbuffer overread
+550	Server-Side Request Forgery (SSRF)server-side request forgery (SSRF)server-side request forgeryServer-side Request Forgery (SSRF
+551	Buffer OverflowBuffer overflowHeap buffer overflowHeap-based buffer overflow
+552	stack-based buffer overflowstack overflowbuffer overflowheap-based buffer overflow
+553	arbitrary commandsarbitrary codecommand injectionOS command execution
+554	Improper Access Controlimproper access controlImproper AuthorizationImproper Restriction
+555	denial of serviceDenial of Servicedenial-of-servicerequest smuggling
+556	Cross-site Scripting (XSS) - StoredXSSStored Cross-Site Scripting (XSS)Stored Cross-Site Scripting
+557	Cross-site scripting (XSS) vulnerabilityXSSCross-site scripting (XSS)cross-site scripting (XSS
+558	denial of serviceRace conditionrace conditiona race condition
+559	Buffer Overflowbuffer overflowBuffer overflowBuffer Over-read
+560	improper authenticationImproper AuthorizationAuthorization Bypassunauthorized user
+561	SQL injectionCross-Site Request Forgery (CSRF)cross-site scripting (XSS)Cross-site scripting (XSS
+562	Buffer OverflowBuffer overflowHeap buffer overflowHeap-based buffer overflow
+563	authentication bypassbypass authenticationbypass the authenticationbypass the authentication mechanism
+564	denial of servicean uninitialized variablean invalid pointer dereferencedenial of service (NULL pointer dereference
+565	denial of servicean uninitialized variabledenial of service (memory corruption)denial of service (memory consumption
+566	cross site scriptingXSScross site scripting (XSS)cross-site scripting
+567	out-of-bounds readout-of-bounds accessout-of-bounds writeout-of-bound read
+568	cross-site scripting (XSS)cross-site scriptingcross site scriptingXSS
+569	denial of serviceDenial of Serviceuncaught exceptionDenial of Service (DoS
+570	arbitrary file uploadfile uploadRemote Code Executionunrestricted upload
+571	Cross-site scripting (XSS) vulnerabilitycross site scriptingcross-site scripting (XSS)cross-site scripting (XSS) vulnerability
+572	remote code executionRemote Code Executionpassword resetremote attackers to obtain sensitive information
+573	Improper Neutralization of Input During Web Page GenerationImproper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Improper Access Controlimproperly validate input
+574	command injectionCommand Injectionremote code executionexecuting code in arbitrary commands
+575	sensitive informationinformation disclosureinformation leakageinformation exposure
+576	Server-Side Request Forgery (SSRF)Cross-site Scripting (XSS) - StoredCross-Site Request Forgery (CSRF)Stored Cross-Site Scripting (XSS
+577	remote code executionUnrestricted Upload of File with Dangerous TypeRemote Code ExecutionRemote File Inclusion
+578	stored XSSXSSstored XSS vulnerabilityXSS vulnerability
+579	sensitive informationunauthorized accesslocal file inclusionaccess sensitive information
+580	Cross-site Scripting (XSS) - StoredCross-Site Scripting (XSS)Cross-site Scripting (XSS) - ReflectedXSS
+581	uninitialized variableuninitialized stack memoryuninitialized data structurean uninitialized variable
+582	denial of servicedenial of service (DoS)heap-based buffer overflowdenial-of-service
+583	SQL injectionsql injectionSQL InjectionSQL injection vulnerability
+584	Heap-based Buffer OverflowBuffer OverflowOut-of-bounds ReadHeap-based buffer overflow
+585	header injectionheaders injectioncross-site scriptingHTTP header injection
+586	improper access controlaccess controlunauthorized accessinformation disclosure
+587	deserializationDeserialization of Untrusted DataDeserialization of Untrusted datadeserialization vulnerability
+588	double freedouble free vulnerabilitydouble-freedouble-free vulnerability
+589	use-after-freea use-after-freeUse-after-freeUse-after-free vulnerability
+590	reflected XSSobject injectioninjectionarbitrary code
+591	XSSSSRFJavaScript payload injectionJavaScript payload
+592	cross site scriptingcross-site scripting (XSS)cross-site scriptingCross-site Scripting
+593	integer overflowInteger overflowbuffer overflowinteger overflow and heap overflow
+594	uninitialized datauncontrolled resource consumptionuntrusted search pathuntrusted user input
+595	Open Redirectopen redirect vulnerabilityopen redirectOpen redirect vulnerability
+596	command injectionremote code executionCommand Injectionarbitrary commands
+597	SQL injection vulnerabilitySQL injectionSQL injection vulnerabilitiesCross-site Scripting
+598	XSSReflected XSSReflected Cross-Site ScriptingCross-site Scripting
+599	Server-Side Request Forgery (SSRF)open redirect vulnerabilityserver-side request forgerySSRF vulnerability
+600	cross site scriptingXSSreflected XSSreflected XSS vulnerability
+601	Cross-Site Request Forgery (CSRF)CSRF vulnerabilityCross-site request forgery (CSRF)Cross-Site Request Forgery
+602	excessive memory consumptionhost header overflowexcessive CPU consumptionmaxHeading limit
+603	local privilege escalationbypass authenticationbypass the authenticationarbitrary user authentication
+604	XSSXSS vulnerabilitycross-site scriptingCross-site Scripting attack
+605	heap-based buffer over-readarbitrary code executionmemory corruptionheap-based buffer overflow
+606	integer overflowRace conditionstack overflowstack-based overflow
+607	NULL pointer dereferencenull pointer dereferenceNULL Pointer Dereferencedenial of service
+608	DoS due to lack of an EOF checkDoSRequest timed out.DoS due to lack of EOF check
+609	Unrestricted Upload of File with Dangerous Typeunrestricted uploadunrestricted file uploadinformation disclosure
+610	sql injectionSQL injection SQL injectionsql injection, injection
+611	unauthorized accessImproper Access Controlimproper access controlunauthorized access to access
+612	connection racea connection racea connection race conditiona connection race from a peer
+613	out-of-bounds readstack-based buffer overflowstack-based buffer over-readout-of-bounds access
+614	bypass intended access restrictionsbypassarbitrary codebypass intended restrictions
+615	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedStored Cross-Site Scripting (XSS)Cross-Site Scripting (XSS
+616	cross-site scripting (XSS)cross-site scriptingCross-site scripting (XSS)XSS
+617	command injectionCommand Injectioncommand injection vulnerabilityinjection
+618	cache poisoningcache poisoning vulnerabilitytiming attackheap-based key
+619	command injectionCommand Injectionremote code executionArbitrary Code Execution
+620	xml external entity referenceremote code executionlocal file inclusionXXE attacks
+621	crashdenial of servicememory corruptionmishandles a crash
+622	Cross-site Scripting (XSS) - StoredXSSstored XSSCross-site Scripting (XSS) - Reflected
+623	Buffer overflowbuffer overflowheap-based buffer overflowheap-buffer overflow
+624	NULL pointer dereferencecrasharbitrary codearbitrary OS commands
+625	remote code executionarbitrary code executioncommand injectionarbitrary commands
+626	improper access controlImproper Access Controlmissing authorizationimproper access controls
+627	Regular Expression Denial of Service (ReDoS)ReDoSregular expression denial of serviceCRLF injection vulnerability
+628	out-of-bounds readout-of-bounds accessOut-of-bounds Readout-of-bounds write
+629	XSSstored XSScross-site scriptingImproperly sanitization
+630	bypassbypass intended access restrictionsbypass the IP checkbypass the check
+631	Cross Site Scripting (XSS)Cross Site ScriptingCross site Scripting (XSS)Cross-site Scripting
+632	race conditiondenial of servicea race conditiondenial of service, memory corruption
+633	remote code executionarbitrary codearbitrary code executionmishandles the module parameter
+634	Prototype PollutionPrototype pollution vulnerabilityPrototype Pollution vulnerabilityPrototype pollution
+635	bypass authenticationaccount takeoverIncorrect Access Controlbypass the authentication
+636	unsafe deserializationarbitrary codearbitrary code executionunsafe user input
+637	reflected XSS vulnerabilityreflected XSSReflected XSS vulnerabilityXSS vulnerability
+638	bypassbypass intended access restrictionsbypass authorizationbypass intended authorization restrictions
+639	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedStored Cross-Site Scripting (XSS)Stored Cross-Site Scripting
+640	SQL injectionsql injectionCode InjectionIncorrect Injection
+641	Server-Side Request Forgery (SSRF)open redirectopen redirect vulnerabilityServer-Side Request Forgery
+642	denial of serviceheap-based buffer overflowout-of-bounds readout-of-bounds write
+643	Prototype PollutionPrototype pollutionPrototype pollution vulnerabilityprototype pollution
+644	Cross-site scripting (XSS) vulnerabilitycross site scriptingcross-site scripting (XSS) vulnerabilitycross-site scripting (XSS
+645	remote code executionRemote Code ExecutionRemote Code Execution (RCE)Remote Code Execution (RCE) - Stored
+646	Authentication Bypassman-in-the-middle attackman-in-the-middle attacksman-in-the-middle
+647	improper access controlbypass intended access restrictionsImproper Access Controlunauthorized access
+648	out-of-bounds readout of array readout of array accessinteger signedness error
+649	exposedmissing checkbypasstoken exposure
+650	denial of serviceRequest timed out.double freedouble-free
+651	SQL injectionsql injectionSQL injection vulnerabilitySQL Injection
+652	Improper AuthorizationImproper Authenticationimproper authenticationimproperly validated password
+653	Remote Code ExecutionRemote Code Execution (RCE)Arbitrary Code ExecutionArbitrary File Injection
+654	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Cross-site Scripting (XSS) - StoredStored XSSImproper Input Validation
+655	denial of servicecrashsegfaulta crash
+656	NULL pointer dereferencedenial of serviceRequest timed out.denial of service (NULL
+657	cross-site scripting (XSS) vulnerabilitiescross-site scripting (XSS)Cross-site scripting (XSS) vulnerabilitycross-site scripting (XSS) vulnerability
+658	denial of serviceuse-after-freedenial of service (DoS)use-after-free vulnerability
+659	reflected XSSImproper input validationImproper Input Validationlocal users to read arbitrary files
+660	arbitrary file uploadarbitrary file upload vulnerabilityarbitrary code executionarbitrary file upload, XSS attack
+661	Stored XSSCross-Site Request Forgery (CSRF)Stored Cross-Site ScriptingStored XSS due to insufficient File Upload
+662	Prototype Pollutionprototype pollutiontype confusionimproperly controlled prototype
+663	Prototype PollutionPrototype pollutionprototype pollutionPrototype pollution vulnerability
+664	out-of-bounds readdenial of serviceout-of-bounds accessinvalid memory access
+665	denial of servicedenial of service (memory corruption)Denial of servicedenial of service (DoS
+666	deserializationdeserialization vulnerabilitydeserialization of arbitrary codedeserialization of arbitrary data
+667	Server-Side Request Forgery (SSRF)SSRF protection bypassserver-side request forgery (SSRF)server-side request forgery
+668	use-after-free vulnerabilityuse-after-freeuse-after-free flawUse-after-free vulnerability
+669	access controlarbitrary accesscleartext credentialsarbitrary files
+670	cross-site scripting (XSS)Cross-site scripting (XSS) vulnerabilitystored cross-site scripting (XSS)Cross-site Scripting (XSS
+671	Heap-based Buffer OverflowHeap-based buffer overflowheap-based buffer overflowsegmentation fault
+672	cross site scriptingXSSCross-site ScriptingCross-site scripting
+673	use-after-freeuse after freerace conditionuse after free vulnerability
+674	cross site scriptingcross-site scriptingcross site scripting (XSS)cross-site scripting (SS
+675	Cross-Site Request Forgery (CSRF)CSRFCross-Site Request ForgeryCSRF vulnerability
+676	denial of servicedenial of service (DoS)DoS due to lack of an EOF checkdenial-of-service
+677	XSSreflected XSScross-site scripting (XSS)Cross-site Scripting
+678	Server-Side Request Forgery (SSRF)Server Side Request Forgery (SSRF)Improper AuthorizationSSRF vulnerability
+679	improper authenticationimproper input validationimproper authorizationunauthorized access
+680	Buffer Over-readBuffer Overflowstack-based buffer overflowheap-based buffer overflow
+681	buffer overflowheap buffer overflowBuffer overflowheap-buffer overflow
+682	heap buffer overflowbuffer overflowBuffer overflowheap-buffer overflow
+683	Path TraversalImproper Input Validationarbitrary filesarbitrary file read
+684	Path Traversalpath traversalabsolute path traversalPath traversal
+685	improper access controlprivilege escalationPrivilege escalationimproper access controls
+686	Heap-based Buffer OverflowHeap-based buffer overflowMemory leakNULL pointer dereference
+687	remote code executionImproper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Stored XSSImproperly sanitization
+688	Open Redirectopen redirectServer-Side Template InjectionURL Redirection to Untrusted Site
+689	NULL pointer dereferenceNULL Pointer Dereferencenull pointer dereferenceNULL pointer dereference and crash
+690	Cross-site Scripting (XSS) - StoredCross-Site Request Forgery (CSRF)Cross-Site Scripting (XSS)Cross-Site Scripting (XSS) - Stored
+691	path traversalPath Traversaldirectory traversalpath traversal vulnerability
+692	cross site scriptingcross-site scripting (XSS)cross-site scriptingstored cross-site scripting
+693	cross-site request forgeryCross-Site Request Forgery (CSRF)cross-site request forgery (CSRF)Cross-site request forgery (CSRF
+694	cross site scriptingcross-site scriptingstored cross-site scriptingCross-site Scripting
+695	Regular Expression Denial of ServiceRegular Expression Denial of Service (ReDoS)regular expression denial of serviceregular expression injection
+696	unauthorized accesscommand injectionimproper access controlunauthorized access to access control
+697	cross-site scriptingstored XSSstored cross-site scriptingXSS
+698	cross site scriptingXSSstored cross site scriptingcross-site scripting
+699	improper access controlImproper Access Controlunauthorized accessInsecure Direct Object Reference
+700	information disclosurebypassleakagebypass intended access restrictions
+701	Cross-site Scripting (XSS) - Storedcross site scriptingcross-site scripting (XSS)Cross-site Scripting (XSS) - Reflected
+702	Cross-Site Request Forgery (CSRF)CSRF attackCSRF attacksCSRF protection bypass
+703	integer overflowheap-based buffer overflowInteger OverflowHeap-based buffer overflow
+704	stored XSSstored cross-site scripting (XSS)stored cross-site scriptingCSRF issue
+705	NULL pointer dereferenceRequest timed out.improperly validate user inputimproperly validate the user input
+706	heap-based buffer overflowuninitialized dataout-of-bounds writeout-of-bounds memory
+707	segfaultdenial of serviceDenial of Servicesegmentation fault
+708	out-of-bounds readOut-of-bounds Readout-of-bounds accessout-of-bounds write
+709	denial of serviceDenial of ServiceDenial of Service (DoS)denial of service (DoS
+710	denial of serviceuninitialized pointerimproper access controlimproperly restrict access
+711	DoSdenial of servicedenial of service (DoS)incorrect authorization
+712	denial of serviceDenial of Service (DoS)denial of service (DoS)denial of service (NULL pointer dereference
+713	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Stored XSSImproper input validationInsecure Direct Object Reference
+714	stack-based buffer overflowstack overflowstack buffer overflowbuffer overflow
+715	command injectionbuffer overflowuninitialized memory corruptionremote attackers to execute arbitrary memory
+716	arbitrary code executionremote code executionarbitrary codearbitrary commands
+717	Regular Expression Denial of Service (ReDoS)Authorization Bypass Through User-Controlled Keyunsanitized user inputRegular Expression Denial of Service
+718	denial of servicedenial-of-serviceDenial of Servicedenial of service (DoS
+719	Out-of-bounds Readout-of-bounds readStored XSSout-of-bounds write
+720	heap-based buffer overflowout-of-bounds writestack-based buffer overflowout-of-bounds read
+721	denial of serviceuntrusted inputdenial-of-servicedenial-of-Service
+722	unauthorized accessbypassbypass the authenticationunauthorized users to gain privileges
+723	cross site scriptingstored cross-site scriptingStored Cross-Site ScriptingCross-site Scripting
+724	remote code executioninformation leakageimproper input validationunauthorized users to obtain sensitive information
+725	connection racea connection race from a malicious local peera connection race from the local peera connection race from a local peer
+726	denial of servicesegfaultdenial-of-servicedenial of service (DoS
+727	improper authorizationimproper validationImproper Authorizationimproperly validate privileges
+728	SQL injectionSQL Injectionsql injectionSQL injection vulnerabilities
+729	an uninitialized data structurean uninitialized structure memberan uninitialized variablean uninitialized data structures
+730	insufficient content restrictionsinsufficient restrictionsinsufficient access restrictionsinsufficiently restricted content restrictions
+731	open redirect vulnerabilityOpen Redirectopen redirectOpen redirect vulnerability
+732	denial of serviceDenial of ServiceDenial of Service (DoS)denial of service (DoS
+733	token leakagelogging vulnerabilitylogic vulnerabilityimproperly validate user input
+734	directory traversalDirectory traversal vulnerabilitypath traversalDirectory Traversal
+735	unauthorized accessbypassOpen Redirectunauthorized user
+736	integer overflowInteger overflowout-of-bounds writeout-of-bounds read
+737	path traversalDirectory traversal vulnerabilitydirectory traversalpath traversal vulnerability
+738	heap use after freeinvalid pointer dereferencedouble freeheap buffer overflow
+739	SQL injectionStored XSSStored Cross-Site ScriptingStored Cross Site Scripting
+740	denial of serviceimproper input validationdenial of service (DoS)improperly validate input
+741	leakage of user inputleakage of the user inputleakage of user emailleakage of user email emails
+742	sql injectionSQL injectionSQL Injectionarbitrary SQL queries
+743	directory traversalpath traversalDirectory traversal vulnerabilitydirectory traversal attacks
+744	Cross-site Scripting (XSS) - StoredCross-Site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)Cross-Site Scripting (XSS
+745	Cross-site Scripting (XSS) - StoredServer-Side Request Forgery (SSRF)Cross-Site Request Forgery (CSRF)Stored XSS
+746	command injectionCommand InjectionCommand injectionOS Command Injection
+747	OS Command InjectionOS command injectionarbitrary code executionarbitrary code
+748	Improper Access ControlImproper AuthorizationServer-Side Request Forgery (SSRF)Improper Restriction of Excessive Authentication Attempts
+749	password resetbrute-forcepredictable passwordleak the password
+750	heap-based buffer overflowheap buffer overflowheap overflowNULL pointer dereference
+751	denial of serviceout-of-bounds readout-of-bounds accessout-of-bounds read and system
+752	information disclosureinformation exposureinformation leakagesensitive information
+753	Improper Access Controlunauthorized accessPrivilege EscalationPrivilege Escalation of Access Control
+754	Prototype PollutionPrototype pollution vulnerabilityPrototype pollutionimproperly validated input
+755	insufficient content restrictionsIncorrect Access Controlarbitrary file deletionarbitrary file read
+756	denial of serviceregular expression denial of servicedenial of service (DoS)Regular Expression Denial of Service
+757	integer overflowInteger overflowinteger underflowInteger signedness error
+758	cookie leakageServer-Side Request Forgery (SSRF)server-side request forgery (SSRF)server-side request forgery
+759	SQL injectionSQL injection vulnerabilitiesSQL injection vulnerabilitySQL injection attacks
+760	Cross Site Scripting (XSS)Cross Site ScriptingXSS Cross Site Scripting (XSS
+761	sql injectionSQL injectionSQL Injectionquery-sql injection
+762	remote code executionimproper access controlarbitrary commandsarbitrary code
+763	Improper Authorizationman-in-the-middleleak the SSL certificate validationleak the SSL certificate
+764	use-after-freerace conditionuse after freeRace condition
+765	denial of serviceInteger overflowArray index errorinteger overflow
+766	denial of servicedenial of service, memory corruptiondenial of service (DoS)denial of service (NULL pointer dereference
+767	Cross-site Scripting (XSS) - StoredCross-Site Request Forgery (CSRF)stored cross-site scripting (XSS)XSS
+768	race conditionRace conditionrace conditionsa race condition
+769	Buffer overflowstack-based buffer overflowBuffer OverflowOut-of-bounds Read
+770	sensitive informationprivilege escalationinformation disclosuresensitive information exposure
+771	arbitrary code executioncommand injectionarbitrary code injectioncode injection
+772	HTTP request smugglingSSRFServer-Side Request ForgeryImproperly sanitization
+773	NULL Pointer DereferenceHeap-based Buffer OverflowBuffer OverflowOut-of-bounds Read
+774	Cross-site Scripting (XSS) - StoredCross-site scripting (XSS) vulnerabilityXSSCross-site Scripting (XSS) - Reflected
+775	arbitrary commandsarbitrary coderemote code executioncommand injection
+776	path traversalarbitrary file readarbitrary filesarbitrary file write
+777	arbitrary file uploadRemote Code Executionarbitrary codearbitrary code execution
+778	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Stored Cross-Site Scripting (XSS)Stored XSSStored Cross-Site Scripting
+779	Request timed out.use-after-freeheap-based buffer overflowUse-after-free vulnerability
+780	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Stored XSSStored Cross-Site Scripting (XSS)Stored Cross-Site Scripting
+781	timing attackaccess controlbypass integrity checksimproper access control
+782	integer overflowInteger Overflowinteger overflow vulnerabilityout-of-service
+783	symlink attackarbitrary code executionarbitrary file readarbitrary file write
+784	account takeoverpassword resetbypass authenticationbypass the authentication
+785	insecure temporary filefile permissionsfile overwriteinsecure temporary files
+786	Cross-site Scripting (XSS) - Reflectedcross site scriptingCross Site Scripting (XSS) vulnerabilityCross Site Scripting (XSS
+787	Out-of-bounds ReadBuffer Over-readBuffer OverflowHeap-based Buffer Overflow
+788	bypass intended access restrictionsremote code executionarbitrary codearbitrary code execution
+789	unauthorized accessServer-Side Request Forgery (SSRF)absolute path traversalServer-Side Request Forgery
+790	OS command injectionOS Command InjectionOS Command injectionbypass intended restrictions
+791	remote code executionlocal file inclusionarbitrary codearbitrary code execution
+792	denial of serviceDenial of ServiceDenial of Service (DoS)denial of service (DoS
+793	path traversalPath Traversalpath traversal vulnerabilityabsolute path traversal
+794	hardcoded credentialspredictable keyspredictable hash algorithmcryptographically weak password
+795	remote code executioncommand injectionCommand InjectionRemote Code Execution
+796	cross-site request forgery (CSRF)cross-site request forgeryCross-Site Request Forgery (CSRF)CSRF attack
+797	improper access controlinformation disclosurecleartext credentialsimproperly restrict access
+798	XSSreflected XSSXSS vulnerabilityreflected XSS vulnerability
+799	Host Header Injectionhost header injectionhostname spoofingImproper Input Validation
+800	denial of servicedenial of service (NULL pointer dereference)denial of service (DoS)XSS
+801	arbitrary file uploadarbitrary file writearbitrary filesarbitrary file
+802	denial of serviceDenial of ServiceDenial of Service (DoS)denial of service (deadlock
+803	SQL injectionSQL injection vulnerabilityarbitrary SQL injectionarbitrary code execution
+804	stored XSSXSSStored XSSstored XSS attack
+805	timing attacktiming side-channel attacktiming side channeltiming side-channel attacks
+806	an uninitialized variablean uninitialized structure memberan uninitialized data structurean uninitialized structure
+807	denial of servicebypassmishandles certain lengthmishandles certain length value
+808	Prototype PollutionPrototype pollutionimproperly controlled modification of object prototype attributesimproperly controlled modification of object prototype
+809	Denial of Serviceprivilege escalationexcessive memory consumptionexcessive memory usage
+810	bypass intended access restrictionssensitive informationan uninitialized variableuninitialized data
+811	DoSDoS due to lack of an EOF checkDoS due to lack of EOF checkDoS attack
+812	improperly validate inputimproperly initialize memoryimproperly validate a valueimproperly validate the value
+813	XSSXSS vulnerabilitystored XSSarbitrary JavaScript code
+814	out-of-bounds readout-of-bounds writedenial of serviceheap-based buffer overflow
+815	buffer overflowBuffer overflowbuffer overflowsbuffer over-read
+816	remote code executionRemote Code Executionarbitrary code executionarbitrary code
+817	NULL pointer dereferenceNULL Pointer DereferenceNull Pointer DereferenceNull pointer dereference
+818	out of memorypanicheap buffer over-readheap-based buffer over
+819	improper access controlauthentication bypassaccess controlImproper access control
+820	file deletionfile inclusionfile deletion vulnerabilityfile creation vulnerability
+821	Denial of Servicedenial of serviceprivilege escalationDenial of service
+822	information leakageinformation disclosureinformation exposureinformation leak
+823	memory leaksmemory leakmemory leak vulnerabilitymemory leaks vulnerability
+824	SQL InjectionInsecure Direct Object ReferenceSQL injectionImproper Access Control
+825	XSSSQL injectionStored XSSCross-site Scripting
+826	Server-Side Request Forgery (SSRF)Authorization Bypass Through User-Controlled KeyAuthorization BypassAuthorization Bypass Through User-Controlled key
+827	denial of serviceNULL pointer dereferencenull pointer dereferencedenial of service (NULL pointer dereference
+828	improper authorizationImproper AuthorizationBusiness Logic Errorsremote code execution
+829	command injectionCommand Injectionarbitrary commandsremote command execution
+830	signature verification flawsignature verification issuesignature forgerysignature forgery (CSRF
+831	XSSstored XSSstored cross-site scriptingCross-site Scripting
+832	XSScross site scriptingCross-site scripting (XSS) vulnerabilityCross-site Scripting (XSS) - Stored
+833	an uninitialized variablean uninitialized structure memberan uninitialized data structuresensitive information
+834	information disclosureinformation exposurebypassaccess control
+835	sql injectionSQL injectionSQL Injectionsql injection, SQL injection
+836	Stored Cross-Site Scripting (XSS)Stored Cross-Site ScriptingStored XSSReflected Cross-Site Scripting (XSS
+837	denial of serviceNULL pointer dereferencedenial of service (DoS)denial of service, system crash
+838	out-of-bounds readHeap-based Buffer OverflowOut-of-bounds Readheap-based buffer over-read
+839	XSSReflected XSSReflected XSS vulnerabilityCross-site Scripting (XSS
+840	Stored Cross-Site Scripting (XSS)Reflected Cross-Site Scripting (XSS)Cross-site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS) - Stored
+841	buffer over-readbuffer over-read vulnerabilityBuffer over-readbuffer overread
+842	denial of serviceDenial of ServiceDenial of Service (DoS)Improper Neutralization of input
+843	Cross-Site Request Forgery (CSRF)Cross-Site Request ForgeryCSRF vulnerabilityCSRF
+844	Prototype PollutionPrototype pollutionobject injectionPrototype pollution vulnerability
+845	OS Command Injectionarbitrary commandsarbitrary coderemote code execution
+846	cross site scriptingXSScross-site scriptingCross-site Scripting
+847	XSScross site scriptingReflected XSSCross-site Scripting
+848	path traversal vulnerabilitypath traversal vulnerabilitiesinformation disclosurepath traversal
+849	Host Header InjectionCSRFCross-Site Request ForgeryImproperly sanitized
+850	denial of serviceheap-use-after-freeheap out-of-bounds writeheap out-of-bounds
+851	bypass intended restrictionsbypass intended access restrictionsbypass intended filesystem restrictionsbypass intended restrictions, restrictions
+852	information disclosureinformation leakinformation leakageleak
+853	double freeuse after freeDouble freeuse-after free
+854	Code Injectioncommand injectionremote code executionRemote Code Execution
+855	XSScross site scriptingcross-site scriptingCross-site Scripting
+856	denial of serviceDenial of Servicedouble-freedouble free
+857	Cross-site Scripting (XSS) - StoredCross-site scripting (XSS) vulnerabilitycross-site scripting (XSS)stored XSS
+858	Race conditionrace conditionRequest timed out.improperly restrict access
+859	denial of serviceimproper input validationdenial of service (NULL pointer dereference)denial of service (DoS
+860	stack-based buffer overflowbuffer overflowBuffer overflowBuffer Overflow
+861	Use After FreeHeap-based Buffer Overflowdouble freeHeap-based buffer overflow
+862	Cross-site Scripting (XSS) - Storedcross-site scripting (XSS)stored cross-site scripting (XSS)cross-site scripting
+863	buffer overflowbuffer over-readbuffer overflowsBuffer overflow
+864	heap-based buffer overflowBuffer overflowbuffer overflowheap-buffer overflow
+865	XSSStored XSSstored XSSCross-site Scripting
+866	buffer over-readbuffer over-readsbuffer over-readablebuffer over-buffer over
+867	divide-by-zeroheap-based buffer over-readdivide-by-zero errordivide-by-zero-zero
+868	remote code executiontype confusionoutput sanitizationuntrusted user
+869	SQL injectionSQL InjectionSQL injection vulnerabilitySQL injection vulnerabilities
+870	denial of servicean uninitialized variablean assertion failurean uninitialized data structure
+871	SQL injectionSQL InjectionSQL injection vulnerabilityCross-site scripting
+872	Regular Expression Denial of Service (ReDoS)regular expression denial of serviceRegular Expression Denial of Serviceunsanitized input
+873	infinite loopinfinite loop vulnerabilityDenial of Service (DoS)Denial of Service (DoS) due to an EOF check
+874	ReDoS vulnerabilityReDoSReDoS, DoS vulnerabilityReDoS, DoS
+875	integer overflowInteger overflowoverflowout-of-bounds write
+876	denial of servicedenial of service (NULL pointer dereference)denial-of-servicedenial of service (NULL pointer dereference and application crash
+877	denial of serviceinvalid pointer dereferenceuninitialized data structureinteger underflow
+878	man-in-the-middle attacksbypass authenticationauthentication bypassman-in-the-middle attack
+879	ReDoSregular expression denial of serviceReDoS (DoS)ReDoS (ReDoS
+880	remote code executionlocal privilege escalationcode executionlocal users to obtain sensitive information
+881	Cross-Site Request Forgery (CSRF)Cross-site Scripting (XSS) - StoredStored XSSStored Cross-Site Scripting (XSS
+882	cross-site scriptingcross site scriptingstored cross-site scriptingCross-site Scripting
+883	Cross-Site Request Forgery (CSRF)Improper Neutralization of Input During Web Page GenerationImproper AuthorizationCross-Site Request Forgery
+884	Heap-based Buffer OverflowMemory leakheap-based buffer overflowdouble-free vulnerability
+885	NULL pointer dereferencenull pointer dereferencedenial of servicedenial of service (memory corruption
+886	denial of serviceDenial of Servicean uninitialized variableDenial of Service (DoS
+887	SQL injectionSQL injection vulnerabilitySQL Injectionarbitrary code
+888	untrusted user inputURL Redirection to Untrusted Siteuntrusted inputURL Redirection to Untrusted Data
+889	denial of servicemishandles validation, denial of servicemishandles validationmishandles the validation of results
+890	injectionSQL injectionXSSIncorrect Access Control
+891	denial of serviceincorrect error handlingdenial of service (DoS)incorrect error
+892	path traversalbypassunauthenticated userunauthenticated remote code
+893	memory exhaustionDenial of ServiceDenial of Service (DoS)unauthenticated users to read access
+894	an uninitialized variablean uninitialized structureman-in-the-middle attacksman-in-the-middle attack
+895	OS Command InjectionImproper Neutralization of Input During Web Page GenerationImproper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Improperly sanitized
+896	SSRFServer-Side Request Forgery (SSRF)SSRF vulnerabilityCross-Site Request Forgery (CSRF
+897	stack buffer overflowout-of-bounds writebuffer overflowout-of-bounds read
+898	NULL pointer dereferencedenial of serviceDenial of Serviceheap-based buffer overflow
+899	improper access controlimproper authorizationaccess controlimproper access controls
+900	sql injectionSQL injectionsql injection vulnerabilitySQL injection vulnerability
+901	regular expression denial of servicedenial of servicearbitrary code executionRegular Expression Denial of Service
+902	denial of servicebypass intended access restrictionsman-in-the-middle attacksman-in-the-middle attack
+903	bypass intended access restrictionssymlink attacklocal users to gain privilegesimproperly restrict access
+904	denial of servicean uninitialized variablea crashdenial of service (DoS
+905	bypass intended access restrictionsinvalid memory accessinvalid memory address accessimproperly validate the user input
+906	inefficient regular expression complexityinsufficient controlinefficient regular expressionsinefficient regular expression
+907	Path TraversalRemote Code ExecutionArbitrary File WriteArbitrary File Upload
+908	command injectionremote code executioncommand executionlocal privilege escalation
+909	missing checkimproper validationmishandles the signature of a missing parametermishandles the signature verification of the system
+910	improper validationlack of parameter validationimproper validation of inputlack of parameter validation and policy
+911	Server-Side Request Forgery (SSRF)server-side request forgeryserver-side request forgery (SSRF)server-side request forgery (SSRF) attacks
+912	Weak Password RequirementsWeak Password Recovery MechanismImproper AuthenticationImproper Handling of Special Elements
+913	HTTP request smugglingHTTP header injectionHTTP Response SplittingHTTP Response Header Injection
+914	Cross-Site Request Forgery (CSRF)Cross Site Scripting (XSS)Cross Site Request Forgery (CSRF)Cross-Site Scripting (XSS
+915	path traversaldirectory traversalarbitrary filesarbitrary file write
+916	access controlarbitrary accessarbitrary codeimproper access control
+917	Cross-site scripting (XSS) vulnerabilitycross-site scripting (XSS) vulnerabilitiescross-site scripting (XSS) vulnerabilityXSS
+918	Missing AuthorizationImproper Access ControlCross-Site Request Forgery (CSRF)Improper Neutralization of Input During Web Page Generation
+919	bypassbypass intended access restrictionsbypass of access restrictionsbypass of arbitrary files
+920	denial of serviceimproper input validationImproper Input Validationdenial of service (DoS
+921	buffer overflowBuffer overflowdenial of serviceheap-based buffer overflow
+922	cross-site scripting (XSS)cross-site scriptingcross site scriptingXSS
+923	missing validationsignature verificationsignature validationsignature verification issue
+924	out-of-bounds writedenial of serviceout-of-bounds readout of bounds write
+925	denial of servicedenial of service (NULL pointer dereference)denial of service, denial of servicedenial of service, out-of-bounds read
+926	Prototype PollutionPrototype pollutionpollute the prototypeimproperly validate input
+927	buffer overflowStack-based buffer overflowheap-based buffer overflowbuffer overflows
+928	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')improper input validationImproper input validationImproper Input Validation
+929	denial of serviceout-of-bounds readout-of-bounds writeout-of-bounds read and memory corruption
+930	denial of serviceDenial of Serviceinfinite loopDenial of service
+931	access controlimproper access controlprivilege escalationaccess control issue
+932	XSSXSS vulnerabilityStored Cross-Site ScriptingCross-site scripting (XSS
+933	Improperly sanitizedImproper Neutralization of FileImproper Neutralization of Input During Web Page GenerationImproper Neutralization of Special Elements
+934	improper access controlimproper input validationimproperly validate user inputimproperly restrict access control
+935	directory traversalpath traversalDirectory traversal vulnerabilityImproper sanitization
+936	double freedouble free vulnerabilityDouble free vulnerabilitydouble-free
+937	Weak Password RequirementsAuthorization Bypass Through User-Controlled KeyImproper Access ControlImproper Authentication
+938	uncontrolled recursionunlimited recursioninfinite loopinfinite recursion
+939	Regular Expression Denial of Service (ReDoS)Regular Expression Denial of ServiceArbitrary Code ExecutionRemote Code Execution
+940	Path Traversalpath traversalDirectory Traversalpath traversal vulnerability
+941	heap-based buffer over-readHeap-based buffer over-readHeap-based Buffer Overflowout-of-bounds read
+942	XSSstored XSSStored XSSstored XSS vulnerability
+943	Cross-site Scripting (XSS) - StoredXSSCross-site Scripting (XSS) - ReflectedCross-Site Scripting (XSS
+944	integer overflowInteger overflowInteger OverflowNULL pointer dereference
+945	out-of-bounds readdenial of serviceBuffer overflowOut-of-bounds Read
+946	improper access controlinsufficient access controlImproper access controlunauthorized access
+947	remote code executionarbitrary codearbitrary code executionbypass
+948	authentication bypassAuthentication BypassSession fixation vulnerabilitysession fixation attacks
+949	denial of serviceinvalid memory accessheap-based buffer overflowheap-based buffer over-read
+950	SQL injectionSQL injection vulnerabilityimproper access controlImproper Access Control
+951	buffer overflowBuffer overflowBuffer Overflowbuffer overflows
+952	denial of servicememory corruptionuse-after-freeuse of memory corruption
+953	HTTP request smugglingCRLF injection vulnerabilityCSRF attackbypass intended access restrictions
+954	XSScross site scriptingCross Site ScriptingCross-site Scripting
+955	an uninitialized variablean uninitialized variable vulnerabilityan invalid free vulnerabilitylocal users to gain privileges
+956	symlink attackaccess outside of an intended directoryimproper validation of filesaccess outside of an intended files
+957	integer overflowbuffer overflowstack-based buffer overflowInteger Overflow
+958	division by zerodivision by Zerofloating point exceptiondivide by zero
+959	Cross-site Scripting (XSS) - StoredStored XSSImproper Input ValidationCross-site Scripting (XSS) - Reflected
+960	out-of-bounds memory accessout-of-bounds memory corruptionout-of-bounds memory writedenial of service
+961	SQL injectionsql injectionSQL injection vulnerabilitiesSQL Injection
+962	heap-based buffer overflowHeap-based buffer overflowout-of-bounds writeheap buffer overflow
+963	sensitive informationinformation disclosureIncorrect Access Controlinformation exposure
+964	command injectionarbitrary commandsOS Command Injectionremote code execution
+965	quoted-overlap zip-bombsquoted-over-bombsquoted-overflowquoted-bombs
+966	XSScross-site scriptingstored cross-site scriptingCross-site Scripting
+967	insecure temporary fileImproper Neutralization of Input During Web Page Generation ('Cross-site Scripting')unauthenticated users to read arbitrary filesImproper Neutralization of Input During Web Page Generation
+968	stack-based buffer overflowinteger overflowheap-based buffer overflowdenial of service
+969	an uninitialized variablean invalid pointer dereferencean incorrect pointer dereferencean uninitialized data structure
+970	buffer overflowBuffer overflowbuffer overflowsBuffer Overflow
+971	leak credentialsleakageleakage of sensitive informationleakage of password credentials
+972	memory corruptiondenial of serviceuninitialized memory accessuninitialized memory
+973	arbitrary file uploadunrestricted uploadarbitrary filesarbitrary file read
+974	out-of-bounds readout-of-bounds accessinvalid pointer dereferenceinvalid memory access
+975	stack-based buffer overflowstack-based buffer overflowsbuffer overflowheap-based buffer overflow
+976	remote code executionlocal users to obtain sensitive informationremote code execution due to improper validationremote attackers to obtain sensitive information
+977	denial of servicedenial-of-servicedivide-by-zero errordenial of service (divide-zero error
+978	remote code executionRemote Code ExecutionRemote Code Execution (RCE)Remote Code Execution (RCE) due to improper input sanitization
+979	unauthorized accessimproper access controlImproper AuthorizationImproper Access Control
+980	denial of servicedenial-of-servicedenial of service (DoS)denial of service (memory leak
+981	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Authorization Bypass Through User-Controlled KeyAuthorization BypassCross-site Scripting (XSS) - Stored
+982	arbitrary code executionarbitrary commandsarbitrary codecommand injection
+983	bypass intended access restrictionsbypassbypass intended authorization restrictionsbypass intended restrictions
+984	XSSstored XSSCross-site Scripting (XSS)stored XSS due to improper input sanitization
+985	cross-site scripting (XSS) vulnerabilitiescross-site scripting (XSS)cross-site scripting (XSS) vulnerabilityCross-site scripting (XSS) vulnerability
+986	unauthorized accessaccess controlincorrect access controlarbitrary commands
+987	Race conditionrace condition race conditiona race condition
+988	out-of-bounds readoff-by-one errorout-of-bounds accessbuffer overread
+989	Remote Code ExecutionArbitrary Code ExecutionRemote Code Execution (RCE)Arbitrary Code Injection
+990	denial of serviceRequest timed out.Denial of Servicedenial of service (DoS
+991	Unrestricted Upload of File with Dangerous TypeCross-site scripting (XSS)file uploadunrestricted file upload
+992	denial of serviceNULL pointer dereferencenull pointer dereferencedenial of service (DOS
+993	heap-based buffer overflowHeap-based buffer overflowuse-after-freedenial of service
+994	symlink attacksymlink attacksinsecure temporary filesymlink attack vulnerability
+995	path traversalpath traversal vulnerabilityPath Traversaldirectory traversal
+996	denial of serviceout-of-bounds writeout-of-bounds readdenial of service (out-of-bounds write
+997	denial of servicedenial of service (DoS)an uninitialized variabledenial of service (application crash
+998	Race conditionrace conditiondenial of serviceRace Condition
+999	remote code executionUnrestricted Upload of File with Dangerous Typepath traversalRemote File Inclusion
+1000	remote code executionxml external entity referenceremote attackers to create arbitrary codeXML External Entity (XX
+1001	NULL pointer dereferencenull pointer dereferencedenial of servicedouble free
+1002	integer overflowInteger overflowinteger overflow vulnerabilityinteger overflow and overflow
+1003	Denial of Service (DoS)Denial of Serviceremote code executionDenial of service
+1004	Cross-site Scripting (XSS)Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - Reflectedcross-site scripting (XSS
+1005	Buffer overflowinteger overflowInteger overflowheap-buffer overflow
+1006	privilege escalationremote code executioninformation disclosureinformation exposure
+1007	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedCross-Site Scripting (XSS)Cross-Site Scripting (XSS) - Stored
+1008	directory traversalarbitrary file deletionfile inclusionarbitrary file read
+1009	denial of serviceHeap-based buffer overflowheap-based buffer overflowdenial of service (buffer overflow
+1010	command injectioncode injectionremote code executionCode Injection
+1011	cross-site request forgerycross site request forgerycookie leakageCross-Site Request Forgery
+1012	Improper AuthorizationImproper Access Controlimproper access controlimproper authorization
+1013	sql injectionSQL injectionSQL Injectionsql injection, SQL injection
+1014	SQL injectionSQL InjectionUnrestricted Upload of File with Dangerous TypeUnrestricted Upload
+1015	Cross-site Scripting (XSS) - Reflectedcross-site scripting (XSS)Cross-site Scripting (XSS)Cross-site Scripting (XSS) - Stored
+1016	Out-of-bounds ReadHeap-based Buffer OverflowOut-of-bounds WriteHeap Buffer Overflow
+1017	improper access controlimproper authorizationImproper AuthorizationImproper Access Control
+1018	open redirectopen redirect vulnerabilityOpen RedirectOpen redirect vulnerability
+1019	cross-site scriptingXSScross site scriptingcross-site scripting vulnerability
+1020	sensitive informationinformation disclosuresensitive dataimproperly restrict access
+1021	Cross-site Scripting (XSS) - Storedstored cross-site scripting (XSS)stored cross-site scripting (XSS) vulnerabilitystored cross-site scripting
+1022	heap-based buffer overflowdenial of servicesegmentation faultheap-based buffer over-read
+1023	denial of servicecrashinsufficient validation of inputinsufficient validation
+1024	out-of-bounds readout of bounds readout-of-bounds writeout-of-bounds access
+1025	cross site scriptingXSScross-site scriptingCross-site Scripting
+1026	OS Command InjectionCommand Injectionremote code executionRemote Code Execution
+1027	Heap-based Buffer OverflowOut-of-bounds Readheap-based buffer over-readHeap-based buffer over-read
+1028	denial of serviceuse-after-freeuse after freeDenial of Service
+1029	denial of servicebypass intended access restrictionsbypass intended restrictionsbypass
+1030	Cross-site Scripting (XSS) - StoredCross-Site Scripting (XSS)Remote Code Execution (RCE)Stored Cross-Site Scripting (XSS
+1031	Out-of-bounds Readout-of-bounds writeInteger Overflow or WraparoundInteger Overflow
+1032	XXEXXE attacksxml external entity referenceXML External Entity Reference
+1033	cross site scriptingcross-site scripting (XSS)Cross-site scripting (XSS)cross-site scripting
+1034	Cross-Site Request Forgery (CSRF)Improper Access ControlInsecure Direct Object Reference (IDOR)Improper Restriction of Excessive Authentication Attempts
+1035	path traversal vulnerabilitypath traversalremote code executionstored cross-site scripting (XSS) vulnerability
+1036	path traversalpath traversal vulnerabilitypath traversal attackdirectory traversal
+1037	use after freeuse-after-freedenial of serviceuse of uninitialized memory
+1038	remote code executionRemote Code Executionmalicious javascriptmalicious HTML
+1039	NULL Pointer DereferenceNull Pointer DereferenceNULL pointer dereferenceheap-based buffer overflow
+1040	buffer overflowBuffer overflowinteger overflowInteger overflow
+1041	use-after-freedouble freedenial of servicedouble-free
+1042	unauthorized accessemail spoofingunauthorized users to accessunauthorized access to access
+1043	denial of serviceDenial of ServiceDenial of Service (DoS)denial of service (DoS
+1044	denial of serviceheap-based buffer overflowheap use after freeheap-based buffer overflow
+1045	Use After FreeUse after FreeUse after freeUse After free
+1046	Session Fixationsession hijackingSession fixation vulnerabilityImproper Access Control
+1047	denial of serviceheap-based buffer overflowHeap-based Buffer Overflowheap-based buffer over-read
+1048	timing discrepancytiming attacktiming attackstiming attack vulnerability
+1049	integer overflowInteger overflowInteger overflow vulnerabilityBuffer overflow
+1050	XSSXSS vulnerabilityXSS attackarbitrary code
+1051	path traversallocal file inclusionarbitrary filesarbitrary file upload
+1052	path traversaldirectory traversalDirectory Traversalpath traversal vulnerability
+1053	Cross-site Scripting (XSS) - StoredXSSStored Cross-Site Scripting (XSS)Stored Cross-Site Scripting
+1054	denial of servicedenial of service (deadlock)use-after-freedenial of service (NULL pointer dereference
+1055	ReDoS vulnerabilityReDoSReDoS, DoS vulnerabilityReDoS, DoS
+1056	arbitrary codebrute force vulnerabilitybrute-forcebrute-force attack
+1057	arbitrary code executionArbitrary Code Executionunsanitized inputuntrusted user input
+1058	Unrestricted Upload of File with Dangerous TypeDirectory TraversalUnrestricted File UploadRemote File Inclusion
+1059	Prototype Pollutionprototype pollutionPrototype pollutionPrototype pollution vulnerability
+1060	bypass intended access restrictionsUnrestricted Upload of File with Dangerous Typeunauthorized accessUnrestricted Upload of File
+1061	SQL injectionCross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedStored Cross-Site Scripting (XSS
+1062	out-of-bounds writeXSSPath Traversalout of bounds write
+1063	denial of serviceNULL pointer dereferencememory leaksheap-based buffer overflow
+1064	out-of-bounds readout-of-bounds accessout-of-bounds writedenial of service
+1065	sensitive informationbypass intended access restrictionsbypass the authenticationbypass intended access control
+1066	Session fixation vulnerabilitycookie leakagesession cookiesession cookie leakage
+1067	integer overflowInteger overflowInteger overflow vulnerabilityinteger overflow and heap overflow
+1068	cross site scriptingCross-site scripting (XSS) vulnerabilityCross Site Scripting (XSS)XSS
+1069	cross-site request forgerycross-site request forgery (CSRF)Cross-Site Request Forgery (CSRF)Cross-site request forgery (CSRF
+1070	integer overflowInteger Overflow or WraparoundInteger Overflowout-of-bounds read
+1071	path traversalPath Traversaldirectory traversalDirectory traversal vulnerability
+1072	Cross-site Scripting (XSS) - StoredCross-Site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)Cross-site Scripting (XSS) - Stored (XSS
+1073	Cross-site Scripting (XSS) - StoredXSScross-site scripting (XSS)Cross-site scripting (XSS) vulnerability
+1074	information disclosureremote code executionmisinterpre-detectionmisinterprets the user's password
+1075	stack-based buffer overflowdenial of servicean uninitialized data structuredenial of service (DoS
+1076	Race conditionrace conditionrace conditionsrace condition, race condition
+1077	XXE attacksXML External Entity (XXE) attacksxml external entity referenceXXE
+1078	NULL pointer dereferencedenial of servicedenial of service (application crash)denial of service (kernel crash
+1079	denial of serviceNULL pointer dereferencedenial of service, memory corruptiondenial of service (memory corruption
+1080	memory leakmemory leaksMemory leakmemory leaked
+1081	Improper AuthorizationImproper Access Controlimproper access controlMissing Authorization
+1082	information disclosuresensitive informationbypassbypass the authentication
+1083	denial of servicedenial-of-servicedenial of service (DoS)denial of service, denial of service
+1084	denial of servicean uninitialized data structuremishandles a readmishandles a return value
+1085	use-after-freedenial of serviceheap use-after-freeuse-after-free flaw
+1086	Cross-Site Request Forgery (CSRF)Cross-Site Request ForgeryCSRFCross-Site Scripting (XSS
+1087	integer overflowbuffer overflowheap-based buffer overflowout-of-bounds read
+1088	unauthorized accessSSRFimproper access controlunauthorized access to access
+1089	unauthorized accesspath traversalremote code executionunauthorized access, remote code execution
+1090	use-after-freeuse after freerace conditiondenial of service
+1091	buffer over-readbuffer over-readsBuffer over-readbuffer over-read
+1092	Improper input validationstored XSSImproperly sanitizationImproperly sanitized
+1093	use-after-freedouble freedouble-freedouble free vulnerability
+1094	XSSCross-site scripting (XSS)arbitrary JavaScriptXSS due to improper input validation
+1095	Memory leakmemory leakMemory leak vulnerabilitydenial of service
+1096	CSRF protection bypassCSRF protectionCSRF attackCSRF protection mechanism
+1097	improper authenticationaccount takeoverimproper access controlbypass authentication
+1098	unauthorized accessauthorization bypassimproper access controlunauthorized users to read access
+1099	improper validationimproper input validationbypass the signature validationbypass the signature verification
+1100	Integer overflowheap-based buffer overflowArray index errorInteger underflow
+1101	SQL injectionSQL injection vulnerabilitySQL InjectionSQL injection vulnerabilities
+1102	Weak Password RequirementsWeak Password Recovery MechanismWeak Password Recovery RequirementsImproper Neutralization of Input
+1103	symlink attackarbitrary codearbitrary code executionimproperly restrict access
+1104	use-after-freeuse-after-free vulnerabilitydenial of serviceuse-after-free flaw
+1105	Server-Side Request Forgery (SSRF)unauthorized accessimproper authenticationServer-Side Request Forgery
+1106	symlink attacksymlink attackssymlinkssymlink
+1107	Server-Side Request Forgery (SSRF)sensitive informationremote code executionunauthenticated user input
+1108	Cross-site scripting (XSS) vulnerabilitycross-site scripting (XSS)Cross-site scripting (XSS)XSS
+1109	improper input validationimproper validation of outputimproper validation of output to uninitialized dataimproper validation of output to uninitialized variable
+1110	Weak Password Requirementsaccount takeoverpassword resetbypass the authentication
+1111	signature bypasssignature forgeryimproperly verify the signaturesignature forgery (CSRF
+1112	Cross-site Scripting (XSS) - StoredCross-site scripting (XSS) vulnerabilityCross-site Scripting (XSS) - ReflectedCross-site Scripting (XSS
+1113	Cross-site Scripting (XSS) - StoredCross-site scripting (XSS) vulnerabilitycross site scriptingCross-site Scripting (XSS) - Reflected
+1114	Denial of Service (DoS)denial of serviceDenial of Servicedenial of service (DoS
+1115	insufficiently random valueslack of random number generatorinsufficiently random number generatorinsufficiently random values in random values
+1116	Reflected XSSCSRFCross-Site ScriptingCross-Site Request Forgery
+1117	Buffer Overflowbuffer overflowOut-of-bounds ReadStack-based Buffer Overflow
+1118	Cross-site scripting (XSS) vulnerabilityreflected cross-site scripting (XSS)XSSCross-site scripting (XSS
+1119	Double free vulnerabilitydouble-free vulnerabilitydouble freedouble-free
+1120	out-of-bounds readout-of-bounds writeheap-based buffer overflowheap buffer overflow
+1121	heap buffer overflowheap-based buffer overflowHeap buffer overflowheap overflow
+1122	bypassremote code executionbypass the permission checkbypass the permission checks
+1123	out-of-bounds writeout-of-bounds readOut-of-bounds Readheap-based buffer overflow
+1124	XSSCross-site scripting (XSS) vulnerabilitycross-site scripting (XSS)cross-site scripting (XSS) vulnerabilities
+1125	Cross-site Scripting (XSS) - StoredReflected XSSReflected Cross-Site Scripting (XSS)Cross Site Scripting (XSS
+1126	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - Reflectedcross-site scripting (XSS)Cross-site scripting (XSS) vulnerability
+1127	XXEXXE attacksXXE AttacksImproper Restriction
+1128	XSSstored XSSarbitrary codearbitrary JavaScript
+1129	integer overflowInteger overflowuse-after-freeuse-after-free and integer overflow
+1130	denial of servicedenial of service (DoS)denial of service, memory corruptionRace condition
+1131	buffer over-readbuffer over-readsbuffer over-read-readbuffer over-buffer over
+1132	man-in-the-middle attacksman-in-the-middle attackman-in-the-middle attackers to spoofing attackman-in-the-middle attackers to spoof servers
+1133	Cross-site Scripting (XSS) - StoredCross-site Scripting (XSS) - ReflectedXSSStored Cross-Site Scripting (XSS
+1134	Cross-site Scripting (XSS) - StoredCross-site scripting (XSS) vulnerabilitycross-site scripting (XSS)Cross-site scripting (XSS
+1135	improper access controlimproper authorizationunauthorized accessunauthorized users
+1136	out-of-bounds readOut-of-bounds readout-of-bounds writeOut-of-bounds Read
+1137	bypass authenticationaccess controlinsufficient access controlIncorrect Access Control
+1138	Cross-Site Request Forgery (CSRF)CSRF attackcross-site request forgery (CSRF)Cross-site Request Forgery (CSRF
+1139	buffer over-readBuffer over-readbuffer overreadbuffer over-reads
+1140	insecure direct object referenceinsecure direct object referencesinsecure direct objectsinsecure direct reference
+1141	session fixationsession cookieSession fixation vulnerabilitySession Fixation
+1142	brute force attacksbrute force attackuse of random number generatoruse-after-free
+1143	remote code executionlocal file inclusionpath traversalarbitrary file upload
+1144	denial of servicedenial of service (NULL pointer dereference and system crash)denial of service (NULL pointer dereference and application crash)denial of service (NULL pointer dereference and OOPS
+1145	denial of serviceDenial of ServiceDenial-of-ServiceDenial-of-service
+1146	OS Command Injectionarbitrary commandscommand injectionCommand Injection
+1147	privilege escalationprivilegesimproper permissionsprivileges via a permissions
+1148	connection racea connection race from a malicious local peera connection race from the local peera connection race from a local peer
+1149	Cross-site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)XSSCross-site Scripting (XSS) - Reflected
+1150	an uninitialized variablean uninitialized data structuredenial of servicean invalid memory access
+1151	local file inclusionbypass intended access restrictionsfile deletionlocal users to read arbitrary files
+1152	Cross-site Scripting (XSS) - Storedcross site scriptingXSSCross-site Scripting (XSS) - Reflected
+1153	Buffer overflowbuffer overflowout-of-bounds readBuffer overflow vulnerability
+1154	Inefficient Regular Expression ComplexityRegular Expression Denial of Servicebypass intended access restrictionsInefficient regular expression complexity
+1155	path traversalpath traversal vulnerabilityDirectory TraversalDirectory traversal vulnerability
+1156	stored XSSXSSstored cross-site scriptingcross-site scripting
+1157	remote code executionRemote Code Executionarbitrary commandsarbitrary file read
+1158	buffer over-readBuffer Over-readBuffer over-readbuffer overread
+1159	code injectionImproper Neutralization of Formula ElementsImproper Neutralization of Input During Web Page GenerationImproper Neutralization of Special Elements
+1160	bypass authenticationbypassbypass intended access restrictionsbypass the authentication
+1161	remote code executionImproper escapingimproper escapingImproper sanitization
+1162	uncontrolled recursionunbounded recursionincorrect recursionuncontrolled recursion, recursion
+1163	Cross-site Scripting (XSS) - StoredStored XSSStored Cross-Site Scripting (XSS)Stored Cross-Site Scripting
+1164	path traversaldirectory traversalpath traversal vulnerabilityDirectory Traversal
+1165	bypass intended access restrictionsinsufficient access controlbypass intended restrictionsbypass intended access restrictions, denial of service
+1166	arbitrary codedenial of servicedivision by zeroarbitrary code execution
+1167	Improper Access Controlauthentication bypassAuthorization BypassImproper Restriction of Expiration
+1168	XSSstored XSScross-site scripting (XSS)Cross-site scripting (XSS
+1169	code injectionarbitrary coderemote code executionarbitrary code execution
+1170	Unrestricted Upload of File with Dangerous Typebypassarbitrary file upload vulnerabilityarbitrary file upload
+1171	out-of-bounds readout-of-bounds array accessout-of-bounds writeout-of-bounds memory access
+1172	remote code executionarbitrary commandscommand injectionOS Command Injection
+1173	sensitive informationinformation exposureexposedbypass the authentication
+1174	Cross-site Scripting (XSS) - StoredXSSCross-site scripting (XSS) vulnerabilityCross-site Scripting (XSS) - Reflected
+1175	absolute path traversalpath traversalPath Traversalpath traversal vulnerability
+1176	denial of serviceoverflowout-of-bounds writeout-of-bounds read
+1177	privilege escalationauthentication bypassaccess controlbypass authorization
+1178	Cross-site Scripting (XSS) - StoredCross-Site Request Forgery (CSRF)Improper AuthorizationImproper Neutralization of Input During Web Page Generation
+1179	authentication bypassexposed tokenexposed tokensbypass the authentication
+1180	memory race conditionmemory exhaustionmemory race conditionsmemory corruption
+1181	integer overflowInteger OverflowInteger overflowHeap-based buffer overflow
+1182	denial of serviceinfinite loopInfinite loopdenial-of-service
+1183	arbitrary commandsOS Command Injectionarbitrary shell commandsarbitrary commands via shell
+1184	SSRF vulnerabilityCSRF attackSSRF attackSSRF protection bypass
+1185	bypass authenticationauthentication bypassbypass intended access restrictionsbypass the signature validation
+1186	memory corruptionBuffer overflowbuffer overflowdenial of service
+1187	memory leakmemory corruptionmemory leaksuninitialized memory
+1188	double freeuse-after-freedouble free vulnerabilityuse of uninitialized memory
+1189	improper access controlImproper access controlImproper Access Controlimproperly check permissions
+1190	command injectionCommand InjectionRemote Code Executioncommand injection vulnerability
+1191	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')Improper Input ValidationAuthorization Bypass Through User-Controlled KeyImproper Neutralization of input
+1192	NULL pointer dereferencedenial of serviceNULL pointer dereference and crashNULL pointer dereference and application crash
+1193	remote code executionRemote Code Executionimproperly restrict accessimproperly restrict access control
+1194	Prototype PollutionPrototype pollution vulnerabilityPrototype pollutionRemote Code Execution (RCE
+1195	Cross-site Scripting (XSS) - StoredCross-Site Scripting (XSS)Cross-site Scripting (XSS) - ReflectedCross Site Scripting (XSS
+1196	Path TraversalImproper Input ValidationCross-Site Scriptingarbitrary code execution
+1197	remote code executioncode injectionreflected XSSreflected XSS vulnerability
+1198	XSScross site scriptingstored XSSCross-site Scripting
+1199	sensitive informationexposedinformation exposureexposed to private
+1200	access controlimproper access controlinformation disclosureunauthorized access
+1201	Denial-of-ServiceDenial of ServiceDenial-of-serviceDenial-Service
+1202	arbitrary code executionarbitrary coderemote code executionWeak Password Requirements
+1203	double freedouble free vulnerabilityNULL pointer dereferenceimproperly check forgery
+1204	improper authorizationimproper access controlImproper Authorizationimproper validation
+1205	memory leakmemory leaksmemory leak issueMemory leak
+1206	improper access controlprivilege escalationunauthorized accessauthorization bypass
+1207	memory leakmemory leaksRequest timed out.Request timed out
+1208	cross-site scripting (XSS)XSSCross-site scripting (XSS) vulnerabilityCross-site scripting (XSS
+1209	denial of servicememory corruptionallocation of resourcesallocation of resources exhaustion
+1210	denial of servicememory corruptionmemory leakdenial of service, memory corruption
+1211	command injectioninformation disclosureinformation leaksensitive information
+1212	NULL pointer dereferencenull pointer dereferenceinteger overflowa NULL pointer dereference
+1213	Cross-site Scripting (XSS) - StoredCross-Site Scripting (XSS) - StoredStored Cross-Site Scripting (XSS)Improper Neutralization of Input During Web Page Generation ('Cross-site scripting
+1214	account takeoverlack of validationlacks a password resetlacks a confirmation of a password
+1215	crashdenial of servicebrute-forcebrute force
+1216	improper input validationimproper signature verificationimproperly verify signatureimproperly validate the signature
+1217	access controlbypass intended access restrictionsaccess to private information disclosureremote attackers to edit users to read other users
+1218	Heap-based Buffer OverflowBuffer Over-readOut-of-bounds ReadNULL Pointer Dereference
+1219	false sense of securitycertificate errorfalse sense of the securityfalse sense of security checks
+1220	authorization bypassbypassimproperly validate inputimproperly validate user input
+1221	uncontrolled resource consumptionunauthorized accessunauthorized usersunauthorized users to access
+1222	Server-Side Request Forgery (SSRF)SSRFserver-side request forgery (SSRF)server-side request forgery
+1223	Insecure Direct Object Referenceimproper authorizationunauthenticated users to accessunauthenticated users to read access
+1224	sql injectionSQL injectionSQL InjectionSQL injection vulnerability
+1225	timing attackimproper input validationtiming side-channel attacktiming attacks
+1226	denial of serviceout-of-bounds writedenial of service, out-of-bounds writedenial of service (NULL pointer dereference
+1227	Cross-site Scripting (XSS) - StoredXSSCross-site Scripting (XSS)Stored Cross-Site Scripting
+1228	Cross-site Scripting (XSS) - StoredXSSCross-Site Request Forgery (CSRF)Cross-site request forgery (CSRF
+1229	Deserialization of Untrusted dataremote code executiondeserialization vulnerabilityDeserialization of Untrusted Data
+1230	denial of serviceuse-after-freebypass intended access restrictionsdenial of service, memory corruption
+1231	Cross-site Scripting (XSS) - StoredCross-site scripting (XSS) vulnerabilitycross-site scripting (XSS)stored cross-site scripting (XSS
+1232	XSSImproper input validationImproperly sanitize user inputCross-site scripting (XSS
+1233	Stored XSSXSSstored XSSStored XSS vulnerability
+1234	Cross-Site Request Forgery (CSRF)Improper Access Controlunauthorized accessImproper Restriction of Excessive Authentication Attempts
+1235	SQL injectionSQL injection vulnerabilitySQL Injectionarbitrary code
+1236	improper validationimproper validation of permissionsimproper permissionsImproper validation of permissions
+1237	buffer overflowbuffer over-readout-of-bounds readstack-based buffer overflow
+1238	remote code executionimproper input validationimproperly validate inputimproperly validate input validation
+1239	regular expression denial of serviceinefficient regular expression complexityRegular Expression Denial of ServiceInefficient Regular Expression Complexity
+1240	XSSCross-site Scripting (XSS) - StoredStored XSSCross-site Scripting (XSS) - Reflected
+1241	stack-based buffer overflowheap-based buffer overflowbuffer overflowstack-based buffer overflows
+1242	Deserialization of Untrusted Dataremote code executionUnrestricted Upload of File with Dangerous TypeDeserialization of Untrusted data
+1243	Server-Side Request Forgery (SSRF)remote code executionAuthentication BypassServer-Side Request Forgery (CSRF
+1244	SQL injectionreflected XSSSQL injection vulnerabilityreflected XSS vulnerability
+1245	Improper Access ControlImproper Privilege ManagementIncorrect Access Controlimproper access control
+1246	NULL pointer dereferencedenial of serviceHeap-based buffer overflowheap-based buffer overflow
+1247	Integer overflowinteger overflowInteger OverflowInteger underflow
+1248	local privilege escalationlocal file inclusionlocal file inclusion vulnerabilityinsufficient validation
+1249	buffer overflowmemory corruptionmemory exhaustionbuffer overflows

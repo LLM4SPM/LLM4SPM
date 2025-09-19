@@ -1,0 +1,975 @@
+0	a denial of service
+1	act on administrative monitors
+2	unspecified impact
+3	reveal all files in the opal filesystem
+4	unauthorized users to delete datasets, potentially leading to data loss or disruption of service.
+5	sensitive information
+6	a cross-site scripting attack
+7	a denial of service (memory corruption) or possibly execute arbitrary code
+8	disclosure of the existence of the note, the note author name, the note creation timestamp, and
+9	sensitive information
+10	SQL Injection
+11	a denial of service (guest OS crash)
+12	read memory
+13	remote code execution
+14	a considerable CPU load on the server (a Hash DoS attack)
+15	influence those users who come to the file distribution after them and slip the victim files with a malicious
+16	access to authentik
+17	digital downloads can be downloaded without valid payment
+18	compromise the host system
+19	a denial of service of the host machine running Cosign; data loss; impact the availability of other
+20	vulnerable to cross-site scripting
+21	enabling a remote attack that consumes CPU and memory.
+22	to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
+23	a denial of service (NULL pointer dereference and application crash)
+24	a denial of service attack by passing in a malicious JWE Token with a high compression ratio, consume
+25	DoS
+26	data corruption or unintended code execution, modify object prototypes, affecting core JavaScript behavior, cause application crashes
+27	bypass an intended read-only property of a filesystem
+28	allows remote authenticated users to download attachments linked to arbitrary private projects
+29	bypass authentication
+30	account takeover
+31	a Regular Expression Denial of Service
+32	users might see tracker names they should not have access to
+33	an attacker to upload an SVG containing a script executed when executing the download action on the file
+34	a remote code execution
+35	a stored XSS attack against themselves and any other users
+36	execute uncontrolled code
+37	disrupt application functionality, potentially causing errors or generating invalid HTTP requests, DoS scenario
+38	compromise a victim's privacy
+39	an account takeover, take control of the account
+40	arbitrary file read, sensitive information such as SSH and cloud keys
+41	arbitrary code execution, remote code execution (RCE), execute arbitrary code
+42	a denial of service attack
+43	execute arbitrary Java
+44	a user's Grafana authentication cookie
+45	read any file on the server, potentially even outside of the project
+46	a denial of service (memory corruption and system crash, or spinlock)
+47	cross site scripting
+48	adding or modifying properties of 'Object.prototype'
+49	JavaScript payload renders and loads external JavaScript.
+50	arbitrary code execution, permission prompt bypass
+51	a denial of service (use-after-free and application crash) or possibly have unspecified other impact
+52	privileges or cause a denial of service (memory corruption)
+53	write to arbitrary files
+54	memory-related attacks such as buffer overflows
+55	a denial of service (crashes via a crafted archive)
+56	cross-site scripting (XSS) attacks
+57	a buffer overflow, a heap overflow
+58	a panic and virtual memory leaks
+59	a denial of service (memory consumption and eventually run out of memory)
+60	Information Disclosure.
+61	allowed an authenticated user to subscribe to a private stream that should have required an invitation from an existing member
+62	obtain sensitive information from kernel memory locations
+63	crash the client or store information for later retrieval.
+64	impersonate any workload identity within the service mesh
+65	inject arbitrary web script or HTML
+66	execute arbitrary commands as `root`
+67	being able to move or delete existing files on the server, or upload new files, using the account
+68	sql injection
+69	read sensitive user data or to gain access to server secrets
+70	use-after-free issues
+71	remote execute code
+72	execute arbitrary code
+73	allows remote attackers to inject arbitrary web script or HTML
+74	stored XSS
+75	bypass CSRF protection
+76	leak an event to all users in the organization; this event also contained the name of the private
+77	allows a download of it
+78	access sensitive files, such as `config.json`, which contains API keys
+79	gain inheritable file capabilities up to the container's bounding set
+80	sensitive information from kernel memory
+81	access the tunneled service instead of being redirected to the address specified in the redirect option. The highest
+82	retrieving normally inaccessible data
+83	elevated access to an existing Graylog login session
+84	system availability
+85	an infinite loop
+86	inject arbitrary web script or HTML
+87	forged a JWT that will be accepted by the victim application
+88	could crash
+89	a denial of service (DoS) which will invoke the toString function of the passed parameter.
+90	directory traversal
+91	a denial of service (integer signedness error and out-of-array read)
+92	account takeover
+93	potentially able to modify permissions of files referenced by symlinks
+94	a denial of service (mrb_hash_keys uninitialized pointer and application crash) or possibly have unspecified
+95	may be able to crash the interpreter process
+96	arbitrary code execution
+97	allows attackers to use the UI to edit resources which should only be mutable via gitops.
+98	high CPU usage and increased request latency
+99	requests without the user's consent
+100	invalid signatures accepted as valid
+101	FTP client scanning ports, which otherwise would not have been possible.
+102	Request timed out.
+103	a privileged Role
+104	execute arbitrary code via a crafted response to a download operation.
+105	denial of service
+106	gain privileges
+107	a double free
+108	files outside the configured load paths
+109	read memory
+110	execute in the context of another user's browser
+111	obtain sensitive information from kernel stack memory
+112	the attacker may be able to enumerate all possible choices to deduce the actual value
+113	RCE
+114	local privilege escalation
+115	runs as root (UID 0)
+116	cross site scripting
+117	disconnect the site from simpleshop
+118	sensitive data
+119	remote code execution on the Jellyfin instance in the context of the user who's running it
+120	an out-of-bounds write
+121	executed arbitrary code
+122	a denial of service (infinite loop)
+123	SQL Injection and remote code execution
+124	run arbitrary code in the context of the Nuclio function container
+125	denying service to other legitimate workloads
+126	XSS
+127	information disclosure and code execution
+128	modify account request requirement bypasses
+129	information disclosure
+130	a denial of service (killing the Node.js process)
+131	inject arbitrary web script or HTML
+132	denial of service
+133	XSS attacks
+134	OS command execution
+135	Arbitrary File Overwrite, replaces the existing file content.
+136	a denial of service
+137	Code Injection
+138	sensitive information
+139	a denial of service condition
+140	privilege escalation or loss of confidentiality
+141	execute arbitrary SQL commands
+142	a denial of service
+143	XSS
+144	any files available to the host process may be accessed by arbitrary users
+145	a denial of service (application crash)
+146	out-of-bounds access
+147	execution of code
+148	buffer overflow
+149	an ACL bypass
+150	Session replays can download without authentication.
+151	possible evasions
+152	elevated privileges
+153	arbitrary remote code execution (RCE)
+154	all users will be allowed to login, regardless of `identity_provider`
+155	hijack the authentication of administrators
+156	SEGV
+157	bypassing API token authentication
+158	remote code execution
+159	leak memory addresses or cause a Denial of Service
+160	bypass MediaProxy authentication, load any image without restrictions, bypass bull-board authentication, significant impact on
+161	a denial of service (integer overflow, out-of-bounds write, and GPF) or possibly
+162	execution of arbitrary code
+163	an infinite loop
+164	determine if an IP is autoblocked
+165	defacement of websites, execution of malicious JavaScript code, stealing of user cookies, unauthorized access to
+166	execute arbitrary commands
+167	data to unauthorized users, hide properties that should be displayed to authorized users
+168	an incorrect text display of the certificate
+169	bypass authentication and takeover of and user account
+170	vulnerabilities and/or undefined behaviors
+171	sql injection
+172	a crash
+173	a denial of service (TM Bad Thing exception and panic)
+174	execute existing PHP code on the server, lead to SQL injection
+175	access sensitive information, create, edit and delete configuration files, flash firmware on managed boards, exfil
+176	weak password recovery
+177	heap-based buffer overflow
+178	inject arbitrary unencrypted data after handshake completion
+179	the ability to take down the server
+180	a denial of service (NULL pointer dereference and crash)
+181	a denial of service
+182	Request timed out.
+183	write access to a local filesystem
+184	a signature check might pass on an invalid signature
+185	allowed execution of JavaScript code in client side (XSS)
+186	use-after-free issues
+187	null pointer dereference
+188	read address information
+189	a denial of service (memory corruption and system crash)
+190	execution of arbitrary JavaScript code in the attacked user's browser
+191	bypass authentication or authorization mechanisms, alter critical identity or access control attributes, escalate privileges, impersonate
+192	bypass intended access restrictions
+193	reveals whisper participants
+194	extract data from the database
+195	change the outcome of translation requests made by subsequent users
+196	HTTP request smuggling attacks
+197	inject arbitrary web script or HTML
+198	excessive CPU usage
+199	denial of service (via dereferencing `nullptr`s or via `CHECK`-failures),
+200	execute an attack on CKEditor 4 instances
+201	memory corruption
+202	exploiting system users who visit that space
+203	search injection
+204	a denial of service (memory consumption)
+205	arbitrary JavaScript and execute it on page load
+206	delete arbitrary non-protected images
+207	a denial of service (out-of-bounds write) or possibly have unspecified other impact
+208	execution of arbitrary commands
+209	execute arbitrary code on the host system
+210	bypassing the `allowed_hosts` check
+211	extraction of data from workspaces, to a full takeover of the workspace.
+212	a connection race from a malicious local peer
+213	a denial of service (use of uninitialized data or invalid memory allocation) or possibly have unspecified other
+214	unauthenticated Remote Code Execution (RCE)
+215	open redirect
+216	a stored cross-site scripting
+217	inject arbitrary web script or HTML
+218	a denial of service (application crash by NULL pointer dereference) or possibly have unspecified other impact
+219	an application crash (with a NULL pointer dereference)
+220	sensitive information exposure
+221	access a file outside the logging base directory
+222	view the contents of any password-protected article, compromising confidentiality and integrity of users
+223	execute arbitrary SQL commands
+224	a Cross-Site Scripting attack
+225	a denial of service
+226	cleartext password storage
+227	full access to the XWiki installation
+228	arbitrary code
+229	a remote crash
+230	exposed to unauthorized users
+231	cross site scripting
+232	stored Cross-site Scripting
+233	a denial of service or possibly have unspecified other impact
+234	a denial of service condition
+235	inject arbitrary web script or HTML
+236	exposes information about the Pimcore installation, PHP version, MYSQL version, installed bundles and all database
+237	compromising their session and allowing unauthorized actions
+238	sensitive
+239	a denial of service (out-of-bounds read)
+240	path traversal
+241	access to potentially private data contained within the evaluation results
+242	ReDoS (regular expression denial of service) or other impacts.
+243	allows the attacker to log in as arbitrary user within the vulnerable system
+244	escalation to root by an unprivileged user
+245	unauthorized access to sensitive information
+246	One client's `session` cookie may be sent to other clients.
+247	a denial of service (out-of-bounds-read)
+248	remote code execution
+249	write access to user-owned cgroup hierarchy `/sys/fs/cgroup/user.slice/...` on the host
+250	a crash or potentially code execution
+251	a denial of service (NULL pointer dereference and system crash) or possibly have unspecified other impact
+252	sql injection
+253	overwrite any file that is writable by the application server user, corrupt or modify any OpenOlat file
+254	allows remote attackers to enumerate users via a timing attack involving login requests.
+255	allowing attackers to write arbitrary files
+256	a denial of service by memory exhaustion
+257	overwrite memory locations in processes running as root
+258	a Denial-of-Service attack
+259	a denial of service
+260	access heap memory which is not in the control of user, leading to a crash or remote code execution
+261	Unexpected control flow, crashes, and segfaults.
+262	exposes its address as click-and-collect address
+263	a denial of service (system crash) or possibly execute arbitrary code via a crafted packet.
+264	execute arbitrary code via a 7zip file with a large number of substreams, which triggers a
+265	cross site scripting
+266	extract sensitive information from the database.
+267	an arbitrary external link can be crafted leading to unintended/open redirect
+268	manipulate an authenticated user
+269	allowed all authenticated users to modify sources in projects where they do not have write permissions.
+270	sensitive information from kernel memory
+271	a denial of service (buffer over-read and application crash) or obtain sensitive information from process memory
+272	Denial of Service.
+273	easy to forge authentication requests
+274	affect database performance and/or consume all storage resources
+275	cross site scripting
+276	a denial of service (xdr_set_page_base slab-out-of-bounds access)
+277	a Denial of Service
+278	transfer ownership of a repository and its repo level secrets, exfiltrated by follow up builds to
+279	keep using it forever
+280	an out-of-bounds write memory corruption
+281	a denial of service (memory consumption)
+282	unauthorized file writes or overwrites outside the intended extraction directory
+283	inject arbitrary web script or HTML
+284	a denial of service (crash) or execute arbitrary code
+285	a heap-based buffer overflow
+286	bypass intended access restrictions
+287	malicious parties could add arbitrary text to a third-party Cleartext Signed Message, to lead the victim
+288	sensitive information from kernel memory
+289	an out-of-bounds read and OOPS for SMB2_TREE_CONNECT
+290	a Denial of Service (DoS)
+291	XSS
+292	distinguish between existing and non-existing user accounts
+293	Denial of Service
+294	exposure of information through directory listing
+295	gain privileges
+296	unauthenticated viewing of certain content
+297	reduce the availability of a Discourse instance
+298	execute untrusted JavaScript code
+299	inject arbitrary web script or HTML
+300	gain privileges or cause a denial of service (use-after-free)
+301	execute arbitrary code
+302	a crash linux kernel
+303	leakage of GitHub access tokens
+304	a denial of service
+305	overwrite and pollute the object prototype of a program.
+306	a denial of service and possibly an information disclosure
+307	arbitrary file upload anywhere in the filesystem
+308	disabling Route Origin Validation
+309	executing terminal escape sequences
+310	open redirects
+311	cross site scripting
+312	secret values used in the custom publisher
+313	a denial of service (out-of-bounds read and application crash)
+314	access to out-of-bounds memory
+315	execute arbitrary PHP code
+316	a denial of service (memory consumption)
+317	execute arbitrary code
+318	potentially able to modify permissions of files referenced by symlinks
+319	access to item names that should not be visible
+320	execute XSS on reports pages
+321	memory corruption
+322	a resource exhaustion attack
+323	execute malicious JavaScript
+324	sql injection
+325	memory can be exhausted causing the application to terminate
+326	allow users to launch _any_ pullable docker image
+327	arbitrary code execution
+328	a denial of service
+329	download configuration files or Java bytecodes from applications.
+330	remote code execution, allowing attackers to run malicious code on the server
+331	execute arbitrary commands
+332	a denial of service (infinite loop or stack consumption)
+333	elevate privileges, permanently make the device inoperable, overwrite the trusted bootloader code,
+334	a denial of service
+335	discloses the password hashes of all users, view right, viewable for the attacker, disclose
+336	an open redirect attack or a Server-Side Request Forgery attack
+337	XSS
+338	cross site scripting
+339	a denial of service
+340	a denial of service (infinite loop)
+341	execute arbitrary web scripts or HTML
+342	arbitrary changes to the python runtime status, Cross-Site Scripting (XSS), Denial
+343	customer data exposure, access PII data from customers
+344	a denial of service (NULL pointer dereference and daemon crash)
+345	a denial-of-service
+346	a denial of service (process crash)
+347	inject arbitrary web script or HTML
+348	Cross-site Scripting (XSS)
+349	HTTP request smuggling
+350	sql injection
+351	sensitive information from uninitialized stack data
+352	read all files on the server
+353	a buffer overflows
+354	a denial of service (daemon exit)
+355	a DoS, huge CPU and memory consumption
+356	possible SSRF
+357	a denial of service (memory corruption and system crash) or possibly gain privileges
+358	a reflected XSS
+359	a NULL pointer dereference
+360	all requests will expose your credentials to the request target
+361	execute arbitrary code on the host system
+362	a denial of service (uncontrolled recursion, and system crash or reboot)
+363	An attacker can read arbitrary files from the file system and then show the file content as a converted PNG
+364	the loss of all criteria filters forcing users and tracker admins to re-create them
+365	obtain sensitive information from kernel stack memory
+366	a denial of service (OOPS and system crash)
+367	a denial of service (xml_data heap-based buffer over-read and application crash)
+368	sensitive information
+369	crash xkbcommon keymap parsers or possibly have unspecified other impact
+370	cross site scripting
+371	inject arbitrary web script or HTML
+372	attaching content of arbitrary files and URLs to a generated PDF document
+373	symlink following
+374	an attacker with only minimal viewing privileges is able to change their user type to Administrator (or another type
+375	a denial of service (application crash)
+376	escalate their privileges on the system
+377	shell injection
+378	alteration of the behavior of all objects inheriting from the affected prototype
+379	Denial of Service (DoS)
+380	remote code execution
+381	could be abused to find files on paths outside of the allowed directories
+382	a denial of service (NULL pointer dereference and panic)
+383	heap buffer overflow
+384	sql injection
+385	cross site scripting
+386	a denial of service
+387	inject arbitrary web script or HTML
+388	bypass the configured security
+389	a denial of service (out-of-bounds array access) or possibly have unspecified other impact
+390	access to the application
+391	memory leak in `DefaultArgumentConversionContext`
+392	an unauthenticated denial of service and crash situation
+393	a denial of service (CPU and memory consumption)
+394	redirect users to malicious sites, which can be used for phishing or other malicious activities.
+395	to inject the key backup secret during a self-verification, to make a targeted device start using a
+396	unlock a session
+397	bypass the trusted directory security restriction and read arbitrary files
+398	credential theft, unauthorized data access, phishing attacks, malware distribution, reputation damage
+399	an availability attack, unable to use the site due to memory overflow, tying up the main thread,
+400	cross site scripting
+401	memory-related attacks such as buffer overflows
+402	an attacker to crash the system or leak internal kernel information
+403	a timing attack
+404	a denial of service (crash the KDC)
+405	download or delete files in sibling directories of the support bundle directory
+406	a denial of service (system crash)
+407	sql injection
+408	a denial of service (panic) or possibly have unspecified other impact
+409	redirect users to arbitrary web sites and conduct phishing attacks
+410	a denial-of-service attack or possibly have unspecified other impact
+411	invalid write operations
+412	a denial-of-service (application crash caused by out-of-bounds read)
+413	inject arbitrary web script or HTML
+414	code execution on the server
+415	a method to prohibit keylime operations
+416	a denial of service
+417	an out-of-bounds write
+418	a denial of service (NULL pointer dereference)
+419	a denial of service (memory consumption)
+420	uplink Denial of Service
+421	excessive CPU usage
+422	an XSS attack on target applications
+423	file inclusion
+424	skip authentication checks
+425	steal authentication tokens
+426	an administrator with permission to import/export data and to edit cms pages was able to inject an executable file
+427	a loss of confidentiality
+428	execute malicious JavaScript
+429	remote code execution
+430	inject arbitrary web script or HTML
+431	a denial of service (NULL pointer dereference, OOPS, and host OS crash) or possibly
+432	execution of arbitrary code
+433	exposure or exfiltration of sensitive information
+434	execute arbitrary code or cause a denial of service (use-after-free)
+435	execute JavaScript code in the context of the user
+436	a connection race from a malicious local peer
+437	arbitrary remote code execution; compromises the confidentiality, integrity and availability of the whole XWiki installation
+438	denial of service
+439	inject arbitrary web script or HTML
+440	arbitrarily redirect users
+441	deface the page
+442	a denial of service or possibly have unspecified other impact
+443	escalate their privilege
+444	leak of sensitive information
+445	cookie stealing or malicious actions
+446	a program crash
+447	Moderators may see a users email address even when the Allow moderators to view email addresses setting is disabled
+448	a denial of service by sending crafted multipart data to an endpoint that will parse it.
+449	a partial denial-of-service
+450	sensitive information or cause a denial of service (out-of-bounds read)
+451	Reflected Cross-Site Scripting
+452	access as an arbitrary user
+453	sql injection
+454	create an admin user
+455	escalate privileges
+456	enumerate the registered users
+457	potentially overwriting unrelated files
+458	execute arbitrary code
+459	JavaScript code is executed
+460	obtain information on the services running on the server
+461	cross-site scripting
+462	observation of changes in any net namespace
+463	an out-of-bounds write
+464	insecure temporary file
+465	deserialization of arbitrary data
+466	may enable attackers to write to arbitrary locations outside the designated target folder.
+467	a denial of service
+468	access JSON files outside of the expected `languages/` directory
+469	read content of any file with known path.
+470	a mutation cross-site scripting (mXSS) vulnerability, elements in comment tags being interpreted as executable
+471	data corruption across call frames
+472	access to the wiki; write access to an otherwise read-only public wiki
+473	remote code execution
+474	bypass intended ptrace restrictions or obtain sensitive information
+475	full takeover of the affected system
+476	xml external entity reference
+477	may execute untrusted code
+478	code execution
+479	bypass of CVE-2020-15256
+480	the leakage of remote server path or stack address
+481	a denial of service (infinite loop, and system crash or hang)
+482	a stack-based buffer overflow
+483	arbitrary file overwriting
+484	transfer ownership of a repository and its repo level secrets, exfiltrated by follow up builds
+485	a denial of service (system crash)
+486	a denial of service (out-of-memory (OOM) terminated)
+487	unspecified impact
+488	a denial of service
+489	availability
+490	executed arbitrary Clojure or Python code
+491	actions in the name of that user
+492	cross site scripting
+493	root privileges
+494	overwrite arbitrary files
+495	clients with expired sessions to still receive subscription objects
+496	an attacker can exfiltrate any class path resource
+497	execute arbitrary code
+498	an attacker to exploit call endpoints on an openHAB server even if the openHAB server is
+499	a denial of service (OOPS)
+500	sql injection
+501	denial of service
+502	modify the internal Cake cache and execute arbitrary code
+503	a denial of service (system crash)
+504	password confirmation can be bypassed
+505	memory corruption
+506	a denial of service
+507	XSS
+508	a Denial of Service (DoS) by uploading a malicious JPEG file, causing the application to
+509	access arbitrary files
+510	inject arbitrary web script or HTML
+511	a denial of service (transaction overrun and data corruption) or possibly gain privileges
+512	command injection
+513	able to map HTTP servers on a local network
+514	a segmentation fault or application crash
+515	a systemd-coredump deadlock
+516	the app to delete all or selected records from the database, generally causing the app to become unusable
+517	execution of arbitrary JavaScript code
+518	a denial of service (CPU consumption)
+519	XSS payload
+520	enumerate the remote users known to a homeserver
+521	a denial of service (memory consumption)
+522	a denial of service (assertion failure)
+523	inject arbitrary HTTP headers and conduct HTTP response splitting attacks
+524	code execution
+525	allows it to be recovered and used to reset the password of any account.
+526	arbitrary SMTP commands
+527	easier for remote attackers to guess DSA host and SSH session keys
+528	restore old versions
+529	crash systemd services or potentially execute code and elevate their privileges
+530	a denial of service (application crash) and potential Information Disclosure
+531	a heap-based buffer overflow
+532	a denial of service (application crash) or possibly have unspecified other impact
+533	sensitive information from kernel memory
+534	the server to run untrusted code
+535	authentication bypass
+536	run admin commands on a remote server
+537	a Denial of Service (DoS)
+538	a denial of service (memory consumption)
+539	confidentiality, integrity, and availability
+540	Data Access from Outside Expected Data Manager Component
+541	a denial of service (deadlock)
+542	execute arbitrary commands
+543	access to the Azure Blob Storage until the token expires
+544	obtain sensitive information from process heap memory
+545	account to be taken over
+546	unauthorized access to sensitive information
+547	an out-of-bounds write
+548	Cross-Site Scripting (XSS)
+549	cross-site scripting (XSS)
+550	arbitrary code execution outside its sandbox
+551	OS command execution
+552	a denial of service (NULL pointer dereference and application crash)
+553	inject some code
+554	remote code execution and arbitrary file write
+555	access to critical information
+556	lock out actual admins from their OctoPrint instance
+557	an attacker may be able to exhaust the memory resources of a server
+558	reflected Cross Site Scripting (XSS)
+559	unintended access to GID 0
+560	exfiltrate data, take over accounts, achieve RCE
+561	read, change the ownership of, or have other unspecified impact on arbitrary files
+562	a denial of service
+563	arbitrary read and write operations on kernel memory, obtain root privileges
+564	a denial of service (NULL pointer dereference and system crash) or possibly have unspecified other impact
+565	a crash
+566	delete arbitrary non-protected images
+567	a local denial of service (BUG)
+568	an authentication bypass
+569	inject arbitrary web script or HTML
+570	unauthorized deletion of any organization's project
+571	uncontrolled thirdparty server
+572	sql injection
+573	remote denial of service
+574	cross site scripting
+575	cross-site request forgery
+576	cross site scripting
+577	a Denial of Service
+578	crashing software, Modify Memory, possible remote execution
+579	sensitive information leakage
+580	fully control the user account
+581	a denial of service (NULL pointer dereference and OOPS)
+582	open redirect
+583	read, write to, or change ownership of arbitrary files
+584	leak stack addresses potentially bypassing KASLR
+585	escalate their privileges from a low privilege user to a Django Super Administrator user
+586	denial-of-service
+587	a denial of service and potentially crash the system
+588	resource consumption
+589	potentially compromising their account
+590	access highly sensitive internal server(s) and steal sensitive information
+591	read sensitive information from other memory locations or cause a crash.
+592	read files on the remote system
+593	unspecified impact
+594	the victim's API key and can lead to admin's account takeover
+595	Request timed out.
+596	a denial of service (infinite loop)
+597	a denial of service
+598	a denial of service (DoS) or potentially execute arbitrary code on client host with privileges of the
+599	privileges to Administrator
+600	out-of-bounds access, leading to a SIGSEGV
+601	a kernel information leak issue
+602	escalate privilege to that of the root user
+603	XSS
+604	allows the user to use a higher-privileged role to see fields that otherwise the user should not
+605	a denial of service (TLB entry leak or use-after-free) or possibly have unspecified other impact
+606	inject arbitrary web script or HTML
+607	takeover of an repo
+608	resource exhaustion attack
+609	may result in them being placed in a location different than what was configured, potentially override existing files
+610	read or delete arbitrary files
+611	crash systemd services or potentially execute code and elevate their privileges
+612	non-whitelisted attributes to be used on a whitelisted HTML element.
+613	cross site scripting
+614	authenticate to the CloudForms System Engine web interface as an arbitrary user
+615	a denial of service (crash a moonlight client)
+616	complete loss of admin access to Ifme
+617	to force the expiration of any ENS record, ultimately allowing them to claim the affected domains for themselves
+618	execution will revert
+619	os command injection
+620	access page state data of pinned pages of other users
+621	a denial of service (memory consumption and application crash)
+622	accessible to malicious actors
+623	visit an IPV6 service
+624	remote code execution
+625	gain privileges or cause a denial of service (memory corruption)
+626	edit arbitrary bugnotes
+627	remote escalation of privilege
+628	a denial of service
+629	inject arbitrary web script or HTML
+630	place files at desired location on the system
+631	a considerable CPU load on the server (a Hash DoS attack)
+632	hijack web sessions
+633	a denial of service (disabling Route Origin Validation)
+634	write data to any fields container, including those to which they have no configured access
+635	a denial of service or possibly have unspecified other impact
+636	reading data on the machine of the `CodeChecker server`
+637	a denial of service
+638	cross-site scripting
+639	sensitive information
+640	a denial of service (DoS) such that an attacker can send a malformed packet and as a
+641	bypass security by poisoning the built-in authentication cache
+642	a denial of service (memory consumption)
+643	Users that are not yet approved can view the block reasons. Instance admins that do not want their domain
+644	override the registered redirect URL
+645	inject arbitrary code
+646	a denial of service
+647	sensitive data could be exposed, hashed passwords
+648	bypass an intended preauthentication requirement
+649	sensitive information disclosure to unauthorized actors
+650	create a new account in the organization with an arbitrary email address in their control
+651	crashes or leak of information
+652	leak authentication data to 3rd parties
+653	a denial of service (heap-based buffer overflow and application crash) or possibly have unspecified other impact
+654	inject arbitrary web script or HTML
+655	the corruption of the return address pointer
+656	the exposure of the server's IP address to a third party
+657	cross site scripting
+658	sensitive information or cause a denial of service (NULL pointer dereference)
+659	DoS attacks from RabbitMQ Java client which will ultimately exhaust the memory of the consumer.
+660	execute HTML or JavaScript code
+661	unintended read-access to files owned by that user
+662	a denial of service (NULL pointer dereference and system crash)
+663	Potentially leaking code and/or data from previous Trusted Application
+664	Requests to Kirby's API with the permissions of the victim, executed in the browsers of site visitors and
+665	a denial of service
+666	a long lived unrevokable stateless token
+667	unauthorized access to private chat histories
+668	a denial of service
+669	inject arbitrary web script or HTML
+670	execute arbitrary client-side JavaScript within the context of another user's phpMyFAQ session
+671	execute arbitrary code
+672	deletion of any file of the system
+673	security risks to users by allowing an application to continue listening to streaming after the application had been destroyed
+674	a denial of service (memory consumption)
+675	a denial of service (buffer under-read and application crash)
+676	gain privileges
+677	XSS
+678	JavaScript execution
+679	sql injection
+680	code execution via webshell
+681	a DoS, huge CPU consumption
+682	a kernel panic
+683	sql injection
+684	unexpected cross-protocol requests
+685	host OS privileges or cause a denial of service (out-of-bounds array access and host OS crash
+686	a denial of service (heap-based buffer overflow) or possibly gain privileges
+687	cross site scripting
+688	execute arbitrary commands
+689	a denial of service
+690	gain privileges or cause a denial of service (use-after-free)
+691	cross site scripting
+692	a denial of service (heap-based buffer over-read and application crash)
+693	access restricted files and directories
+694	bypassing CORS policy and thus allowing any page to make requests and/or retrieve data on behalf
+695	access to the underlying OS/container with the same permissions as the user running SFTPGo
+696	execution of JavaScript code controlled by the attacker
+697	XSS attacks
+698	an out-of-bounds write, heap-buffer-overflow
+699	a panic
+700	reading parts of format-compliant files, including code and log files, which may contain highly sensitive information
+701	code execution or other forms of impact
+702	a denial of service
+703	download attachments that are referenced in Text files without providing the password
+704	allowing attackers to send requests on a logged-in user's behalf
+705	a NULL pointer dereference and panic
+706	a Denial of Service or content injection.
+707	a denial of service (app crash, inability to open the app)
+708	username enumeration
+709	a denial of service (crash)
+710	arbitrary HTML and script code into a browser
+711	access to files, arbitrary attacker-controlled JavaScript to be loaded, fetch and execute an attacker-controlled template
+712	allows a download of it.
+713	cross site scripting attacks
+714	cache poisoning
+715	sensitive information from kernel memory
+716	huge CPU consumption
+717	Request timed out.
+718	a denial of service
+719	Request timed out.
+720	a Denial of Service
+721	redirect users to arbitrary web sites and conduct phishing attacks
+722	privileges
+723	access to the server
+724	a denial of service attack
+725	overwrite any file, corrupt or modify any OpenOlat file, execute java code, code injection
+726	gain privileges
+727	bypassing access controls
+728	memory/netns leak
+729	execute arbitrary code
+730	a denial of service
+731	file upload conflicts
+732	execute arbitrary web scripts or HTML
+733	session cookie theft and the alteration of page content
+734	read or write to kernel memory locations and bypass slab-allocation access restrictions
+735	execute arbitrary PHP
+736	read arbitrary files from outside the templates' directory
+737	It's possible to know if a user has or not an account in a wiki related to an email address
+738	URL Redirection to Untrusted Site
+739	remote code execution and thus complete server takeover
+740	cross site scripting
+741	an attacker can inject HTML code in the context of the user's browser session
+742	an attacker may be able to induce this event by feeding a user suitable links, either directly or via
+743	exfiltrate emulator data
+744	delete arbitrary files
+745	other multi-step attacks
+746	connection information including db name, username and db host name could be returned to the user
+747	a denial of service (deadlock)
+748	a denial of service (memory consumption)
+749	inject arbitrary web script or HTML
+750	a denial of service (application crash) or possibly have unspecified other impact
+751	interprets the URI as a relative path.
+752	a denial-of-service
+753	cache poisoning
+754	bypass intended /proc/sys/net restrictions
+755	execute arbitrary commands on the host operating system
+756	execute malicious JavaScript code
+757	XSS in the event timeline widget
+758	a denial of service (uninitialized data dereference and application crash)
+759	remote code execution, denial of service, affecting both confidentiality and integrity
+760	sensitive information
+761	a denial of service (OOPS)
+762	arbitrary code may be executed on the user's environment
+763	a denial of service (NULL pointer dereference and daemon crash)
+764	inject arbitrary web scripts
+765	access Address Space without encryption and authentication
+766	execute arbitrary commands
+767	a Distributed Denial of Service attack
+768	alter protected data, including admin account credentials
+769	execute arbitrary code
+770	a denial of service (memory corruption and system crash) or gain privileges
+771	a crash
+772	malicious code execution
+773	can fake their email address during authentication
+774	a denial of service
+775	cross-site scripting
+776	an attacker may use this behavior to trick the application into accepting a URL to an untrusted destination;
+777	an out-of-bounds read
+778	a denial of service and potentially crash the system.
+779	a potential Denial of Service (DoS) condition which could lead to excessive CPU consumption
+780	improper handling of extra parameters
+781	a denial of service (DOS) attack, prolonged unavailability of the service, disrupting operations, potential
+782	a denial of service (deadlock)
+783	expose users to security risks
+784	allow remote attackers to inject arbitrary web script or HTML
+785	remote code execution
+786	a denial of service (BUG)
+787	out-of-bounds memory access
+788	a denial of service (infinite loop)
+789	unauthorized actions being performed or sensitive information being disclosed
+790	an attacker to get `XWiki.superadmin`
+791	account takeover
+792	circumventing ext_authz checks
+793	a denial of service
+794	a denial of service (NULL pointer dereference)
+795	access to sensitive information or gaining the ability to execute code in that container
+796	a reflected XSS attack
+797	exposes title, content and comments of any document and properties of objects
+798	escalate their own privileges, full admin user, unrestricted permissions
+799	unspecified impact
+800	cross site scripting
+801	the entire application to be killed
+802	arbitrary JavaScript, invalid HTML
+803	an information leak
+804	a denial of service (OOPS) or possibly have unspecified other impact
+805	a denial of service (__lock_acquire use-after-free) or possibly have unspecified other impact
+806	Stored Cross-site Scripting (XSS)
+807	change the configuration
+808	a denial of service
+809	admin privileges
+810	sensitive information
+811	a denial of service (out-of-bounds read)
+812	a denial of service (system crash)
+813	query and modify information from internal services
+814	all sorts of XXE attacks
+815	access an Armeria server's local file system beyond its restricted directory
+816	a Cross-Site Request Forgery attack
+817	a stored cross-site scripting (XSS) vulnerability
+818	execute code in the user context of happy-dom
+819	a denial-of-service (heap-based buffer over-read) or possibly overwrite the heap
+820	credential information
+821	an out-of-bound read access
+822	absolute path traversal
+823	remote code execution (as well as a denial of service for the old installation)
+824	brute-force the user's encryption key
+825	a denial of service (application crash)
+826	access to all tickets of an arbitrary Organization
+827	gain privileges
+828	leak the admin password
+829	execute arbitrary commands
+830	read internal server files arbitrarily
+831	cross site scripting
+832	bogus GAP 'device found' events
+833	a bypass of CVE-2020-28480
+834	inject arbitrary web script or HTML, conduct a cross-site request forgery (CSRF) attack to
+835	a denial of service
+836	arbitrarily access and modify another student's personal notes.
+837	execute code via crafted Concise Binary Object Representation (CBOR) input, modify memory, causing a
+838	an information leak
+839	stored XSS in chat messages
+840	a stored cross-site scripting
+841	Remote Code Execution
+842	inject arbitrary web script or HTML
+843	escalate the privileges
+844	a denial of service attack, high as the server will crash, dropping all in flight connections and requests
+845	a denial of service (deadlock)
+846	pathname traversal
+847	sessions in the admin tool theoretically could have been prolonged without any limit
+848	the length of one valid bearer token
+849	a denial of service (out-of-bounds read)
+850	local escalation of privilege
+851	remote code execution
+852	malicious code or script executed when the page is loaded in the browser
+853	a denial of service, even code execution and escalation of privileges
+854	RSA-to-EXPORT_RSA downgrade attacks and facilitate brute-force decryption
+855	a denial of service attack
+856	a denial of service
+857	XSS attacks
+858	denial of service
+859	inject arbitrary web script or HTML
+860	access, copy, and delete other users' chat histories
+861	executing a JavaScript payload in the context of another administrator’s browser
+862	a denial of service
+863	command injection
+864	self-stored XSS
+865	remote code execution
+866	XSS
+867	denial of service
+868	a heap buffer overflow
+869	access PII and financial information from another account
+870	execute javascript code on the user who use the app
+871	Users can see the list of associated items they did not create.
+872	sensitive information from kernel stack memory
+873	hijack the authentication of arbitrary users for requests that run commands on the Karaf server
+874	a denial of service (WritePixels heap-based buffer overflow and application crash) or possibly have unspecified other
+875	a denial of service (stack-based buffer overflow) or possibly have unspecified other impact
+876	a denial of service
+877	read arbitrary files on the local file system, including sensitive files like '/etc/passwd'
+878	unauthorized modification of the application's configuration, create accounts, upload webshells, embed malicious JavaScript
+879	log in as another user
+880	remote command execution on the victim’s machine, create or overwrite existing files on the filesystem, code execution
+881	cross site scripting (XSS) attacks, javascript injection, XSS
+882	bypass generic constraints, and possibly execute arbitrary code
+883	heap-based buffer overflow
+884	inject arbitrary web script or HTML
+885	Stack Exhaustion
+886	arbitrary code execution in the Python interpreter
+887	render arbitrary views
+888	executing a malicious javascript code in web page
+889	generate and display arbitrary URLs
+890	compromises the confidentiality of sensitive documents
+891	bypass authentication
+892	redirect users to arbitrary web sites and conduct phishing attacks
+893	execute untrusted code
+894	sensitive information from kernel stack memory
+895	improperly controlled modification of object prototype attributes ('prototype pollution')
+896	a denial of service (BUG)
+897	object injection through Phar Deserialization
+898	a segmentation fault and denial of service
+899	cross site scripting
+900	cross site scripting
+901	password resets
+902	an out-of-bounds read
+903	a Denial of Service
+904	renders account contracts unusable on live networks
+905	attacker controlled filenames being written
+906	post-auth remote code execution
+907	authentication bypasses
+908	significantly reduces the amount of entropy
+909	an account's email being leaked
+910	a denial of service (assertion failure and Apache process abort)
+911	gain privileges
+912	a denial of service (application crash)
+913	Arbitrary Code Execution
+914	Local Privilege Escalation
+915	returning any data from the internal network
+916	command injection vulnerability
+917	a denial of service (memory consumption)
+918	Remote Code Execution
+919	a denial of service
+920	a connection race from a malicious local peer
+921	a denial of service (disrupted networking)
+922	hijack the authentication of administrators for requests that change the script compression option.
+923	execute code on the user's machine
+924	a denial of service (out-of-bounds array access) or possibly have unspecified other impact
+925	a denial of service or possibly unspecified other impact
+926	an infinite loop
+927	inject arbitrary web script or HTML
+928	Remote Code Execution
+929	cross-site scripting (XSS) attacks
+930	gain privileges
+931	Denial of Service (Segmentation fault and Memory Corruption) or possibly have unspecified other impact.
+932	access to possible confident / unreleased information
+933	a denial of service (NULL pointer dereference)
+934	arbitrary user meta fields to be saved
+935	OS commands can be injected
+936	an annoyance at worst
+937	overwrite a fixed 20 bytes stack buffer
+938	XSS
+939	a denial of service or execute arbitrary code
+940	a Local File Inclusion vulnerability
+941	the content of these files will be rendered in the generated documentation; Any readable file on the host where
+942	cross site scripting
+943	XSS
+944	Remote Code Execution (RCE)
+945	an XSS vulnerability
+946	Log entries can be injected into the database logs, containing a malicious referrer field.
+947	brute-force attacks
+948	execution of Twig code
+949	a DoS, huge CPU consumption
+950	obtain sensitive information
+951	code execution
+952	a denial of service (out-of-bounds read)
+953	a denial of service (NULL pointer dereference and OOPS)
+954	higher chance of succeeding
+955	arbitrary file deletion
+956	a denial of service (dentry reference leak)
+957	malicious SQL for Time Tracker database
+958	gain privileges
+959	Authorization Bypass to disconnect arbitrary clients.
+960	could use a token with only token write scope to subsequently generate further tokens with additional privileges
+961	code execution
+962	complete account takeover of the victim user
+963	security implications
+964	a denial of service (heap-based buffer over-read and application crash)
+965	a denial of service (out-of-bounds slab access) or possibly have unspecified other impact
+966	inject arbitrary web script or HTML
+967	a resource exhaustion vulnerability
+968	sql injection
+969	a use-after-free or NULL pointer dereference, a dom0 crash
+970	a denial of service (system crash or memory corruption)
+971	a buffer overflow
+972	a segfault
+973	take over an account
+974	access to private data

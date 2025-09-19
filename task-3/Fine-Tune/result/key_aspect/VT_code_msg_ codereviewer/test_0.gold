@@ -1,0 +1,1250 @@
+0	sensitive cookies in HTTPS sessions is not set
+1	memory corruption
+2	denial of service
+3	race condition
+4	a connection race from a malicious local peer
+5	CWE-532, CWE-209
+6	a systemd-coredump deadlock
+7	stored-self XSS
+8	segfault
+9	buffer over-read
+10	buffer over-read
+11	buffer over-read
+12	Missing Authorization
+13	buffer over-read
+14	pathname traversal
+15	integer underflow and a subsequent denial of service
+16	an uninitialized variable
+17	NULL Pointer Dereference
+18	HTTP Response Splitting
+19	Out-of-bounds Read
+20	Out-of-bounds Read
+21	Reflected Cross-Site-Scripting
+22	blind SQL injection
+23	CSRF + Cross-site scripting (XSS) vulnerability
+24	heap corruption
+25	bypass authorization checks
+26	inheritable file capabilities to elevate those capabilities
+27	Insufficient authentication
+28	Reflected XSS
+29	Cross-site Scripting (XSS) - Stored
+30	impersonation
+31	credential attacks
+32	denial of service (invalid stack-frame jump)
+33	Prototype Pollution
+34	information disclosure
+35	SSRF
+36	Cross-site Scripting (XSS)
+37	Directory Traversal
+38	Integer overflow
+39	NULL pointer dereference
+40	XSS
+41	race condition
+42	buffer over-read
+43	denial of service
+44	Floating Point Comparison with Incorrect Operator
+45	path traversal
+46	Heap-based Buffer Overflow
+47	an uninitialized variable
+48	denial of service
+49	an uninitialized memory
+50	remote code execution
+51	cross-site scripting (XSS) vulnerabilities
+52	reflected Cross-Site Scripting (XSS)
+53	TarSlip vulnerability
+54	Insecure Storage of Sensitive Information
+55	memory leak
+56	Directory Traversal
+57	user's profile is executed with the admin's rights
+58	insufficient fix for local information disclosure
+59	exposure of sensitive information
+60	double-free vulnerability
+61	cross-site scripting (XSS) vulnerabilities
+62	mishandles execute-only pages
+63	an incorrect sharing group ACL allowed an unprivileged user to edit and modify sharing groups
+64	symlink attack
+65	XXE attacks
+66	Integer underflow
+67	command injection
+68	reflected Cross-site scripting
+69	an uninitialized value used as an array index
+70	bypass input sanitization
+71	Insufficient boundary checks
+72	Improper Input Validation
+73	crafted symlink file
+74	memory leak
+75	improperly validated bracketed hosts, SSRF
+76	bypass policy-based enforcement, expose potentially sensitive information
+77	Improper Escaping and Disclosure
+78	manipulate the canonicalized version's DigestValue, forge the signature
+79	plaintext logging
+80	bypass
+81	path traversal
+82	insufficiently random data
+83	NULL Pointer Dereference
+84	File Upload vulnerability
+85	cross-site scripting (XSS)
+86	information exposure through discrepancy
+87	denial of service (deadlock)
+88	incomplete blacklist vulnerability
+89	symlink attack
+90	Stored XSS due to Unrestricted File Upload
+91	Integer overflow
+92	path traversal
+93	remote code execution
+94	buffer over-read
+95	ReDoS vulnerability, DoS vulnerability
+96	CSRF protection bypass
+97	sql injection
+98	Integer overflow
+99	Cross-site Scripting (XSS) - Stored
+100	prototype pollution
+101	Prisma injection
+102	Stack-based buffer overflow
+103	SSRF
+104	use-after-free
+105	integer overflow and memory corruption
+106	cross-site scripting (XSS) vulnerabilities
+107	insecure direct object reference
+108	Misinterpretation of Input
+109	stored XSS vulnerability
+110	local users to kill arbitrary processes
+111	Improper Restriction of XML External Entity Reference
+112	Buffer Overflow
+113	logged to the console
+114	re-processing
+115	denial of service
+116	Cross-site scripting (XSS)
+117	missing scope validation
+118	a crafted request
+119	path traversal
+120	denial of service
+121	spoof certificate fingerprints
+122	weak password recovery
+123	Cross-site Scripting (XSS) - Stored
+124	SQL Injection
+125	insecure deserialization
+126	Cross-site Scripting (XSS) - Stored
+127	denial of service (NULL pointer dereference)
+128	an incorrect data type in a sysctl table
+129	buffer overflow
+130	ReDOS
+131	out-of-bounds read
+132	excess CPU resources
+133	stored Cross-Site Scripting (XSS) vulnerability
+134	arbitrary JavaScript execution
+135	stored cross-site scripting
+136	Heap-based buffer overflow
+137	CSRF attacks
+138	mishandles parameter data used in a shell_exec call
+139	cross site scripting
+140	unauthenticated user
+141	Cross-site Scripting (XSS) - Stored
+142	integer overflow
+143	sql injection
+144	Improper Access Control
+145	Weak Password Requirements
+146	cross-site scripting (XSS) vulnerability
+147	Timing attack
+148	local execution attack
+149	buffer overflow
+150	access to restricted information
+151	XSS
+152	race condition
+153	XSS
+154	token exposure
+155	Use-after-free vulnerability
+156	NULL function pointer dereference
+157	unauthenticated blind server-side request (SSRF) vulnerability
+158	relative path traversal
+159	NULL Pointer Dereference
+160	NULL Pointer Dereference
+161	stored XSS
+162	Prototype Pollution
+163	application will immediately crash after receiving a malicious request
+164	stored Cross-Site Scripting (XSS) vulnerability
+165	URL Redirection to Untrusted Site
+166	buffer over-read
+167	NULL pointer dereference
+168	request processing error
+169	bypass access checks
+170	SQL injection
+171	disconnect vulnerability
+172	Improper Authorization
+173	misinterprets the devm_gpiod_get_index_optional return value
+174	path traversal
+175	Cross Site Scripting (XSS)
+176	NTLM Hash Disclosure
+177	null pointer dereference
+178	bypass the AllowChrootSymlinks control
+179	Cross-Site Scripting (XSS)
+180	out-of-bounds read
+181	improperly applied permission check
+182	collision attack on long IDs
+183	unsupported algorithms
+184	stored cross-site scripting
+185	cross-site scripting (XSS)
+186	unauthorized users
+187	persisted cross-site scripting
+188	denial of service
+189	Information leakage
+190	exposing username and credential
+191	Cross-site Scripting (XSS) - Stored
+192	URL Restriction Bypass
+193	lacks the Random Filling protection mechanism
+194	denial of service (integer overflow)
+195	SQL Injection
+196	path traversal
+197	SQL Injection
+198	confidential headers exposed
+199	stored XSS attack
+200	Stack consumption vulnerability
+201	XSS
+202	Cross-site Scripting (XSS) - Stored
+203	spoofing a webhook payload
+204	cross-site request forgery
+205	integer overflow
+206	SQL filtering vulnerability
+207	command injection
+208	buffer over-read
+209	denial of service
+210	remote code execution
+211	excess CPU resources
+212	denial of service
+213	out-of-bound read access
+214	injection
+215	path traversal
+216	denial of service
+217	does not properly generate CSRF token values
+218	Cross-site request forgery (CSRF)
+219	denial of service
+220	Missing a check for inactive users
+221	Cross-site Scripting (XSS) - Reflected
+222	memory leaks
+223	remote code execution
+224	Cross-site Scripting (XSS) - Stored
+225	Cross-Site Scripting (XSS)
+226	CSRF
+227	division by 0
+228	buffer overflow
+229	Double free vulnerability
+230	injection
+231	denial of service
+232	forging an http request
+233	Cross-Site Request Forgery
+234	read memory
+235	bypassing our feedstock-token + upload process
+236	cross-site scripting
+237	sql injection
+238	use-after-free
+239	CHECK-failure
+240	Improper Access Control
+241	heap-based buffer over-read
+242	Improper Restriction of XML External Entity Reference
+243	denial of service (out-of-array access)
+244	Cross-site request forgery (CSRF) vulnerability
+245	Use-after-free vulnerability
+246	out-of-bounds read
+247	symlink attack
+248	mishandles a needs-flushing-before-commit list, which allows local users to obtain sensitive
+249	cross-site scripting vulnerability
+250	Cross-site Scripting (XSS) - Reflected
+251	Heap-based buffer overflow
+252	Cross-site Scripting (XSS) - Reflected
+253	use multiple time the one-time coupon
+254	denial of service
+255	out-of-bounds access
+256	Cross-site Scripting (XSS) - Stored
+257	integer conversion error, Out-Of-Bounds, arbitrary code
+258	Cross-Site Request Forgery (CSRF)
+259	Integer overflow
+260	arbitrary code
+261	sql injection
+262	cross site scripting
+263	Use-after-free vulnerability
+264	heap-buffer-overflow
+265	cross site scripting
+266	Request timed out.
+267	Exposure of Sensitive Information to an Unauthorized Actor
+268	buffer size validation
+269	Use of Out-of-range Pointer Offset
+270	memory leak
+271	insufficient debugger PIN randomness
+272	format string
+273	Prototype Poisoning due to insecure results object creation and improper user input sanitization
+274	truncation
+275	Arbitrary Code Execution
+276	out-of-bounds memory read flaw
+277	remote code execution
+278	directory traversal
+279	stack-based buffer overflow
+280	heap-based buffer overflow
+281	Modification of Assumed-Immutable Data (MAID)
+282	denial of service
+283	XSS
+284	Missing Authorization
+285	sql injection
+286	cross-site scripting (XSS)
+287	Command Injection
+288	cross site scripting
+289	ignores an ACL
+290	denial of service
+291	denial of service
+292	Cross-site scripting (XSS)
+293	default encryption key
+294	integer overflow
+295	XSS vulnerability
+296	information loss
+297	Heap-based Buffer Overflow
+298	HTML emails.
+299	denial of service
+300	Remote Code Execution (RCE)
+301	sql injection
+302	Use After Free
+303	denial of service, memory corruption
+304	command injection vulnerability
+305	Authorization Bypass Through User-Controlled Key
+306	segmentation violation
+307	Buffer Overflow
+308	use-after-free
+309	incorrect escaping
+310	out-of-bounds write
+311	content spoofing
+312	uninitialized memory accesses, read outside of bounds, crashes
+313	out-of-bounds heap read
+314	upload validation checks were not 100% robust
+315	Server-Side Request Forgery (SSRF)
+316	information leakage
+317	SQL Injection Vulnerabilities
+318	executing a script with the right of another user
+319	bypass SAML authentication
+320	Account Takeover
+321	segfaults and crashes
+322	DoS vulnerability
+323	differential parsing
+324	Remote Code Execution (RCE) via XSTL
+325	Improper Control of Dynamically-Managed Code Resources
+326	Cross-site scripting (XSS) vulnerability
+327	excessive memory allocation
+328	Stored Cross-Site Scripting (XSS)
+329	denial of service
+330	XSS vulnerability
+331	Cross-site scripting (XSS) vulnerability
+332	denial of service
+333	Cross-site Scripting (XSS) - Stored
+334	Improper Restriction of Rendered UI Layers or Frames
+335	authorization bypass
+336	Improper Restriction of XML External Entity Reference
+337	denial of service
+338	resource exhaustion (denial of service)
+339	sql injection
+340	Heap-based Buffer Overflow
+341	DOM XSS
+342	lacks a certain e_TOKEN protection mechanism
+343	Reflected XSS
+344	out-of-array access
+345	unauthenticated user access
+346	a double free problem
+347	assertion failure
+348	incomplete fix
+349	Business Logic Errors
+350	Improper Privilege Management
+351	Command Injection
+352	stack-based buffer overflows
+353	TLS certificate validation flaw
+354	XSS vulnerability
+355	uncaught exception
+356	cross-site scripting (XSS)
+357	flush-and-reload side-channel attack
+358	Cross-Site Request Forgery (CSRF)
+359	cross-site scripting
+360	denial-of-service (resource exhaustion caused by an infinite loop)
+361	incorrect outcomes
+362	file read
+363	sensitive information from environment variables in error log
+364	buffer overflows
+365	uninitialized memory
+366	Cross-site scripting (XSS) vulnerability
+367	arbitrarily remove content
+368	cross-site scripting (XSS) vulnerabilities
+369	information disclose attack
+370	Cross-site Scripting (XSS) - Stored
+371	improperly set default permissions
+372	arbitrary file read
+373	out-of-bounds read
+374	out-of-bounds read
+375	Cross-site Scripting (XSS) - Stored
+376	reset the registered user's password
+377	Distributed Denial of Service
+378	use-after-free and BUG
+379	denial of service
+380	unauthorized funding without permission
+381	denial of service (heap-based buffer overflow and application crash)
+382	format string
+383	unrestricted
+384	use-after-free
+385	Cross-site Scripting (XSS) - Stored
+386	Improper Removal of Sensitive Information Before Storage or Transfer
+387	insecure configurations, CORS-related vulnerabilities, Access-Control-Allow-Origin header, wildcard, Access-Control-Allow
+388	denial of service
+389	authentication bypass
+390	denial of service (integer underflow and heap-based buffer under-read)
+391	XSS
+392	denial of service
+393	sql injection
+394	excessive resource consumption
+395	improperly generate the Application.config.secret_token value
+396	Cross-site scripting (XSS) vulnerability
+397	integer underflow
+398	sensitive information
+399	Improper Validation of Array Index
+400	Inefficient Regular Expression Complexity
+401	Cross-site scripting (XSS) vulnerability
+402	arbitrary files from disk
+403	out-of-bounds read
+404	man-in-the-middle attackers to spoof servers by leveraging clobbering of the error variable.
+405	SQL injection
+406	bypass authentication or authorization mechanisms
+407	LDAP injection
+408	cross-site scripting vulnerability
+409	default values
+410	out-of-bounds write, stack-based buffer overflow
+411	data race
+412	path traversal
+413	denial-of-service (uncontrolled resource consumption)
+414	information disclosure
+415	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
+416	weakness
+417	cross-site scripting
+418	out-of-bound read access
+419	type confusion
+420	an out-of-bounds read
+421	an uninitialized structure
+422	JSON hijacking
+423	memory exhaustion
+424	Cross-site Scripting (XSS) - Stored
+425	out-of-bounds write
+426	integer overflow or wraparound or memory safety issue
+427	use-after-free
+428	arbitrary file read vulnerability
+429	file inclusion
+430	Cross-site Scripting (XSS)
+431	denial of service
+432	network buffer that had to be split at certain length that could crash the kernel after receiving specially crafted escape
+433	file read
+434	out-of-bounds write
+435	path traversal
+436	directory traversal
+437	open redirect vulnerability
+438	Unhandled case when reading POST requests
+439	XXE-attack
+440	Stored XSS
+441	out of array read
+442	Stored Cross-Site Scripting (XSS)
+443	Use-After-Free
+444	restricted static php methods
+445	sensitive information
+446	stored cross site scripting attack
+447	improper handling of extra parameters
+448	NULL pointer dereference
+449	denial of service, out-of-bounds read, KDC crash
+450	Open Redirect
+451	denial of service
+452	authentication bypass
+453	password hashes retrieval
+454	stack-buffer overflow
+455	Uncaught Exception
+456	Race condition
+457	ReDoS (regular expression denial of service)
+458	cross site scripting
+459	arbitrary HTML tags injection
+460	authorization bypass
+461	improper input validation
+462	cross site scripting
+463	Stored Cross-Site Scripting (XSS)
+464	bypass
+465	denial of service
+466	Divide by Zero
+467	SSID Command Injection Vulnerability
+468	Cross-site Scripting (XSS) - Stored
+469	Stack-based Buffer Overflow
+470	buffer overflow
+471	use-after-free
+472	trust header
+473	memory-cache side-channel attack
+474	content-spoofing attack
+475	server-side request forgery
+476	resetting the password of a suspended account
+477	Improper Neutralization of Formula Elements in a CSV File
+478	heap-based buffer over-read
+479	Unchecked Return Value
+480	cross-site request forgery (CSRF)
+481	command injection
+482	privilege escalation
+483	improperly closed connection
+484	SQL injection
+485	remote code execution
+486	Session Fixation
+487	unsafe native PHP serialization
+488	arbitrary code and commands execution
+489	mishandles X.509 certificate validation
+490	reflected cross-site scripting (XSS)
+491	cross-site scripting
+492	stored cross-site scripting (XSS)
+493	buffer overflow
+494	use-after-free
+495	remote code execution
+496	Deserialization of Untrusted JSON Data
+497	a race condition between callback and destroy, denial of service
+498	reflected cross-site scripting (XSS) vulnerabilities
+499	Regular Expression Denial of Service (ReDoS)
+500	expired keys
+501	stored XSS vulnerability
+502	buffer underflow
+503	denial of service
+504	Improperly check permissions
+505	Stack-based Buffer Overflow
+506	sql injection
+507	Use After Free
+508	authentication bypass
+509	stored XSS
+510	insufficient verification
+511	bypass, denial-of-service, impersonate, loss of confidentiality, loss of integrity
+512	cross-site scripting (XSS)
+513	Regular Expression Denial of Service (ReDoS)
+514	path traversal
+515	Heap-based Buffer Overflow
+516	cross site scripting
+517	flaw in the way ceph mon handles user requests
+518	remote code execution
+519	wrongly parses email addresses
+520	improperly validate X-Auth-Token
+521	sql injection
+522	exposed token
+523	broken access control
+524	NULL pointer dereference
+525	unaligned accesses
+526	file exposure
+527	heap-based buffer over-read
+528	local disk access
+529	Heap-based Buffer Overflow
+530	Cross-site scripting (XSS) vulnerability
+531	XSS
+532	stored XSS attack
+533	sql injection
+534	NULL Pointer Dereference
+535	NULL pointer dereference
+536	a certain name field does not ensure that a certain name field ends with a '\0' character,
+537	cross-site request forgery
+538	RSA PKCS#1 v1.5 signature forgery
+539	Prototype pollution
+540	denial of service
+541	TLS hostname verification
+542	negative authorization decision
+543	denial of service
+544	Password Reset Vulnerability
+545	file upload
+546	heap-based buffer overflow
+547	null pointer dereference
+548	infinite loop
+549	buffer over-read
+550	Improper Restriction of Excessive Authentication Attempts
+551	Heap-based Buffer Overflow
+552	stack-based buffer overflow
+553	log poisoning, Remote Code Execution, template injection
+554	remote attackers to create an admin user
+555	Improper Handling of Exceptional Conditions
+556	stored cross-site scripting (XSS)
+557	XSS attacks
+558	TLB flush operations are mishandled
+559	buffer overflow
+560	improper authorization
+561	improper verification of a CSRF token
+562	heap-based buffer overflow
+563	unauthorized access
+564	denial of service
+565	an uninitialized variable
+566	cross site scripting
+567	improper indexing
+568	Cross-site Scripting (XSS) - Reflected
+569	an exception in the AMF's internal state machine, leading to an AMF crash and resulting in
+570	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
+571	cross site scripting
+572	denial of service
+573	broken access control
+574	arbitrary code execution
+575	read sensitive information
+576	command injection
+577	unrestricted file upload
+578	arbitrary files and URLs
+579	improper access control
+580	Improper Authorization
+581	incorrect C library function for copying strings
+582	Stack-based buffer overflow
+583	SQL Injection
+584	Out-of-bounds Write
+585	header injection
+586	improper access control
+587	Deserialization of Untrusted Data
+588	Use-after-free
+589	memory corruption
+590	Cross-site scripting (XSS) vulnerability
+591	log injection
+592	Cross-site Scripting (XSS) - Stored
+593	integer overflow
+594	log contention-related performance concerns or an unwanted disk fill-up
+595	open redirection
+596	arbitrary OS commands
+597	SQL Injection
+598	stored cross-site scripting (XSS) vulnerability
+599	SSRF
+600	cross-site scripting (XSS)
+601	CSRF protection is incorrectly disabled
+602	none
+603	credentials leak in application logs
+604	reflected XSS
+605	CPU-bound computation
+606	local users to gain privileges or cause a denial of service (stack memory consumption) via vectors involving crafted
+607	segmentation fault
+608	a DoS due to lack of an EOF check
+609	cross site scripting
+610	SQL injection vulnerability
+611	reveals whisper participants
+612	a connection race from a malicious local peer
+613	Out-of-bounds Read
+614	bypass intended access restrictions
+615	Cross-site Scripting (XSS) - Stored
+616	cross-site scripting (XSS)
+617	command injection
+618	cache key issue
+619	unsafe PAC file handling
+620	insufficient permission check
+621	Buffer overflow
+622	Cross-Site Scripting vulnerability
+623	Buffer overflow
+624	an untrusted hypervisor can inject virtual interrupt 29 (#VC) at any point in time and
+625	remote code execution through PHAR deserialization
+626	Use of Incorrect Operator
+627	Regular Expression Denial of Service
+628	integer underflow
+629	Multiple cross-site scripting (XSS) vulnerabilities
+630	bypass
+631	Cross-site scripting (XSS)
+632	a race condition between pf(4)'s processing of packets and expiration of packet states
+633	mishandles errors during early request binding
+634	Prototype Pollution
+635	Weak Password Requirements
+636	mutation cross-site scripting (mXSS)
+637	XSS
+638	Content-Type allowlist bypass
+639	Business Logic Errors
+640	Cross-site scripting (XSS)
+641	open redirect vulnerability
+642	assertion failure
+643	Prototype Pollution
+644	Cross-Site Scripting
+645	Remote Code Execution
+646	insecure TLS
+647	incorrect authorization
+648	integer signedness error and out-of-array read
+649	missing check
+650	double free upon an allocation failure
+651	arbitrary SQL queries
+652	leak password information
+653	Path Traversal
+654	Template injection
+655	denial of service
+656	NULL pointer dereference
+657	cross-site scripting (XSS)
+658	an arbitrary processes or cause a denial of service (system disruption) by leveraging /dev/kvm access
+659	Stored Cross-Site-Scripting (XSS)
+660	risky characters
+661	Cross site Request Forgery (CSRF)
+662	Prototype Pollution
+663	Prototype pollution
+664	out-of-bounds read
+665	an error-report data structure, denial of service, local users
+666	Unsafe YAML deserilization, arbitrary code execution, deserilization attack
+667	SSRF
+668	use-after-free flaw
+669	improper access control
+670	Cross-Site Scripting (XSS)
+671	Use of Out-of-range Pointer Offset
+672	cross site scripting
+673	Use-after-free
+674	cross site scripting
+675	Cross-Site Request Forgery (CSRF)
+676	memory leak
+677	uncontrolled code
+678	incomplete fix for CVE-2018-20060
+679	Remote Code Execution
+680	NULL pointer dereference
+681	Heap Overflow
+682	out-of-bounds write
+683	server-side request forgery
+684	Directory Traversal
+685	Improper Authorization
+686	memory leak
+687	unauthenticated users from requesting arbitrary files
+688	file system traversal
+689	denial of service (NULL pointer dereference and daemon crash)
+690	CSRF issue
+691	path traversal
+692	cross-site scripting
+693	cross-site scripting (XSS)
+694	cross site scripting
+695	regular expression injection
+696	information exposure
+697	cross-site scripting
+698	cross-site scripting
+699	Insecure Direct Object Reference (IDOR)
+700	Improper Removal of Sensitive Information Before Storage or Transfer
+701	cross site scripting
+702	Authorization and Proxy-Authorization headers not cleared
+703	integer overflow, buffer overflow
+704	jwt forge
+705	use-after-free
+706	inconsistent netlink message length, sensitive information, kernel heap memory
+707	denial of service
+708	denial of service (crash) buffer overflow over-read
+709	denial of service
+710	type confusion
+711	a DoS in ivr_read_header() due to lack of an EOF (End of File)
+712	Bidirectional Unicode text interpreted and compiled differently
+713	Cross-site Scripting (XSS) - Stored
+714	Buffer overflow vulnerability
+715	buffer overrun
+716	Deserialization of Untrusted Data
+717	inefficient regular expression complexity, denial of service attack
+718	denial of service
+719	stack-based buffer over-read
+720	heap-based buffer overflow
+721	out of memory panic
+722	leak potentially sensitive environmental information or lead to limited denial of service conditions
+723	cross site scripting
+724	Server-Side Template Injection
+725	a connection race from a malicious local peer
+726	heap oob read
+727	higher privileges
+728	SQL injection
+729	an uninitialized data structure
+730	insufficient content restrictions, malicious auto-downloaded file, unwanted native code DLLs, sandbox escape
+731	Open Redirect
+732	buffer overflow
+733	leak
+734	External Control of File Name or Path
+735	Improper Access Control
+736	buffer overflow
+737	Directory traversal vulnerability
+738	invalid `free()` or `realloc()` calls
+739	cross site scripting
+740	null pointer dereference
+741	faked email address during authentication
+742	SQL injection vulnerability
+743	directory traversal
+744	information disclosure
+745	local file disclosure
+746	Remote Code Execution
+747	command injection
+748	Authorization Bypass Through User-Controlled Key
+749	default password
+750	memory leak
+751	out-of-bounds read
+752	arbitrary Content-Type, executing arbitrary Javascript, session theft
+753	Improper Access Control
+754	Prototype Pollution
+755	insufficient content restrictions
+756	regular expression denial-of-service (ReDoS)
+757	Integer signedness error
+758	poisoning of the cache
+759	stored cross-site scripting (XSS)
+760	Cross Site Scripting (XSS)
+761	sql injection
+762	SSRF
+763	network MITM attacks
+764	denial of service (invalid unlock and double free)
+765	mishandles size checks
+766	improper validation
+767	Cross-site Scripting (XSS)
+768	Race condition
+769	off-by-one overflow flaw
+770	information disclosure
+771	Improper input validation
+772	HTTP request smuggling attacks
+773	NULL Pointer Dereference
+774	cross-site scripting (XSS) vulnerabilities
+775	Directory traversal vulnerability
+776	path traversal
+777	Remote Code Execution
+778	Code Injection
+779	memory leak
+780	mishandles untrusted Markdown content
+781	account hijacking
+782	denial of service
+783	Command Injection Vulnerability
+784	bypass intended access restrictions
+785	Creation of Temporary File in Directory with Insecure Permissions
+786	XSS
+787	Heap-based Buffer Overflow
+788	remote code
+789	an incorrect limit imposed by the proxy
+790	OS commands
+791	arbitrary programs
+792	certificate-blacklist protection mechanism
+793	partial path traversal
+794	weak secrethash can be brute-forced
+795	Code Injection
+796	cross-site request forgery (CSRF)
+797	allows remote attackers to add a new member without acknowledgment of site administrator
+798	Cross-site Scripting (XSS) - Reflected
+799	account hijacking
+800	NULL pointer dereference
+801	Remote Command Execution
+802	race condition
+803	arbitrary AQL queries
+804	reflected XSS
+805	timing attack
+806	an uninitialized structure member
+807	bypass a kadmin/* authorization check
+808	Prototype pollution
+809	denial of service
+810	lacks a certain error check
+811	DoS due to lack of an EOF check
+812	Buffer Overflow
+813	HTML is not sanitized before replacing the shortcode, allowing a script payload to be executed
+814	integer overflows
+815	integer signedness error, buffer overflow, remote code execution
+816	type confusion vulnerability
+817	Out-of-bounds Read
+818	denial of service
+819	improper authorization
+820	Directory traversal
+821	slowloris-type attacks
+822	insecure access to metadata
+823	memory leak vulnerability
+824	SQL injection
+825	CSRF + Cross-site scripting (XSS) vulnerability
+826	Server-Side Request Forgery
+827	denial of service
+828	improper authorization
+829	Improper Neutralization of Special Elements used in an OS Command
+830	Incorrect Authorization
+831	stored XSS
+832	SQL Injection
+833	an uninitialized structure
+834	information disclosure
+835	sql injection
+836	Stored Cross-Site Scripting (XSS)
+837	denial of service
+838	heap buffer overflow
+839	cross site scripting
+840	Stored Cross-Site Scripting (XSS)
+841	buffer over-read
+842	denial of service
+843	Cross-Site Request Forgery (CSRF)
+844	sandbox escape
+845	Operating System (OS) Command Injection
+846	cross site scripting
+847	cross site scripting
+848	Cross-site scripting (XSS) vulnerability
+849	token exposure
+850	refcount to be dropped twice
+851	bypass intended personality restrictions
+852	arbitrary files via crafted playlist data
+853	double free
+854	execute code
+855	Cross Site Scripting (XSS)
+856	use-after-free
+857	cross site scripting
+858	mismanages locks
+859	denial of service
+860	stack-based buffer overflow
+861	uninitialized pointer
+862	HTML sent as a comment
+863	denial of service (buffer over-read)
+864	Heap-based buffer overflow
+865	Cross-site Scripting (XSS) - Stored
+866	buffer over-read
+867	divide-by-zero vulnerability
+868	out-of-bounds read/write vulnerability
+869	code injection
+870	denial of service or gain privileges
+871	bypass of the mandatory field requirements
+872	inefficient regular expression complexity
+873	Buffer Overflow
+874	ReDoS
+875	integer overflow
+876	denial of service
+877	Boundary checks
+878	authorization bypass through improper validation of certificate with host mismatch
+879	Regular Expression Parsing vulnerability
+880	Code Injection
+881	cross-site scripting
+882	cross site scripting
+883	Cross-Site Request Forgery (CSRF)
+884	Memory leak
+885	memory corruption
+886	denial of service
+887	reflected XSS
+888	Improper Input Validation
+889	out-of-bounds read
+890	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
+891	use-after-free
+892	path disclosure
+893	memory exhaustion vulnerability
+894	request smuggling attacks
+895	maliciously crafted gem specifications that include terminal escape characters
+896	Server-Side Request Forgery (SSRF)
+897	out-of-bounds read
+898	heap overflow
+899	unauthenticated attack
+900	SQL injection
+901	arbitrary code injection
+902	Request timed out.
+903	improperly restrict execute access
+904	information disclosure, KASLR bypass
+905	out-of-bounds read
+906	injection
+907	code execution via shell metacharacters
+908	command injection
+909	an integer signedness error
+910	user input is not filtered correctly
+911	open redirection
+912	password length limit
+913	HTTP response splitting
+914	Incorrect Authorization
+915	directory traversal
+916	view rights not taken into account for deleted documents
+917	Cross-site scripting (XSS) vulnerability
+918	discloses private information
+919	bypass
+920	Denial of Service (DoS)
+921	Stack-based buffer overflow
+922	cross-site scripting
+923	an integer signedness error
+924	Integer Overflow
+925	denial of service (NULL pointer dereference and system crash)
+926	object pollution
+927	Buffer overflow
+928	Denial of Service
+929	Out-of-bounds write
+930	a denial of service
+931	mishandled ACLs
+932	XSS
+933	Privilege escalation via arbitrary file write
+934	file access
+935	zipslip
+936	a double free
+937	Weak Password Requirements
+938	redundant checks
+939	Cross-site Scripting (XSS)
+940	directory traversal
+941	denial of service
+942	Cross-site Scripting (XSS) - Stored
+943	Cross-site Scripting (XSS)
+944	buffer overflow
+945	denial of service
+946	insufficient security checks
+947	injection
+948	skipping authentication checks
+949	uninitialized heap-memory contents
+950	reflected XSS
+951	Buffer overflow
+952	DLL hijacking
+953	path traversal
+954	cross site scripting
+955	an uninitialized data structure
+956	path traversal
+957	does not properly validate the security type
+958	division by 0 error
+959	cross site scripting
+960	out-of-bounds memory reads or writes
+961	SQL Injection
+962	heap-based buffer over-read
+963	remote attackers to read arbitrary files
+964	os command injection
+965	quoted-overlap zip-bombs
+966	Cross-site Scripting (XSS) - Stored
+967	does not properly handle files
+968	heap-based buffer overflow
+969	an information leak in cdrom_ioctl_drive_status because a cast from unsigned long to int interferes with
+970	stack-based buffer overflow
+971	leak database users credentials
+972	frees an uninitialized pointer
+973	remote code execution
+974	out-of-bounds read
+975	stack-based buffer overflow
+976	memory leak
+977	A Floating point exception (division-by-zero) flaw
+978	Cross-Site Scripting (XSS)
+979	improperly and insufficiently checked authorization
+980	Memory leak
+981	Cross-site Scripting (XSS) - Stored
+982	use-after-free
+983	an image run failure
+984	Stored XSS
+985	cross-site scripting (XSS)
+986	insufficient access control
+987	race condition
+988	buffer overflow
+989	cross-site scripting (XSS)
+990	bypass Integrity Measurement Architecture (IMA) rules
+991	SQL Injection
+992	improperly handle error conditions, NULL pointer dereference, denial of service, gain privileges
+993	Integer Overflow
+994	symlink attack
+995	validation is bypassed
+996	Out-of-Bounds Read
+997	improperly handle
+998	use-after-free
+999	Local File Inclusion
+1000	XML External Entity (XXE) vulnerabilities
+1001	denial of service
+1002	integer overflow
+1003	Denial of Service (DoS) vulnerability via OOM
+1004	cross-site scripting (stored XSS)
+1005	Out-of-bounds Write
+1006	custom object ID
+1007	improper sanitization, stored Cross-site Scripting
+1008	Arbitrary File Overwrite
+1009	large memory allocations
+1010	execute arbitrary commands via shell metacharacters
+1011	an arbitrary response, a fixed CSRF token, HTTP compression, a BREACH attack
+1012	Privilege Escalation
+1013	SQL injection
+1014	SQL injection
+1015	XSS
+1016	Heap-based Buffer Overflow
+1017	privilege escalation
+1018	Open redirect vulnerability
+1019	cross-site scripting
+1020	leaking
+1021	Cross-Site Scripting
+1022	Integer Overflow or Wraparound
+1023	memory corruption
+1024	out-of-bounds read
+1025	Cross Site Scripting (XSS) vulnerability
+1026	Command Injection
+1027	Heap-based Buffer Overflow
+1028	denial of service (double free)
+1029	denial of service or possibly execute arbitrary code
+1030	Prototype Pollution
+1031	an incorrect privilege dropping
+1032	xml external entity reference
+1033	cross site scripting
+1034	Cross-Site Request Forgery (CSRF)
+1035	arbitrary files
+1036	directory traversal
+1037	double-free condition
+1038	CSS injection
+1039	Use After Free
+1040	integer truncation
+1041	a double free
+1042	leak
+1043	excessive CPU usage
+1044	no permission
+1045	Use After Free
+1046	session tokens are exposed to hijack a session
+1047	denial of service
+1048	timing attack
+1049	Integer overflow
+1050	mutation XSS
+1051	NTLMv2 password hash leak
+1052	arbitrary symlinks
+1053	XSS
+1054	double free vulnerability
+1055	ReDoS vulnerability
+1056	arbitrary code execution
+1057	arbitrary Python code
+1058	arbitrary filename for download
+1059	improperly controlled modification of object prototype attributes ('prototype pollution')
+1060	improper control of resource identifiers
+1061	Cross-site Scripting (XSS) - Reflected
+1062	Directory Traversal
+1063	denial-of-service (application crash resulting from a heap-based buffer over-read)
+1064	an incorrect read operation during parsing of a SETCOS file attribute
+1065	Time-of-Check to Time-of-Use (TOCTOU) vulnerability
+1066	an improper session management
+1067	Integer overflow
+1068	cross-site scripting (XSS) vulnerabilities
+1069	CSRF
+1070	sandbox escape
+1071	path traversal vulnerability
+1072	Cross-site Scripting (XSS) - Stored
+1073	Stored XSS
+1074	reflected XSS vulnerability
+1075	stack-based buffer overflow
+1076	race condition and incorrect initialization
+1077	XXE
+1078	NULL pointer dereference and system crash
+1079	memory is allocated for limb data
+1080	memory leak
+1081	User won't be logged out
+1082	Improper Cleanup on Thrown Exception
+1083	double fetch
+1084	NULL pointer dereference
+1085	unsafe waiter modification
+1086	Cross-Site Request Forgery (CSRF)
+1087	NULL Pointer Dereference
+1088	inaccessible admin API port
+1089	path traversal
+1090	denial of service
+1091	buffer over-read
+1092	cross-site scripting (XSS) vulnerabilities
+1093	use after free
+1094	use of web link to untrusted target with window.opener access
+1095	Memory leak
+1096	Lack of CSRF attack mitigation
+1097	unauthenticated user to gain control over the Linux user account
+1098	path filtering of the URL for user avatar image files was not strict
+1099	signature verification issue
+1100	Integer signedness error
+1101	Improper input validation
+1102	Improper Access Control
+1103	access control mishandles
+1104	uninitialized stack data
+1105	Exposure of Sensitive Information to an Unauthorized Actor
+1106	symlink attack
+1107	Server-Side Request Forgery (SSRF)
+1108	cross-site scripting (XSS) vulnerabilities
+1109	accepts a filename that has '\0' as its first or second character
+1110	Unverified Password Change
+1111	omits validation
+1112	cross-site scripting (XSS)
+1113	cross site scripting
+1114	application hangs when receiving a Host header with a value that `@hono/node-server` can't handle
+1115	reliance on the java.util.Random class for generation of random Session ID values, which makes it
+1116	Reflected Cross-Site Scripting
+1117	Heap-based Buffer Overflow
+1118	XSS
+1119	Double free vulnerability
+1120	out-of-bounds read
+1121	heap-based buffer overflows
+1122	information disclosure
+1123	Heap-Based Buffer Overflow
+1124	Cross-site scripting (XSS)
+1125	cross-site scripting vulnerability
+1126	XSS issue
+1127	Improper Restriction of XML External Entity Reference
+1128	arbitrary web scripts
+1129	integer overflows
+1130	Race condition
+1131	buffer over-read
+1132	man-in-the-middle
+1133	Improper Neutralization of Input During Web Page Generation
+1134	Cross-site scripting (XSS) vulnerability
+1135	Improper Access Control
+1136	Out-of-bounds Read
+1137	an issue in .npmrc support where Deno would send .npmrc credentials for the scope to
+1138	Cross-Site Request Forgery (CSRF)
+1139	buffer over-read
+1140	insecure direct object reference
+1141	session cookie reuse
+1142	brute force attacks
+1143	directory traversal
+1144	information leak flaw due to uninitialized memory
+1145	denial of service
+1146	PHAR deserialization, remote code execution
+1147	world-readable
+1148	connection race
+1149	Cross-site Scripting (XSS) - Reflected
+1150	out of bounds read
+1151	arbitrary paths
+1152	Request timed out.
+1153	Buffer overflow
+1154	Regular expression Denial of Service
+1155	content-spoofing attack
+1156	cross-site scripting (XSS)
+1157	memory allocated to XWiki and make it unusable
+1158	buffer over-read
+1159	CSV Injection
+1160	Insertion of Sensitive Information Into Debugging Code
+1161	execute a script with the right of another user
+1162	buffer overflow
+1163	Cross-site scripting (XSS) vulnerability
+1164	lack of a certain temporary-file check
+1165	bypass intended access restrictions
+1166	Division-by-zero vulnerabilities
+1167	Request timed out.
+1168	XSS
+1169	input is safe
+1170	deserialization of untrusted data
+1171	denial of service slab-out-of-bounds access
+1172	XML External Entity (XXE) Injection
+1173	improper CORS headers
+1174	Cross-site Scripting (XSS)
+1175	Path Traversal
+1176	integer overflow
+1177	bypassing policy restrictions
+1178	SMTP Command Injection
+1179	injected credentials
+1180	memory race condition
+1181	integer overflow error
+1182	denial of service
+1183	improper escaping of the shell command
+1184	Server-Side Request Forgery
+1185	upper bound check issue
+1186	buffer overflow and memory corruption
+1187	segfault in string deallocation
+1188	memory race condition
+1189	Improper permissions enforcement
+1190	Command Injection
+1191	JavaScript code injection
+1192	denial of service
+1193	premature close of arbitrary file descriptors, permission prompt bypass, arbitrary code execution
+1194	Prototype Pollution
+1195	reflected XSS
+1196	path changes in the name
+1197	improper permissions
+1198	Stored Cross-site Scripting (XSS)
+1199	information disclosure
+1200	an authenticated user can edit swimlanes of a private project of another user
+1201	Denial-of-Service
+1202	improperly validate values, execution of arbitrary code
+1203	memory race condition
+1204	Access control
+1205	memory leak
+1206	escalate their permission
+1207	memory leak
+1208	Cross-site scripting (XSS) vulnerability
+1209	denial of service
+1210	improperly initialize a certain data structure
+1211	secret values
+1212	out-of-bounds heap write
+1213	Insufficient validation
+1214	improper authentication
+1215	Denial-of-Service (DoS) condition, infinite loop, malicious input
+1216	cryptographically secure
+1217	access release notes content or information via the FRS REST endpoints it should not have access to
+1218	Heap-based Buffer Overflow
+1219	displayed as green
+1220	arbitrary Python code
+1221	improperly restrict access
+1222	Server-Side Request Forgery (SSRF)
+1223	missing permission check
+1224	sql injection
+1225	timing attack vulnerability
+1226	denial of service
+1227	stored cross-site scripting (XSS)
+1228	CSRF protection
+1229	pickle deserialization vulnerability
+1230	local users to read arbitrary files by leveraging user-namespace root access for deletion of a file or directory
+1231	JavaScript code execution
+1232	Cross-site Scripting (XSS) - DOM
+1233	HTML injection
+1234	Cross-site Scripting (XSS) - Stored
+1235	SQL Injection
+1236	permissions not taken into account
+1237	buffer over-reads
+1238	denial of service, remote code execution, unexpected behavior
+1239	regular expression denial of service
+1240	Stored Cross-Site Scripting
+1241	stack-based buffer overflow
+1242	CSV injection
+1243	blind SSRF
+1244	Cross-site request forgery (CSRF) vulnerability
+1245	improperly restrict access
+1246	type confusion error
+1247	infinite loop flaw
+1248	impersonate any account, escalate their privileges
+1249	buffer overflow

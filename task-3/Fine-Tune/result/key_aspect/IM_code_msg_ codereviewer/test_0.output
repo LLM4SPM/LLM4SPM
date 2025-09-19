@@ -1,0 +1,975 @@
+0	a denial of service (DoS
+1	allows attackers to inject arbitrary web script or HTML
+2	remote code execution
+3	remote code execution
+4	a denial of service (DoS
+5	an out-of-bounds read
+6	execute arbitrary code
+7	memory corruption
+8	bypass intended access restrictions
+9	a denial of service
+10	a denial of service
+11	sensitive information from kernel memory
+12	execute arbitrary code
+13	a denial of service
+14	a denial of service
+15	unauthorized access to sensitive files
+16	a denial of service
+17	execute arbitrary SQL commands
+18	execute arbitrary SQL commands
+19	a denial of service
+20	a denial of service (DoS
+21	a denial of service
+22	cross site scripting
+23	a NULL pointer dereference
+24	a denial of service
+25	a denial of service
+26	code scanning
+27	gain privileges
+28	download attachments from private projects
+29	execute arbitrary SQL commands
+30	an attacker-controlled error message to the user
+31	a denial of service
+32	unauthorized access to the backlog
+33	a denial of service
+34	denial of service
+35	allows attackers to inject arbitrary web script or HTML
+36	cross site scripting
+37	a denial of service (DoS
+38	a denial of service
+39	a denial of service
+40	read arbitrary files
+41	a denial of service
+42	a denial of service attack
+43	a malicious invocation
+44	access to sensitive information
+45	execute arbitrary code
+46	a denial of service
+47	cross site scripting
+48	arbitrary code execution
+49	cross site scripting
+50	a deno-node process crash
+51	a denial of service (application crash
+52	a denial of service (system crash
+53	read arbitrary files
+54	execute arbitrary code
+55	an out-of-bounds read
+56	a denial of service (DoS
+57	a denial of service (application crash
+58	a denial of service
+59	a denial of service
+60	XSS
+61	unauthorized access to private streams
+62	sensitive information from kernel memory
+63	a denial of service
+64	a denial of service
+65	cross site scripting
+66	a denial of service
+67	cross site scripting
+68	sql injection
+69	bypass the security checks
+70	a denial of service (memory consumption
+71	execute arbitrary SQL commands
+72	execute arbitrary code
+73	cross site scripting
+74	execute arbitrary code
+75	cross-site request forgery
+76	information disclosure
+77	bypass intended access restrictions
+78	unauthorized access to sensitive information
+79	bypass intended access restrictions
+80	a denial of service
+81	execute arbitrary commands
+82	execute arbitrary code
+83	session fixation attacks
+84	a denial of service
+85	an infinite loop
+86	execute arbitrary SQL commands
+87	a denial of service
+88	a denial of service (application crash
+89	remote code execution
+90	remote code execution
+91	an out-of-bounds array read
+92	bypass intended access restrictions
+93	a denial of service (temporary file deletion
+94	a denial of service
+95	remote code execution
+96	execute arbitrary code
+97	unauthorized access to the application's resources
+98	a denial of service (CPU consumption
+99	cross-site request forgery
+100	a denial of service
+101	a malicious FTP server
+102	cross site scripting
+103	privilege escalation
+104	remote code execution
+105	a denial of service (DoS
+106	buffer overflows
+107	a denial of service (system crash
+108	read arbitrary files
+109	execute arbitrary code
+110	cross site scripting
+111	sensitive information from kernel memory
+112	a denial of service
+113	execute arbitrary PHP code
+114	execute arbitrary commands
+115	privilege escalation to root
+116	cross site scripting
+117	cross site scripting
+118	a denial of service
+119	cross site scripting
+120	a denial of service
+121	bypass intended access restrictions
+122	a denial of service
+123	inject arbitrary PHP code
+124	remote code execution
+125	a denial of service
+126	cross site scripting
+127	inject arbitrary web script or HTML
+128	cross-site request forgery
+129	read arbitrary files on the host system
+130	a denial of service (DoS
+131	cross site scripting
+132	a denial of service
+133	remote code execution
+134	remote code execution
+135	a denial of service
+136	a denial of service (buffer overflow and application crash
+137	execute arbitrary commands
+138	bypass intended access restrictions
+139	a denial of service (loop
+140	sql injection
+141	execute arbitrary SQL commands
+142	a denial of service
+143	cross site scripting
+144	execute arbitrary code
+145	a denial of service
+146	a denial of service
+147	arbitrary code execution
+148	out-of-bounds read
+149	bypass the ACL protection mechanism
+150	unauthorized access to private files
+151	a denial of service (system crash
+152	a denial of service
+153	remote code execution
+154	bypass the identity provider restriction
+155	remote code execution
+156	a denial of service
+157	bypass the API token check
+158	a denial of service
+159	sign-extension attacks
+160	unauthorized access to sensitive information
+161	a denial of service (system crash
+162	a denial of service attack
+163	a denial of service
+164	an IP is autoblocked
+165	cross site scripting
+166	execute arbitrary commands
+167	execute arbitrary PHP code
+168	out-of-bounds read
+169	execute arbitrary SQL commands
+170	execute arbitrary PHP code
+171	sql injection
+172	remote code execution
+173	a denial of service (system crash
+174	remote code execution
+175	a denial of service
+176	execute arbitrary code
+177	a denial of service
+178	a denial of service
+179	execute arbitrary commands on the host system
+180	a denial of service
+181	crash the system
+182	a denial of service
+183	write access to the file system
+184	a denial of service
+185	cross site scripting
+186	a denial of service
+187	a denial of service
+188	privilege escalation to admin
+189	a denial of service
+190	cross site scripting
+191	a denial of service
+192	execute arbitrary SQL commands
+193	unauthorized access to sensitive information
+194	execute arbitrary code
+195	a denial of service
+196	a denial of service
+197	cross site scripting
+198	a denial of service
+199	a denial of service attack
+200	remote code execution
+201	execute arbitrary code
+202	cross-site request forgery
+203	a denial of service (DoS
+204	a denial of service (memory consumption
+205	execute arbitrary code
+206	delete arbitrary images
+207	out-of-bounds access
+208	a denial of service
+209	bypass intended access restrictions
+210	a denial of service
+211	the ability to access the gitpod dashboard
+212	a denial of service
+213	a denial of service
+214	a denial of service
+215	cross site scripting
+216	Remote Code Execution (RCE
+217	inject arbitrary web script or HTML
+218	execute arbitrary code
+219	execute arbitrary code
+220	unauthorized access to the database
+221	read arbitrary files
+222	exposes the password of an article
+223	execute arbitrary SQL commands
+224	excessive
+225	a denial of service
+226	cleartext password
+227	cross-site scripting
+228	inject arbitrary web script or HTML
+229	execute arbitrary code
+230	expose post counts to users who can't see the topic
+231	cross site scripting
+232	execute arbitrary JavaScript code
+233	execute arbitrary code
+234	a denial of service
+235	excessive
+236	disclose system and database information
+237	cross site scripting
+238	leak password and admin_token
+239	a denial of service
+240	cross site scripting
+241	execute arbitrary SQL commands
+242	execute arbitrary code
+243	execute arbitrary SQL commands
+244	a denial of service
+245	obtain sensitive information
+246	session hijacking
+247	buffer over-read
+248	a denial of service (server crash
+249	privilege escalation to root
+250	execute arbitrary code
+251	a denial of service (NULL pointer dereference
+252	sql injection
+253	remote code execution
+254	a denial of service
+255	execute arbitrary code
+256	memory exhaustion
+257	a denial of service
+258	a Denial-of-Service attack
+259	a denial of service
+260	a denial of service attack
+261	a denial of service
+262	a denial of service (DoS
+263	remote code execution
+264	memory exhaustion
+265	cross site scripting
+266	cross site scripting
+267	cross site scripting
+268	execute arbitrary code
+269	a Denial of Service attack
+270	sensitive information from kernel memory
+271	execute arbitrary code
+272	a denial of service
+273	create a new user
+274	a denial of service
+275	cross site scripting
+276	a denial of service (slab out-of-bounds read and system crash
+277	an out-of-bounds read
+278	a cross-site request forgery
+279	a denial of service
+280	a denial of service
+281	a denial of service
+282	a denial of service
+283	cross site scripting
+284	memory corruption
+285	a denial of service
+286	obtain sensitive information
+287	a denial of service
+288	sensitive information from kernel memory
+289	a denial of service (OOPS
+290	a denial of service (crash
+291	cross-site scripting
+292	a denial of service (application crash
+293	unauthorized access to sensitive information
+294	read arbitrary files
+295	obtain sensitive information
+296	unauthenticated view of publicly queryables content types
+297	inject arbitrary web script or HTML
+298	cross site scripting
+299	cross site scripting
+300	a denial of service
+301	a denial of service
+302	a denial of service
+303	unauthorized access to sensitive information such as API keys
+304	a denial of service
+305	a denial of service
+306	a denial of service (application crash
+307	arbitrary file upload
+308	a denial of service
+309	havoc with a users terminal
+310	execute arbitrary code
+311	cross site scripting
+312	leak environment variables
+313	a denial of service
+314	information leak
+315	execute arbitrary PHP code
+316	sensitive information from kernel memory
+317	execute arbitrary SQL commands
+318	a denial of service (temporary file deletion
+319	privilege escalation
+320	execute arbitrary SQL commands
+321	a denial of service
+322	a denial of service (crash
+323	a denial of service
+324	sql injection
+325	a denial of service
+326	a denial of service (DoS
+327	cross-site request forgery
+328	a denial of service
+329	remote code execution
+330	a denial of service
+331	execute arbitrary commands
+332	a denial of service
+333	a denial of service (application crash
+334	a denial of service (system crash
+335	arbitrary code execution
+336	bypass SSRF protections
+337	cross-site request forgery
+338	cross site scripting
+339	a denial of service
+340	a denial of service
+341	cross site scripting
+342	a denial of service
+343	execute arbitrary SQL commands on the server
+344	a denial of service (NULL pointer dereference
+345	a denial-of-service
+346	out-of-memory condition
+347	execute arbitrary code
+348	cross site scripting
+349	a denial of service
+350	sql injection
+351	sensitive information
+352	arbitrary code execution
+353	memory exhaustion
+354	a denial of service
+355	a denial of service (DoS
+356	remote code execution
+357	sensitive information from kernel memory
+358	cross-site scripting
+359	execute arbitrary code
+360	allows attackers to inject arbitrary web script or HTML
+361	inject arbitrary code into processes
+362	stack overflow or deadlocks
+363	remote code injection
+364	a denial of service
+365	sensitive information from kernel stack memory
+366	sensitive information from kernel memory
+367	a denial of service
+368	unauthorized access to JSON views
+369	a denial of service
+370	cross site scripting
+371	a denial of service
+372	arbitrary code execution
+373	execute arbitrary commands on the system
+374	a denial of service
+375	a denial of service (application crash
+376	read or write to arbitrary files
+377	execute arbitrary commands
+378	remote code execution
+379	out-of-bounds read
+380	a denial of service
+381	a denial of service
+382	a denial of service (BUG
+383	denial of service
+384	sql injection
+385	cross site scripting
+386	a denial of service (application crash
+387	cross site scripting
+388	access to unauthorized resources
+389	an out-of-bounds array access
+390	an attacker can log in as another user
+391	arbitrary code execution
+392	remote code execution
+393	a denial of service (application crash
+394	unauthorized access to sensitive information
+395	a denial of service
+396	bypass intended access restrictions
+397	execute arbitrary code
+398	a denial of service
+399	a denial of service (DoS
+400	cross site scripting
+401	a denial of service
+402	a denial of service (NULL pointer dereference and system crash
+403	access to the OpenID Connect server
+404	a denial of service
+405	delete files in sibling directories of the support bundle data directory
+406	a denial of service
+407	sql injection
+408	sensitive information from kernel memory
+409	open redirect
+410	execute arbitrary code
+411	a denial of service
+412	obtain sensitive information
+413	a denial of service
+414	execute arbitrary PHP code
+415	bypass intended access restrictions
+416	a denial of service (DoS
+417	a denial of service
+418	a denial of service
+419	sensitive information from kernel memory
+420	a denial of service
+421	a denial of service (application crash
+422	a denial of service
+423	a denial of service
+424	execute arbitrary commands
+425	a denial of service (DoS
+426	execute arbitrary code
+427	a denial of service
+428	a denial of service
+429	arbitrary code execution
+430	cross site scripting
+431	a denial of service (NULL pointer dereference and system crash
+432	execute arbitrary code
+433	arbitrary command execution
+434	a denial of service (NULL pointer dereference
+435	inject arbitrary web script or HTML
+436	a denial of service
+437	execute arbitrary code
+438	execute arbitrary code
+439	a denial of service
+440	a denial of service
+441	cross site scripting
+442	an incorrect answer
+443	access to the ubuntu-desktop-provision filesystem
+444	a denial of service
+445	remote code execution
+446	a denial of service
+447	unauthorized access to reviewable users
+448	a denial of service
+449	remote code execution
+450	sensitive information from kernel memory
+451	cross site scripting
+452	allows an attacker to create a new user
+453	sql injection
+454	admin account to be created
+455	a denial of service (system crash
+456	execute arbitrary code and obtain sensitive information
+457	a denial of service
+458	execute arbitrary commands
+459	a denial of service (DoS
+460	execute arbitrary code on the server
+461	XSS
+462	bypass intended access restrictions
+463	crash the system
+464	information disclosure
+465	execute arbitrary code
+466	overwrite arbitrary files
+467	a denial of service
+468	path traversal
+469	arbitrary code execution
+470	execute arbitrary code
+471	a denial of service
+472	a denial of service (guest OS crash
+473	heap-based buffer overflow
+474	gain privileges
+475	remote code execution
+476	a denial of service
+477	cross-site scripting
+478	a denial of service
+479	a denial of service
+480	a denial of service
+481	a denial of service
+482	a denial of service
+483	an untrusted value ever be deserialized
+484	a denial of service
+485	a denial of service (system crash
+486	a denial of service (application crash
+487	a denial of service
+488	a denial of service (DoS
+489	a denial of service (NULL pointer dereference
+490	cross-site scripting
+491	cross-site scripting
+492	excessive
+493	bypass intended access restrictions
+494	overwrite arbitrary files
+495	a denial of service
+496	execute arbitrary code
+497	execute arbitrary code
+498	bypass intended access restrictions
+499	a denial of service (panic
+500	sql injection
+501	a denial of service
+502	remote code execution
+503	execute arbitrary code
+504	bypass the password confirmation mechanism
+505	a denial of service
+506	a denial of service (memory consumption
+507	cross site scripting
+508	a denial of service
+509	execute arbitrary PHP code
+510	cross site scripting
+511	a denial of service
+512	execute arbitrary commands
+513	a denial of service
+514	a denial of service (application crash
+515	a deadlock
+516	execute arbitrary SQL commands
+517	remote code execution
+518	a denial of service
+519	inject arbitrary web script or HTML
+520	a denial of service
+521	sensitive information from kernel memory
+522	a denial of service
+523	a denial of service
+524	a denial of service
+525	unauthorized access to sensitive information
+526	bypass the booking protection mechanism
+527	execute arbitrary code
+528	an attacker can revert a file that is older than the current version
+529	bypass intended access restrictions
+530	a denial of service
+531	a denial of service
+532	execute arbitrary code
+533	sensitive information from kernel memory
+534	cross site scripting
+535	a denial of service
+536	unauthorized access to the network
+537	a denial of service
+538	sensitive information from kernel memory
+539	an attacker can inject arbitrary cookies
+540	unauthorized access to patient documents
+541	sensitive information from kernel memory
+542	a denial of service
+543	a denial of service (DoS
+544	unspecified impact
+545	a denial of service
+546	sql injection
+547	out-of-bounds write
+548	cross site scripting
+549	cross-site scripting
+550	execute arbitrary code
+551	execute arbitrary code
+552	a denial of service
+553	unauthorized access to any wiki
+554	sql injection
+555	sql injection
+556	unauthorized access to sensitive information
+557	a denial of service (DoS
+558	a denial of service
+559	denial of service
+560	sql injection
+561	a denial of service
+562	a denial of service
+563	a denial of service
+564	a denial of service (daemon crash
+565	execute arbitrary code
+566	delete an image from the registry
+567	a denial of service
+568	a Denial of Service (DoS
+569	cross site scripting
+570	unauthorized deletion of projects
+571	an attacker can inject arbitrary web script or HTML
+572	sql injection
+573	a denial of service
+574	cross site scripting
+575	cross site scripting
+576	stored XSS
+577	a denial of service
+578	a denial of service
+579	remote code execution
+580	a denial of service
+581	a denial of service
+582	open redirect
+583	a denial of service
+584	out-of-bounds read
+585	bypass intended access restrictions
+586	a denial of service
+587	a denial of service
+588	a denial of service
+589	cross site scripting
+590	a denial of service (DoS
+591	obtain sensitive information
+592	unauthorized access to sensitive information
+593	a denial of service
+594	execute arbitrary JavaScript code
+595	sensitive information from kernel memory
+596	a denial of service
+597	a denial of service
+598	a denial of service
+599	cross site scripting
+600	a denial of service
+601	a denial of service
+602	privilege escalation
+603	execute arbitrary SQL commands
+604	privilege escalation
+605	sensitive information from kernel memory
+606	allows remote attackers to redirect users to arbitrary URLs
+607	a denial of service
+608	a denial of service (CPU consumption
+609	upload files to arbitrary locations
+610	execute arbitrary code
+611	a denial of service
+612	cross site scripting
+613	cross site scripting
+614	a denial of service
+615	execute arbitrary code
+616	admin self-banning
+617	a denial of service
+618	a denial of service
+619	arbitrary command execution
+620	an attacker can inject arbitrary web script or HTML
+621	a denial of service
+622	a denial of service
+623	a denial of service
+624	remote code execution
+625	a denial of service (memory corruption
+626	bypass intended access restrictions
+627	a denial of service
+628	a TLS vulnerability
+629	cross site scripting
+630	arbitrary file write
+631	a denial of service
+632	a denial of service
+633	a denial of service
+634	execute arbitrary SQL commands
+635	a heap-based buffer over-read
+636	read arbitrary files
+637	sensitive information from kernel memory
+638	stored XSS
+639	bypass intended access restrictions
+640	a denial of service
+641	authentication bypass
+642	a denial of service
+643	unauthorized users to view domain blocks
+644	redirect users to arbitrary web sites
+645	cross site scripting
+646	a denial of service (DoS
+647	information disclosure
+648	a denial of service (NULL pointer dereference and system crash
+649	a denial of service
+650	unauthorized signup with ldap + external auth
+651	a denial of service
+652	authentication bypass
+653	a denial of service (out-of-array access) or possibly have unspecified other impact
+654	cross site scripting
+655	crash the kernel
+656	a denial of service (DoS
+657	cross site scripting
+658	a Denial of Service (DoS
+659	a denial of service
+660	cross site scripting
+661	cross site scripting
+662	a denial of service or possibly have unspecified other impact
+663	sensitive information from kernel memory
+664	cross site scripting
+665	a denial of service
+666	unauthorized access to the application
+667	a denial of service
+668	a denial of service
+669	cross site scripting
+670	cross site scripting
+671	execute arbitrary code
+672	sql injection
+673	unauthorized access to Streaming API
+674	a denial of service (memory consumption
+675	a denial of service (application crash
+676	sensitive information from kernel memory
+677	cross site scripting
+678	a denial of service (DoS
+679	sql injection
+680	execute arbitrary PHP code
+681	a denial of service
+682	a denial of service
+683	sql injection
+684	HTTP request smuggling
+685	a denial of service (out-of-bounds read and system crash
+686	a denial of service (system crash
+687	XSS
+688	a denial of service
+689	execute arbitrary code
+690	a denial of service
+691	cross site scripting
+692	denial of service
+693	path traversal
+694	allows an attacker to inject malicious requests
+695	a denial of service
+696	arbitrary JavaScript code execution
+697	cross-site scripting
+698	out-of-bounds write
+699	a denial of service
+700	arbitrary code execution
+701	a denial of service (system crash
+702	a denial of service
+703	bypass intended access restrictions on shares
+704	allows attackers to inject arbitrary web script or HTML
+705	a denial of service (system crash
+706	spoofing
+707	a denial of service (DoS
+708	a denial of service
+709	a denial of service (application crash
+710	remote code execution
+711	remote code execution
+712	read arbitrary files on the server
+713	cross site scripting
+714	cross-site scripting
+715	sensitive information from kernel memory
+716	a denial of service
+717	a denial of service
+718	unspecified impact
+719	a denial of service
+720	a denial of service (application crash
+721	an open redirect
+722	a denial of service (system crash
+723	execute arbitrary code
+724	a denial of service
+725	arbitrary code execution
+726	execute arbitrary code
+727	execute arbitrary SQL commands
+728	a denial of service
+729	delete arbitrary files on the host
+730	a NULL pointer dereference
+731	unauthorized access to sensitive information
+732	cross site scripting
+733	a denial of service (DoS
+734	a denial of service (system crash
+735	execute arbitrary code
+736	arbitrary code execution
+737	send an email to users in case of forgot username request
+738	redirect users to arbitrary web sites
+739	sql injection
+740	cross site scripting
+741	a denial of service
+742	impersonate
+743	a denial of service (DoS
+744	remote code execution
+745	a denial of service
+746	a denial of service (server crash
+747	a denial of service (deadlock
+748	sensitive information from kernel memory
+749	a denial of service
+750	a heap-based buffer overflow
+751	a denial of service
+752	memory leaks
+753	remote code execution
+754	privilege escalation
+755	a denial of service
+756	cross site scripting
+757	inject arbitrary web script or HTML
+758	a denial of service
+759	execute arbitrary commands
+760	a denial of service (DoS
+761	a denial of service
+762	a denial of service (application crash
+763	a denial of service (crash
+764	cross site scripting
+765	a denial of service
+766	remote command injection
+767	a denial of service
+768	allows remote attackers to inject arbitrary code
+769	inject arbitrary web script or HTML
+770	crash the system
+771	a denial of service (application crash
+772	cross site scripting
+773	unauthorized access to sensitive information
+774	a denial of service
+775	execute arbitrary code
+776	a denial of service
+777	an out-of-bounds read
+778	a denial of service
+779	a cross-site scripting vulnerability
+780	a denial of service
+781	a denial of service
+782	a denial of service
+783	a denial of service
+784	cross site scripting
+785	remote code execution
+786	a denial of service (BUG
+787	out-of-bounds write
+788	a denial of service
+789	cross site scripting
+790	execute arbitrary JavaScript code
+791	execute arbitrary SQL commands
+792	a denial of service
+793	a denial of service (NULL pointer dereference
+794	a denial of service (crash
+795	privilege escalation
+796	cross site scripting
+797	inject arbitrary web script or HTML
+798	administrative privileges
+799	denial of service
+800	cross site scripting
+801	a denial of service
+802	cross site scripting
+803	a denial of service
+804	bypass intended access restrictions
+805	a use-after-free
+806	remote code execution
+807	change the configuration in the dashboard only if he has the right to do it
+808	a denial of service
+809	a denial of service (DoS
+810	bypass intended access restrictions
+811	execute arbitrary code
+812	a denial of service
+813	a denial of service
+814	xml external entity reference
+815	a denial of service
+816	a denial of service
+817	cross site scripting
+818	execute arbitrary code
+819	a denial of service
+820	a denial of service
+821	a denial of service
+822	path traversal
+823	execute arbitrary SQL commands
+824	a denial of service
+825	an out-of-bounds read
+826	an account takeover
+827	a denial of service (server crash
+828	admin APIs to be exposed to arbitrary users
+829	execute arbitrary commands
+830	remote code execution
+831	cross site scripting
+832	a denial of service
+833	execute arbitrary code
+834	cross site scripting
+835	a denial of service
+836	cross site scripting
+837	a denial of service
+838	unauthorized access to sensitive information
+839	execute arbitrary JavaScript code
+840	a denial of service
+841	execute arbitrary code
+842	execute arbitrary code
+843	bypass intended access restrictions
+844	a denial of service
+845	denial of service
+846	execute arbitrary code
+847	access to admin tools
+848	a denial of service (DoS
+849	a denial of service (application crash
+850	a denial of service (system crash
+851	denial of service
+852	a denial of service
+853	a denial of service
+854	a denial of service (crash
+855	arbitrary code execution
+856	a denial of service
+857	cross site scripting
+858	a denial of service
+859	cross site scripting
+860	delete arbitrary files on the server
+861	execute arbitrary JavaScript code
+862	a denial of service
+863	arbitrary command execution
+864	a denial of service
+865	execute arbitrary commands
+866	cross site scripting
+867	a denial of service
+868	a denial of service (application crash
+869	unauthorized access to sensitive information
+870	an XSS attack
+871	a denial of service
+872	sensitive information from kernel stack memory
+873	bypass intended access restrictions
+874	a denial of service
+875	execute arbitrary code
+876	remote code execution
+877	remote code execution
+878	execute arbitrary SQL commands
+879	sensitive information
+880	arbitrary code execution
+881	a denial of service
+882	remote code execution
+883	a segfault
+884	cross site scripting
+885	a denial of service
+886	a denial of service
+887	a DoS vulnerability
+888	cross site scripting
+889	bypass the password reset protection
+890	a denial of service
+891	a denial of service
+892	open redirect
+893	a denial of service
+894	a denial of service
+895	a denial of service
+896	a panic
+897	read arbitrary files on the server
+898	a denial of service (application crash
+899	cross site scripting
+900	cross site scripting
+901	execute arbitrary code
+902	out-of-bounds read
+903	a denial of service
+904	a denial of service
+905	remote code execution
+906	remote code execution
+907	execute arbitrary code
+908	a denial of service
+909	a denial of service
+910	a denial of service
+911	out-of-bounds write
+912	a denial of service
+913	a denial of service
+914	a denial of service
+915	a denial of service
+916	execute arbitrary commands
+917	sensitive information from kernel memory
+918	execute arbitrary commands
+919	a denial of service (memory consumption
+920	a connection race
+921	a denial of service
+922	cross site scripting
+923	execute arbitrary code
+924	a denial of service
+925	execute arbitrary code
+926	a denial of service (application crash
+927	excessive
+928	sql injection
+929	cross site scripting
+930	a denial of service
+931	a denial of service
+932	access to preview for non-user
+933	a denial of service
+934	bypass intended access restrictions
+935	command injection
+936	execute arbitrary code
+937	a denial of service
+938	execute arbitrary SQL commands
+939	execute arbitrary code
+940	execute arbitrary JavaScript code
+941	read arbitrary files on the filesystem
+942	cross site scripting
+943	cross site scripting
+944	execute arbitrary code
+945	execute arbitrary PHP code on the server
+946	a denial of service
+947	a denial of service
+948	execute arbitrary PHP code
+949	a DoS
+950	information leak
+951	read arbitrary files
+952	out-of-bounds read
+953	a denial of service
+954	allows attackers to inject arbitrary cookies
+955	overwrite arbitrary files on the system
+956	a denial of service (memory consumption
+957	sql injection
+958	execute arbitrary code
+959	a denial of service
+960	a denial of service (DoS
+961	execute arbitrary code
+962	bypass intended access restrictions
+963	a denial of service
+964	a denial of service
+965	a denial of service
+966	inject arbitrary web scripts
+967	a memory leak
+968	sql injection
+969	a denial of service (crash
+970	a denial of service (system crash
+971	a denial of service (application crash
+972	a denial of service attack
+973	a denial of service
+974	a denial of service (DoS

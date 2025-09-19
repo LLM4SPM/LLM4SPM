@@ -1,0 +1,43 @@
+0	via a crafted SCTP socket
+1	via a madvise_remove call
+2	inject arbitrary web script or HTML via the (1) file names to apps/settings.php
+3	via a crafted HIDP connection
+4	inject arbitrary web script or HTML via the (1
+5	inject arbitrary web script or HTML via a crafted application
+6	via a crafted task
+7	manipulation of the ioctl system call
+8	via a crafted method call
+9	via a large number of arguments
+10	via a cifs_find_smb_ses call
+11	inject arbitrary web script or HTML via the pidfile argument
+12	manipulation of the tenant_id parameter
+13	via a crafted application
+14	via a connection
+15	inject arbitrary web script or HTML via a crafted password
+16	inject arbitrary web script or HTML via the (1) text parameter
+17	via a hugetlbfs_file_mmap call
+18	inject arbitrary web script or HTML via the p_copy_custom_fields parameter
+19	via a crafted application
+20	via a crafted application
+21	inject arbitrary web script or HTML via shell commands
+22	inject arbitrary web script or HTML via the (1) language code
+23	manipulation of the security group rules
+24	inject arbitrary web script or HTML via the (1) file name
+25	via a crafted application
+26	inject arbitrary web script or HTML via the CAP_NET_ADMIN capability
+27	manipulation of the parameter url and title
+28	via a crafted RDS socket
+29	leveraging the CAP_NET_ADMIN capability
+30	inject arbitrary web script or HTML via the (1) script or (2) script parameters
+31	inject arbitrary web script or HTML via the (1) bug_actiongroup_ext.php file
+32	inject arbitrary web script or HTML via
+33	via a crafted Vorbis comment
+34	inject arbitrary web script or HTML via the (1) token_id
+35	inject arbitrary web script or HTML via the argument language
+36	inject arbitrary web script or HTML via the (1) function name or (2) type
+37	via a crafted task_struct
+38	via a crafted IP packet
+39	inject arbitrary web script or HTML via a <script> tag
+40	via a crafted filesystem
+41	via a crafted IP packet
+42	manipulation of the argument username and password

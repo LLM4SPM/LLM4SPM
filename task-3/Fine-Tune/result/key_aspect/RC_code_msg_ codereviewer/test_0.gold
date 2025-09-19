@@ -1,0 +1,1187 @@
+0	Untrusted search path vulnerability by leveraging control over a forwarded agent-socket
+1	open web terminal sessions do not expire
+2	XSS in certain circumstances
+3	too late in obtaining a certain lock and consequently cannot ensure that disconnect function calls are safe
+4	A SQL injection vulnerability exists enabling a remote attacker to retrieve sensitive information and execute arbitrary code through the “
+5	Improper Neutralization of Special Elements used in an OS Command
+6	an uncaught error while decoding CBOR Major Type 3 text strings leads to the use of an
+7	mishandled on the debug-mode exception screen
+8	improper length of values passed to istream
+9	concatenated into a SQL query without any input validation/sanitization
+10	A NULL pointer dereference in GetOutboundPinholeTimeout in upnpsoap.c for int_port
+11	does not properly handle crop input
+12	a redirect parameter that allows any third party to redirect users from a (trusted) domain of the F
+13	world-readable permissions for /etc/pki/tls/private/katello-node.key
+14	malicious pipeline label configuration
+15	a timeout issue may not properly clean all sensitive data on account removal
+16	A stack buffer overflow due to bound checking all write operations over the p_pcre buffer.
+17	unlimited user label appends in a userlabel cluster
+18	use-after-free
+19	unsanitized input as request headers
+20	a user with access to create or edit a BareMetalHost can thus exfiltrate a Secret from
+21	sanitisation of the input
+22	a stored cross-site scripting (XSS) vulnerability enables an authenticated administrator to store a JavaScript payload
+23	cross site scripting
+24	a buffer over-read in print-icmp.c:icmp_print()
+25	unreasonable amount of CPU time or memory during JWE Decryption operations
+26	an attacker can cause its peer to run out of memory sending a large number of PATH_CHALLENGE
+27	buffer overflow vulnerability
+28	manipulation of the argument edcal_startDate/edcal_endDate leads to sql injection
+29	an issue lies in the embedded http server’s parsing of trace requests
+30	format string vulnerability due to a string that is misused as a class name, leading to incorrect error
+31	attempted operations on NULL input
+32	incorrect persistent NameID generation when an Identity Provider (IdP) is misconfigured
+33	quadratic (N^2) complexity on some specific inputs
+34	path traversal vulnerability exposed when running the Gatsby develop server
+35	does not properly consider ExecutableNormalizedFields (ENFs) as part of preventing denial of service via
+36	the title of a document is not properly escaped
+37	lacks API token validation
+38	modifying the Anope FLAGS behavior by registering and dropping the LIST, CLEAR, or MODIFY keyword n
+39	Exposure of Sensitive Information to an Unauthorized Actor
+40	unintentionally expose local files
+41	bugs in print-isakmp.c
+42	divide-by-zero error
+43	lack of sanitization of user-supplied filenames before passing them to ffmpeg via a shell command
+44	zero length for the first segment
+45	user input was not sanitized
+46	a potential denial-of-service vulnerability; very slow for certain classes in BinData to be created; potential
+47	additional PHP files crafted to look like images may be uploaded regardless of mime type validation rules
+48	NULL Pointer Dereference
+49	a locking approach that does not consider slave timer instances
+50	an incorrect state transition
+51	a heap OOB access
+52	an attacker can exploit this vulnerability to upload files to any directory of an October CMS server
+53	Buffer Over-read prior to 0.11
+54	SVG uploads were not sanitized
+55	manipulation of the argument phrase leads to sql injection
+56	lack of input validation and sanitization in the user modification endpoint and the middleware's token validation logic
+57	mishandled during extraction
+58	remote attackers to inject arbitrary web script or HTML via the search parameter
+59	sql injection
+60	fails to check other harmful schemes
+61	NULL pointer dereference in the function dwg_encode_LWPOLYLINE
+62	bad user input
+63	an incorrect lock during the ioctl operation and trigger a race condition
+64	does not check the return value of the fputc function
+65	pickle as the serialization format, potentially leading to local privilege escalation
+66	the manipulation of the argument q with the input %5C%27%29;phpinfo%
+67	the XML parser doesn’t guarantee integrity in the XML round-trip (encoding/decoding XML data)
+68	a difference in the behavior of the FreeBSD `setgroups` system call from POSIX meant that
+69	insufficient checks in the OverlappingFieldsCanBeMergedRule.ts file when parsing large queries
+70	default value of cert_policy set to none
+71	mishandled by the "openssl ts" command
+72	applying the permissions of the symlink itself instead of the permissions of the linked file
+73	the application does not access or modify the session at any point during a request
+74	Information exposure in the logging system due to application logs allowing access to database user credentials.
+75	Directory traversal vulnerability allows remote authenticated users to read or delete arbitrary files by leveraging back-office access to provide
+76	mishandled time skew
+77	does not fully validate the input `orig_input_shape`
+78	a cached Response which contains a Session Cookie when the Browser accessing the 404 page, has no cookies
+79	don't filter any parameters, directly concat user input
+80	an authenticated administrator with workspace-level privileges to store a JavaScript payload in the GeoServer catalog that will
+81	Incorrect Permission Assignment for Critical Resource
+82	SQL injection vulnerability in the actionIndex function allows remote authenticated users to execute arbitrary SQL commands via the from
+83	insecure direct object references (IDOR)
+84	improper verification of cryptographic signature
+85	certain crafted script content pass through
+86	manipulation of the argument t/postusername leads to sql injection
+87	storing the password of a user unencrypted in the LocalStorage of a web browser
+88	an XSS payload can be injected in a page title and executed via the search results
+89	a buffer over-read in print-chdlc.c:chdlc_print()
+90	enabled node integration
+91	an out-of-bounds read via a crafted file
+92	Use after free in utf_ptr2char
+93	header parsing component
+94	a use-after-free because of a rose_accept race condition
+95	the number of times a user posted in an arbitrary topic is exposed to unauthorized users through the `/u
+96	absolute path traversal because the Flask send_file function is used unsafely
+97	sql injection
+98	an invalid value
+99	an open redirect vulnerability
+100	overly large HTTP/2 SETTINGS frame payload
+101	Improper Input Validation
+102	improperly handled in the autocomplete combo box demo
+103	Unhandled errors in API requests including traceback information
+104	Improper Authorization
+105	mishandles the DB argument
+106	an inaccurate frame deduplication process via malformed frequency attributes
+107	Relative Path Overwrite
+108	injection arbitrary web script or HTML via a crafted database name or table name
+109	mishandling of 32-bit ALU ops
+110	a use-after-free
+111	instantiates objects from arbitrary classes
+112	chown and chmod are performed unsafely, as demonstrated by a symlink attack
+113	deserialization of untrusted data
+114	a crafted UTF-8 combining character sequence
+115	a GraphQL grant on a property might be cached with different objects
+116	a malicious package could potentially override these components with harmful code
+117	a domain that ended in a similar way to the intended domain could have been allowed as a redirect
+118	the connection between the two sockets was not verified before passing the two sockets back to the user
+119	Unrestricted file upload
+120	an out-of-bounds read via a crafted file
+121	a fixed FatFreeCRM::Application.config.secret_token value
+122	a Null Pointer Dereference when gf_filter_pck_get_data is called, the first arg pck
+123	the wrong integer data type is used for subtraction
+124	null pointer dereference vulnerability due to an incomplete fix
+125	not properly filtered user input
+126	injection arbitrary web scripts
+127	Oneboxing against a carefully crafted malicious URL can reduce the availability of a Discourse instance.
+128	mishandles a needs-flushing-before-commit list
+129	a NULL pointer dereference
+130	use-after-free vulnerabilities caused by timer handler
+131	load is used where safe_load should have been used
+132	does not properly restrict HTTP Live Streaming filename extensions and demuxer names
+133	manipulation of the argument tpl leads to pathname traversal
+134	does not properly initialize certain data structures
+135	cross-site scripting (XSS) via taxonomy term names
+136	the code does not ensure that the pending invitation is still valid as defined by the invite_for expiry period
+137	always allows files in hidden directories to be served, even when `showHidden` is false
+138	Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.1376
+139	an integer overflow which leads to subsequent heap memory corruption when dealing with large (~2GB) inputs
+140	the fact that the user controlled data `profiler_runs` was not constrained to any limitation
+141	cannot handle scalars in the `values` parameter and gives an NPE.
+142	an empty input tensor
+143	mishandles certain integer calculations
+144	an attacker must already have been configured by the administrator of h2o to act as a backend to
+145	arbitrary remote code execution through a request to `SolrSearch`
+146	setuid mode, unprivileged user namespaces, traceable, gain root permissions
+147	an exit handler for the INVVPID instruction does not have
+148	does not properly restrict recursive function calls
+149	Unsanitized input
+150	NULL pointer dereference via a crafted file
+151	the range of the sample data type exceeds the valid sample range
+152	a stack buffer overflow vulnerability in the YAFFS file timestamp parsing logic in yaffsfs_istat
+153	privileged: true, hostPID: true, misconfiguration
+154	crossing a ruleset blob boundary
+155	mishandles the enable_password field
+156	Request timed out.
+157	Mishandling of multiple fragmented packets using the same IP ID value can lead to packet reassembly
+158	code injection via internal SSRF requests in the Dify sandbox service
+159	The application fails to properly validate and sanitize user inputs in the `dependente_editarInfoPessoal
+160	cross-site scripting when making use of the ternary conditional operator
+161	an invalid date
+162	allow remote attackers to inject arbitrary web script or HTML via the file names, url, title, tag
+163	Path Traversal
+164	an incorrect pointer dereference
+165	sandbox security checks are not run which allows user-contributed templates to bypass the sandbox restrictions
+166	Certain input passed into the If-Modified-Since or Last-Modified headers will cause an 'illegal
+167	File upload filter bypass
+168	unauthenticated execution of arbitrary SQL statements
+169	CSRF authenticity token check is disabled for the questionnaire templates preview
+170	ZipSlip issue when using the fileutil package to unzip files
+171	cross-site scripting through the `isCleanHTML` method
+172	logs the Swift endpoint's user name and password in cleartext when the endpoint is misconfigured or unus
+173	`X-Forwarded-Prefix` header was accessible in SubRequest, even if it was not
+174	file-descriptor mishandling
+175	not properly enforce manager access control
+176	HTML tags in entity names are not sanitised
+177	an unencrypted hash of the plaintext alongside the ciphertext as a metadata field
+178	extraneous username data in MONITOR_REQ_PAM_INIT_CTX requests
+179	bypassing existing controls on the software
+180	manipulation of the argument PASSOx leads to code injection
+181	does not differentiate selectors from HTML in a reliable fashion
+182	a race condition during account deactivation
+183	does not check whether a slot is a leaf
+184	a possible out of bounds read due to a heap buffer overflow
+185	an error in program design
+186	overly elevated file permissions
+187	did not properly restrict CSRF attacks
+188	a malicious or compromised Flatpak app using persistent directories could access and write files outside of what it would
+189	mishandles the reserved C/T value
+190	Heap-based Buffer Overflow
+191	proper html escaping
+192	allowing unsanitized input to an exec call
+193	lack of an EOF check
+194	error in the default intent handler
+195	malicious input that causes a denial of service
+196	manipulation leads to cross site scripting
+197	a low privileged (editor) user can upload a SVG file that contains malicious JavaScript while uploading assets
+198	did not clear them for `undici.request()`
+199	Heap-based buffer overflow due to crafted firmware that specifies a long string in the Vital Product Data (V
+200	Untrusted search path vulnerability allows local users to overwrite arbitrary files via a crafted config file in the current
+201	a CSRF attack that could cause the server to run untrusted code
+202	valid payment
+203	internal consistency of a certain list data structure
+204	an integer overflow that potentially causes a heap-based buffer overflow via a crafted RGBA image, related to
+205	tag descriptions can be used for cross-site scripting attacks
+206	an XSS in authkey add via a Referer field
+207	bypassing organizational barriers
+208	double free vulnerability
+209	insufficient security checks
+210	code injection in the function run_command of the file comfy_mtb/endpoint.py
+211	mishandles buffer limits for CAC certificates
+212	Authentication Bypass Using an Alternate Path or Channel
+213	a path traversal vulnerability
+214	an error within the "parse_minolta()" function can be exploited to trigger an infinite loop via a
+215	allows uploads from a different origin
+216	a crafted DTLS message that is processed with a different read operation for the handshake header than for the
+217	mishandles detection of duplicate first slices
+218	misuse of the `set-screen-option` filter's return value
+219	exceeding theserver.maxHeadersCount threshold
+220	some properties of the Exception were not properly escaped when the `ErrorHandler` rendered it stacktrace
+221	includes bearer tokens with arbitrary requests
+222	appropriate capability requirements for the uid_map and gid_map files
+223	an adversary can intentionally pick an extremely high PBES2 Count value, that will initiate a CPU
+224	The unserialize() function supported a type code, "S", which was meant to be supported only
+225	mishandles detection of duplicate first slices
+226	Off-by-one error in the bpf_jit_compile function when BPF JIT is enabled
+227	credentials could be visible from the provenance attestation
+228	NULL Pointer Dereference in function vim_regexec_string
+229	allow remote attackers to inject arbitrary web script or HTML via the PATH_INFO
+230	Stored XSS due to .properties file upload
+231	User after free in mrb_vm_exec
+232	Buffer overflow in the fribidi_utf8_to_unicode function allows remote attackers to cause a denial of
+233	manipulation of the argument from leads to open redirect
+234	infinite loop
+235	missing output escaping for the expression on the left side of the operator
+236	data (`p[UD`) and `guid` values used to disconnect between nodes are not encrypted
+237	Divide By Zero
+238	a VAPIC synchronization operation involving a page-end address
+239	credentials are being leaked in the application execution logs in case of failure
+240	a deadlock in sctp_auto_asconf_init
+241	An attacker to execute arbitrary web scripts by modifying site options via /panel/options/site.
+242	sending the cookie header to external urls
+243	lacks a confirmation screen when logging in via a user-api OTP
+244	crafted invalid HWB string
+245	Buffer overflow in the WriteMAPImage function allows remote attackers to cause a denial of service (application crash
+246	information exposure vulnerability
+247	XSS via the login.php username parameter
+248	a lack of input validation within the RDS AI framework, specifically within the user input handling code in
+249	removing the HTTP request body when an HTTP redirect response using status 301, 302, or
+250	CSV Injection vulnerability possible by using shop search keywords via the admin panel
+251	the content-length header is not correctly validated
+252	improper neutralisation of special characters
+253	sql injection
+254	XSS via a user picture
+255	missing validation of the `image.filename` field in a POST request
+256	information passed into the chart can be disclosed to the DNS servers used to lookup the IP address
+257	an open redirection when using back parameter
+258	long string
+259	insufficient session expiration
+260	bypass SSRF protection by using a malformed IP address or a 30x HTTP status code
+261	specifying a fake JIRA URL that returns an XML specifying a DOCTYPE pointing to a local file
+262	a buffer over-read in print-bgp.c:decode_rt_routing_info()
+263	a buffer leak on the incoming WebSocket PONG message
+264	DOM Clobbering vulnerability in Webpack’s `AutoPublicPathRuntimeModule` can lead to
+265	does not impose restrictions on twig functions allowing attackers to bypass the validation and execute arbitrary commands
+266	arbitrary files to be uploaded through the device image upload API, full control over the file contents,
+267	use-after-free
+268	Request timed out.
+269	ANSI escape sequences that the terminal interpret to confuse users
+270	a buffer overflow in PrefsUI_LoadPrefs in prefs.c
+271	allows remote attackers to inject arbitrary web script or HTML via the foruserlogin parameter
+272	manipulation of the argument next leads to open redirect
+273	prototype pollution of the base object's prototype during highlighting
+274	a buffer over-read in print-cfm.c:cfm_print()
+275	doesn't check the RSA private key length before RSA-OAEP decryption
+276	out of bounds read in license_read_new_or_upgrade_license_packet
+277	user able to control file input to Gerbv, can cause a crash and cause denial-of-service with
+278	lack of filtration of user-supplied data
+279	Passing functions with very long names or complex default argument names into `function#copy` or `function
+280	leaking its discussion ID and post number, leaks the full JSON:API payload without any access control
+281	memory leak in the __key_link_end function allowed local users to cause a denial of service (memory
+282	a creation failure
+283	a segmentation violation in the function njs_vmcode_interpreter
+284	credential disclosure from a client to a server
+285	does not restrict the amount of ICB indirection
+286	a regular expression that is vulnerable to ReDoS (Regular Expression Denial of Service)
+287	the target room `m.room.create` event is not checked to verify if the `predecessor
+288	an information leak through organizations and locations feature
+289	the group advanced search option does not respect the group's visibility and members visibility level
+290	HTML Injection
+291	memory corruption and system crash by sending IGMP packets to a local interface
+292	Path Traversal
+293	SQL injection vulnerability due to the category parameter when displaying a category, related to the $parent_id variable
+294	a stored Cross-Site-Scripting (XSS) vulnerability in the markdown editor used by the document
+295	an issue in the verify function where signatures of different lengths are incorrectly compared
+296	inadequate checks of the padding (and of the first two bytes)
+297	SQL Injection via the admin/configuration.php order_by array parameter
+298	Javascript in the title could run the Javascript
+299	Attribute Injection due to the template has not been sanitized
+300	Access of Uninitialized Pointer
+301	an attacker who has compromised a registry and added a high number of signatures to an artifact can cause denial
+302	a buffer over-read in print-mobility.c:mobility_opt_print()
+303	did not check for both the identifier (email) and the token, but only checking for the identifier
+304	Path Traversal vulnerability due to Case-Insensitive Filesystems
+305	circumvent the `fromkey protection` in the Admin Interface
+306	incomplete blacklist vulnerability via shell metacharacters in the username or password fields
+307	pinning occurs in the stream function (this is too late; pinning should occur in the init
+308	a directory traversal attack that could leak data from their web server file-system
+309	improper handling of duplicate numerical keys within the serialized properties of an object
+310	`authCodeVerifier` should be removed after usage, a risk for a `downgrade attack
+311	user may register in a shop by email and change it to another@domain.com and stay verified and
+312	an out-of-bounds read for the MODBUS_FC_WRITE_MULTIPLE_COILS case
+313	SSRF vulnerability in firebase database check logic
+314	exponential regex evaluation times
+315	URL Redirection to Untrusted Site
+316	a lack of sanitization in the "report_this()" function
+317	insecure temporary file
+318	doesn't escape the user-supplied page name when outputting
+319	Cross-site request forgery in the REST API
+320	a malicious or compromised Flatpak app could execute arbitrary code outside its sandbox
+321	a NULL pointer dereference via a USB device without both an interrupt-in and an interrupt-out endpoint descriptor
+322	files which the user should not have access to
+323	does not flush the operand cache
+324	directory traversal
+325	doesn't check the effective uid of the target process
+326	heap-based buffer over-read in EbmlElement::FindNextElement
+327	os command injection
+328	improperly restrict the processing of compressed XML elements
+329	an off-by-one error
+330	cross-site scripting attacks when pasting specially crafted content into editable cells
+331	overly broad exposure of the spotify auth token
+332	did not properly verify the signature of JSON Web Tokens
+333	xml external entity reference
+334	growing buffer
+335	an out of memory panic vulnerability due to user provided input without proper validation
+336	improper sanitization of pasted content
+337	a man-in-the-middle attacker can inject arbitrary SQL queries when a connection is first established
+338	an error in program design
+339	one-byte overread in an X.509 certificate
+340	mishandles the recording of the credentials, incorrect marking of a ptrace relationship as privileged,
+341	division-by-zero
+342	XSS in project links
+343	Session Fixation
+344	allowing for passing in closures directly into the template engine
+345	Heap buffer overflow in vim_strncpy
+346	lacks a check for application data with epoch 0
+347	Insufficient boundary checks for the strrpos and strripos functions
+348	Multiple SQL injection vulnerabilities allow remote authenticated users to execute arbitrary SQL commands.
+349	improper access control
+350	improper input sanitization
+351	a race condition in the hello handshake phase of the DTLS protocol
+352	Insecure Temporary File
+353	manipulation of the argument password leads to information disclosure
+354	Stack Buffer Overflow
+355	automatic loading of the built-in "terminal" and "file_loader" extensions
+356	Generation of Error Message Containing Sensitive Information
+357	a ReDOS on currency.js
+358	does not properly restrict execute access
+359	does not properly sanitize user-supplied paths before serving files
+360	arbitrary code execution by injecting arbitrary Java Expression Language expressions when using the self-validating feature
+361	use of the accept system call
+362	recursive XML Entity Expansion if XML_DTD is undefined at compile time
+363	an iovec of zero length
+364	the extension does not sanitize the string it constructs before returning it to be displayed
+365	NULL Pointer Dereference in function gif_internal_decode_frame at libnsgif.c:599
+366	implementation of the client-side template engine ejs, insecure function “<%-”
+367	memory leak vulnerability in the function ReadOneJNGImage in coders/png.c
+368	a Regular Expression Denial of Service (ReDoS) vulnerability due to regex /{.*?
+369	fails to validate specification names
+370	an uninitialized value
+371	a problem in the password verification method
+372	code with programming rights
+373	lack certain checks for the end of a buffer
+374	mishandling of invalid variable stack read operations
+375	an integer overflow, resulting with Redis attempting to allocate impossible amounts of memory
+376	does not maintain the MNT_LOCK_READONLY bit across a remount of a bind mount
+377	escaping the prefix of the proxied backend service
+378	an information leak via the component
+379	Several protocol parsers could cause a buffer over-read in addrtoname.c:lookup_bytestring()
+380	does not properly traverse a mount propagation tree in a certain case involving a slave mount
+381	cross site scripting
+382	forging specific http queries
+383	not validating the authorization header
+384	do not properly validate data sizes
+385	an attacker can cause a denial of service attack by passing in a malicious JWE Token with a high
+386	leaks out sensitive table info
+387	forging a valid multiproof for an arbitrary set of leaves
+388	checking name constraints in X.509 certificates is quadratic in the number of names and name constraints
+389	path names provided when creating a virtual environment were not quoted properly
+390	a comma in an email-address field
+391	Open Redirect
+392	an outdated gradio component
+393	allows local users to load arbitrary kernel modules via a bind system call for an AF_ALG socket
+394	the entire User object, including the bcrypt password hash, is included in the response sent to the frontend
+395	a double free
+396	allow an attacker to set the GITHUB_ACTIONS environment variable to anything other than null or true and
+397	improperly applied permission check
+398	an integer signedness error when a crafted file, which claims a large "item_num" field such
+399	manipulation of the argument n/v leads to sql injection
+400	failed to properly initialize the string object within the formatter buffer, forgetting to initialize a few fields, leaving
+401	unknown processing
+402	missing input length validation
+403	a race condition between pf(4)'s processing of packets and expiration of packet states
+404	checks only the last path component when enforcing AllowChrootSymlinks
+405	a heap-based buffer over-read in ComplexImages
+406	not properly escape the names and paths
+407	Unsafe echo of filename in phpMyFAQ\phpmyfaq\admin\attachments.php
+408	session tokens are exposed in the return of session search API call
+409	Race condition in the FastCopy optimization allows remote attackers to trigger a buffer overflow and modify internal data structures
+410	payloads in the name input field in the billing address
+411	unsafe loading
+412	a type confusion vulnerability could be triggered when resolving the "typeof" unary operator
+413	a use-after-free in decode_NXAST_RAW_ENCAP during the decoding of a RAW_ENCAP
+414	lacks proper access control
+415	does not generate Fragment Identification values separately for each destination
+416	Improper Neutralization of Input During Web Page Generation
+417	XSS via the username field
+418	out-of-bounds read that can lead to Code Execution
+419	use-after-free and OOPS for SMB2_TREE_DISCONNECT
+420	valid payment
+421	an unescaped template literal in the bio field of a user profile allows for server-side template injection of
+422	does not filter out entries according to the user's rights
+423	weak hash function
+424	HTTP Response Header Injection when used in conjunction with Rack 3.
+425	file traversal attacks in which an attacker could access arbitrary files on a machine running a Gradio app with
+426	Permissions are enforced when reaching the `/admin/customermanagementframework/duplicates/list` endpoint allowing an authenticated
+427	code injection via its download functions
+428	sql injection
+429	Directory traversal vulnerability in combine.php allows remote attackers to read and write arbitrary files via a .. (dot
+430	injection arbitrary web script or HTML via unspecified vectors
+431	set*id () function
+432	the users PATH variable was incorrectly inherited by authenticated executions
+433	not consuming the incoming body
+434	an out of bound reads occurs resulting in accessing a memory location that is outside of the boundaries of the
+435	an argument injection vulnerability due to disabled verify_url option
+436	improper authorization which enables an attacker to change the configuration
+437	manipulation of the argument title/url leads to cross site scripting
+438	not properly verifying restore privileges when restoring a file
+439	an incorrect function call for pending data
+440	Passing _callable strings_ caused the function to be executed.
+441	absence of type parameter checking
+442	manipulation leads to cross site scripting
+443	Heap-based Buffer Overflow
+444	an insecure source of randomness
+445	maliciously crafted, deserializing it could lead to code execution
+446	a buffer over-read in print-hncp.c:dhcpv4_print()
+447	SQL queries were being constructed with user input which had not been properly filtered.
+448	users with admin privileges to issue commands as other users who share the same server
+449	does not unlock cond_mutex before pthread exit
+450	an unusual hardware configuration
+451	an exploitable vulnerability in the yaml loading functionality resulting in command execution
+452	lack of rate-limiting in the password change function
+453	overlap entries in the archive
+454	user controlled data to a user specified location
+455	unvalidated or unfiltered user input
+456	malformed request traffic, leading to excessive CPU usage
+457	buffer over-read in telnet parser
+458	susceptible to cross site request forgery
+459	an uninitialized structure
+460	secure upload URLs can be accessed by guest users even when login is required
+461	an insufficiently trustworthy search path
+462	does not properly validate the channel geometry
+463	user-controlled placeholder value
+464	NULL pointer reference
+465	an authentication cookie leak to plugins under certain conditions
+466	file permissions allowed the user's group and non-group to read the file
+467	an error in program design
+468	does not properly restrict listings of post authors
+469	unknown code of the file js/roomElement.js of the component Main Page
+470	lack a Vary: Origin header
+471	changing the environment or debug mode used by the kernel when handling the request
+472	buffer overflow in pan/addr_resolv.c, and ws_manuf_lookup_str(), size components
+473	a stack-based buffer over-read in the ParseRiffHeaderConfig function
+474	Improper Validation of Array Index
+475	Improper Validation of Specified Quantity in Input
+476	invalid IV sizes
+477	checking name constraints in X.509 certificates is quadratic in the number of names and name constraints
+478	SQL Injection
+479	URI normalisation in the browser where the file:// check can be bypassed with file:\\
+480	do not fully initialize structures that are copied to userspace, potentially leaking sensitive memory
+481	uses the PHP rand function for random number generation, which makes it easier for remote attackers to guess the
+482	Default Typing is enabled, service has the Jodd-db jar in the classpath, attacker can
+483	memory leak in svg_parse_preserveaspectratio
+484	user accounts can be created even when user registration is disabled
+485	data controlled by the comment allowing an attacker to take over the GitHub Runner and run custom commands
+486	lacks a check for the hashmap__new return value
+487	some content in a math or svg element may not be sanitized correctly
+488	bypass input sanitization when the input to be rendered is an array (instead of a string or
+489	a certain regfree, which might allow attackers to trigger a "very significant" memory leak via messages
+490	does not ensure that the value in the CR4 control register remains the same after a VM entry
+491	missing authorization in User#setDisabledStatus, incorrectly authorized user, only Script rights, enable or disable a
+492	user input gets no sanitization
+493	an out-of-bounds write when getting data from dyld cache files
+494	Buffer overread is possible when parsing a specially crafted STUN message with unknown attribute.
+495	command injection
+496	mishandles widths
+497	a memory leak in the __ipmi_bmc_register() function allows attackers to cause a denial of
+498	cross-site scripting is possible for scripts outside of script tags when displaying HTML attachments
+499	Buffer Over-read in prior to v2.3.0-DEV
+500	data (`p[UD`) and `guid` values used to disconnect between nodes are not encrypted
+501	traffic sent over wg(4) could result in kernel crash
+502	Integer Overflow vulnerability in pos argument in bn_get_prime function
+503	allows remote authenticated users to inject arbitrary web script or HTML via a SQL query that triggers JSON data in
+504	Improper Access Control
+505	client input and is not constrained to lib/cfields/cfieldsView.php
+506	6 hexadecimal characters which is arguably not enough to prevent a brute-force attack.
+507	crafted serialized data
+508	XML_PARSE_HUGE is not properly restricted
+509	manipulation of the argument $_SERVER['SCRIPT_NAME'] leads to cross site scripting
+510	a malicious actor who knows an account email address/username and full name specified in the database is capable
+511	a NULL pointer dereference via a crafted file
+512	a malicious client can hand-craft an HTTP API call that allows for updating policy for a user and
+513	an uninitialized data structure and a certain length variable
+514	arbitrary command injection
+515	manipulation of the argument public_key_str leads to injection
+516	XSS via the select field type
+517	allowing a malicious zip file to potentially break out of the expected destination directory, writing contents into arbitrary
+518	a Time-of-Check to Time-of-Use (TOCTOU) vulnerability in the implementation of
+519	the Limit directive can be set in a user's .htaccess file, or if httpd.conf has
+520	improperly crafted filenames may result in them being placed in a location different than what was configured
+521	path traversal vulnerability affects fides versions lower than version `2.15.1`, allowing remote attackers
+522	Path traversal
+523	does not validate that the underlying cryptographic hash algorithm is unkeyed
+524	A deserialization vulnerability exists in the DataEase datasource, which can be exploited to execute arbitrary code.
+525	Regular Expression Denial of Service (ReDoS) via the checkHeader function
+526	xml external entity reference
+527	a malicious cobalt instance could serve links with the `javascript:` protocol, resulting in Cross-site Scripting
+528	insecure temporary file
+529	a call to `vc_cfgread` that does not check for null
+530	a stored cross-site scripting (XSS) vulnerability
+531	a urldecode step too late in the "Cannot upload executable files" protection mechanism
+532	missing input validation of the index field in _raw() during construction of an ImageMagick command line
+533	an attacker can inject javascript code into Volume Name
+534	vulnerable to Regular Expression Denial of Service (REDoS)
+535	allow remote attackers to inject arbitrary web script or HTML via a parameter
+536	The CGI script directly outputs the query string parameters into the HTML response without escaping HTML special characters.
+537	world-readable (readable by an attacker with access to the system)
+538	a request as the server and read its contents
+539	NULL Pointer Dereference prior to 2.2.2.
+540	allows attackers to visit META-INF and WEB-INF when deployed to the root context
+541	sensitive data when the tool is run against Cilium deployments with the Envoy proxy enabled
+542	Directory traversal vulnerability due to a .. (dot dot) in the type parameter.
+543	tenant-owner can patch any arbitrary namespace that has not been taken over by a tenant thereby gaining control of
+544	Improper Authorization
+545	a denial of service (NULL pointer dereference and crash) by sending a password packet before a startup
+546	Modification of Assumed-Immutable Data (MAID) vulnerability
+547	an uninitialized list data structure during an unhash operation
+548	an uninitialized structure member
+549	an attacker is able allocate arbitrary many bytes in the Bitswap server, those allocations are lasting even if
+550	an attacker submitting the JWT token can choose the used signing algorithm
+551	command injection vulnerability due to a shell string sanitation fix
+552	mishandles the module parameter
+553	allows remote authenticated users to execute arbitrary shell commands via a crafted Velocity template
+554	Unverified Password Change
+555	user without Script or Programming rights to craft a URL pointing to a page with arbitrary JavaScript.
+556	NULL pointer dereference and crash via a file transfer request for a contact that is not in the contact
+557	regex metacharacters in the user name
+558	does not properly interact with read system calls on ping sockets
+559	an insider attacker with any role can extract sensitive information from other reNgine users
+560	cross-site scripting vulnerability when the sanitizer is used with a `contentEditable` element to set the elements
+561	arbitrary HTML injection
+562	misinterprets the drm_gem_shmem_get_sg_table return value (expects it to be
+563	Directory Traversal in the Load Code feature
+564	mishandled after a HOME button press or a Show Windows action
+565	Improper Restriction of Rendered UI Layers or Frames
+566	an out-of-bounds write when parsing Mach-O files
+567	does not properly clear physical volume (PV) content when reallocating for instances
+568	an issue was discovered in function get_gnu_verneed allows attackers to cause a denial of service via
+569	Unrestricted Upload of File with Dangerous Type
+570	untrusted backend users to inject malicious code into headline fields
+571	Improper Restriction of Excessive Authentication Attempts
+572	defaulted SQLite to use MySQL backslash escaping, even though SQLite uses Postgres escaping
+573	more extents than fit in the inode fork
+574	injection of arbitrary JavaScript through the "unit" parameter
+575	an infinite recursion
+576	the name argument provided to the package can be controlled by users without any sanitization, and this is
+577	the cache is checked in `func (a *AuthenticatorOAuth2Introspection) Authenticate(...)` but
+578	admin privileges can modify configuration settings to inject arbitrary HTML
+579	Prototype pollution vulnerability in 'object-hierarchy-access' allows attacker to cause a denial of service and may
+580	mishandles certificate validation because an X509_check_host negative error code is interpreted as a successful
+581	Improper Access Control
+582	escaping for double quotes does not exist
+583	a segmentation violation in the function njs_string_offset
+584	CSRF tokens generated by `privUITransactionFile` aren't properly checked
+585	manipulation of the argument $_SERVER['PHP_SELF']
+586	improper implementation in the password storage process
+587	an exceedingly large response header
+588	client-side invocation timeout with certain calls made over HTTP2
+589	reflected XSS with `date_from` and `date_to` parameters
+590	ignored any data preceding the "Hash: ..." texts when verifying the signature
+591	out-of-bounds array access
+592	an off-by-one error
+593	incorrect arguments to functions in certain circumstances related to printk input
+594	a timing side channel
+595	a strict processing issue while validating blocks on a chain
+596	a directory traversal issue in the Utils/Unzip module allows an authenticated attacker to gain remote code execution
+597	Allocation of Resources Without Limits or Throttling
+598	any user who can edit any page like their profile can create a custom skin with a template override that
+599	an attacker can learn that secret categories exist when they have backgrounds set
+600	a stack out-of-bounds write in onigenc_unicode_get_case_fold_codes_by_str() during
+601	users might see tracker names they should not have access to
+602	A stack overflow vulnerability allows attackers to potentially execute arbitrary code via crafted JavaScript.
+603	CURLOPT_SSL_VERIFYHOST and CURLOPT_SSL_VERIFYPEER are set unsafely.
+604	unspecified vectors
+605	controlling the format string to "read" all objects accessible through recursive attribute lookup and subscription from objects
+606	a bug in the function `parse_param_name()`
+607	the service's XML parser is configured to resolve external entities without proper validation or restrictions
+608	single quotes are not used when sending a list of app IDs and titles via the environment
+609	allow attackers to perform Prototype Pollution, adding or modifying properties of Object.prototype using a __proto__ payload
+610	a Server-Side Request Forgery vulnerability in the "Resource.get" method that could result in compromise
+611	an incorrect character data type
+612	allow remote attackers to inject arbitrary web script or HTML via parameters
+613	unsafe PAC file handling
+614	the pattern `.*` will greedily match anything
+615	Improper Neutralization of Input During Web Page Generation
+616	mishandled during extraction
+617	incorrectly expects that a krb5_read_message data field is represented as a string ending with a
+618	Multiple directory traversal vulnerabilities
+619	Uninvited users are able to gain access to private events by crafting a request to update their attendance
+620	non-admins to be able to invite users and create multi-use invitations, only admins to be able
+621	handling it takes increasingly longer, making the server less responsive
+622	memory on the server
+623	improper neutralization of special elements used in an OS command due to lack of proper sanitization
+624	unsafe when generating URLs
+625	an arbitrary file renaming vulnerability
+626	missing __Host- prefix on the _gitpod_io_jwt2_ session cookie
+627	Multiple format string vulnerabilities due to a crafted third argument to the rrdtool.graph function.
+628	does not protect `host` HTTP header from CRLF injection vulnerabilities
+629	does not validate the sect and head fields, as demonstrated by an integer overflow and out-of-bounds
+630	Reliance on Cookies without Validation and Integrity Checking
+631	an unsanitized "query_string" variable from the URL
+632	Business Logic Errors
+633	an inaccurate frame deduplication process
+634	lack of an EOF check
+635	lack of an EOF check
+636	manipulation of the argument sendback leads to open redirect
+637	Integer overflow due to a large AIO iovec.
+638	certain error conditions
+639	Multiple SQL injection vulnerabilities due to remote authenticated users to execute arbitrary SQL commands.
+640	an infinite loop
+641	crafted username and password Host header values
+642	PIN validation error due to the incorrect PIN; incorrectly persisted prior to the completion of the pairing request.
+643	assertion failure and daemon exit via a malformed BEGIN cell
+644	denial of service when url encoding is enabled
+645	a missing check at a function return.
+646	do not restrict the lengths of libmodplug output-buffer strings
+647	Directory Traversal vulnerability allows a remote attacker to execute arbitrary code via the loadServerPack.
+648	improperly handled during construction of an AJAX confirmation message
+649	Improper Limitation of a Pathname to a Restricted Directory
+650	unauthenticated users can leak the contents of files of the local system accessible to the web-server user
+651	Placeholders that are replaced without escaping the content first
+652	index into `layer_handler` with an 8 bit layer number, but the array only has `
+653	uninitialized memory locations due to iofuncs/memory.c does not zero out allocated memory
+654	manipulation of the argument dni_profe leads to sql injection
+655	local users to discover credentials by listing processes and their arguments
+656	an uninitialized pointer
+657	the same secret key was being used by default
+658	trick a user with programming rights into visiting a constructed url where e.g., by embedding an image
+659	Multiple race conditions in the ext4 filesystem implementation allow local users to cause a denial of service by writing
+660	an authentication-bypass vulnerability
+661	client factory dumping cluster configurations and their service account tokens when the cluster manager tries to connect to an API
+662	information leaks if PHP's curl extension is enabled and safe_mode or open_basedir is not set
+663	Buffer overflow via a crafted command line
+664	a flaw in the way qemu validates addresses when guest accesses the config space of a virtio device
+665	improperly relies on the java.util.Random class for generation of random Session ID values
+666	command injection in changed filenames
+667	an SVG org logo (which may contain JavaScript) is not forbidden by default
+668	Integer Overflows, which can lead to Heap Overflows, in the functions that wrap memory allocation.
+669	an overflow occurs, `MultiplyWithoutOverflow` would return a negative result
+670	a remember-me cookie based on a hash created from the username, password, and an additional system key
+671	a buffer over-read in print-isakmp.c:isakmp_rfc3948_print()
+672	NULL Pointer Dereference
+673	Carefully crafted Range headers can cause a server to respond with an unexpectedly large response.
+674	The output serializer does not properly encode the supposed Cascading Style Sheets (CSS) content.
+675	does not limit the number of recursive decompositions
+676	mishandles session expiry
+677	a missing check
+678	Integer overflow in the gdImageWebpCtx function allows remote attackers to cause a denial of service (
+679	caches Set-Cookie and other sensitive headers
+680	xml external entity reference
+681	out-of-bounds read affecting the X3F property table list implementation
+682	an incorrect max_filesize quota mechanism due to a certain greater-than-zero test does not anticipate an initial
+683	an attacker who obtains a JWT can arbitrarily forge its contents without knowing the secret key
+684	regular expression injection
+685	does not validate them in the back end
+686	users can inject malicious code in filenames when uploading files
+687	a long SSID value
+688	Improperly Controlled Modification of Object Prototype Attributes
+689	the right of another user, provided the target user does not have programming right
+690	an integer overflow error due to an incomplete fix
+691	a flaw in the GeSHi syntax highlighter library hosted by the victim
+692	arbitrary code execution may lead to local privilege escalation, provide lateral user movement or malicious code execution when
+693	insufficiently validate the supplied URL address
+694	divide-by-zero error or out-of-bounds write
+695	insufficient input sanitization and output escaping
+696	an algorithm was never sufficiently reviewed by cryptographers
+697	compromised HTTP schema introspection responses or schema prop values with malicious GraphQL type names
+698	A race condition occurs when two threads execute the GSMIOC_SETCONF ioctl on the same tty file descriptor
+699	outsize inputs
+700	a buffer over-read
+701	is compared via regular string comparison (instead of `Yii::$app->getSecurity()->compareString()
+702	manipulation of the argument DiscussTitle leads to cross site scripting
+703	cross-site scripting
+704	a Certificate that it doesn't posses the private key for and Pion DTLS wouldn't reject it
+705	exposure of private information defined in setup
+706	improper handling of load balancing and a lack of an appropriate index
+707	a bug in runc where `runc exec --cap` created processes with non-empty inheritable
+708	not properly handle temporary files when the ~/.w3m directory is unwritable
+709	a missing check for failure of a call to init_get_bits8() in the avpriv_ac3
+710	content displayed in the "card fields" is not properly escaped
+711	bypass this limitation and returns the file content if it exists
+712	local file inclusion
+713	an attacker to start multiple parallel password checks
+714	Missing Authorization
+715	a width of zero is mishandled
+716	permission control is broken and can be accessed anonymously
+717	Memory leak in the stbl_GetSampleInfos function allows attackers to read memory via a crafted file.
+718	Command Injection via main function in index.js
+719	arbitrary code execution during compilation due to using Babel to compile code that was specifically crafted by an attacker
+720	inject arbitrary web script via a crafted javascript: URL in the "homepage" value of a ".g
+721	lack of an EOF (End of File) check
+722	os.path.isabs() does not catch UNC paths like //server/share, Werkzeug's safe_join()
+723	setuid binary
+724	leak cookies on HTTP redirects, lose their scope, indiscriminately send cookies with requests to domains
+725	insecure temporary directories
+726	a symbolic link issue
+727	refresh tokens are logged to the console when the disabled by default `debug` flag, is enabled
+728	an unsigned integer underflow
+729	ny user can call a REST endpoint and obtain the obfuscated passwords, even when the mail obfusc
+730	users who are forced to change their password may retrieve other users' data
+731	malicious admins to configure or talk a victim with administrator rights into configuring a webcam snapshot URL which when
+732	an out-of-bounds write for certain relationships between key size and digest size
+733	XSS vulnerability on index pages for static file handling
+734	a crafted script to the WSGIServer component
+735	SVG uploads were not sanitized
+736	injected JavaScript code, specially crafted <title> attribute
+737	an unsanitized "f" variable coming from the URL
+738	does not redact an SSH key from a URL query parameter
+739	header value validation was not performed
+740	incorrect error handling of gmm_state_exception() function
+741	Polymorphic Typing issue when Default Typing is enabled for an externally exposed JSON endpoint and the
+742	a heap-based buffer overflow issue due to an out-of-bounds read error
+743	stack-based buffer overflows
+744	does not correctly process the contents of double quoted strings
+745	authentication with an invalid X.509 client certificate
+746	incorrect conntrack entries during handling of certain iptables rule sets
+747	a complex format argument to sscanf
+748	no input sanitization in the firstname and lastname fields
+749	manipulation of the argument content/link/shares leads to cross site scripting
+750	not having been successfully validated first
+751	misaligned address for type 'double' and for type 'float' at MagickCore/property.c
+752	Use After Free.
+753	CSRF vulnerability that allows user account takeover due to `protect_from_forgery` method configured to
+754	arbitrary code to execute on the client side
+755	CSRF attack that can add an administrative account via api/save_user
+756	heap-use-after-free
+757	a NULL pointer dereference in copyIPv6IfDifferent
+758	POST parameters are not filtered properly
+759	buffer over-reads in print-smb.c:print_trans()
+760	user input or data from URL parameters is incorporated into the flashMessage or the library's languageDictionary
+761	XSS via a URI
+762	sql injection
+763	mail validation had some flaws
+764	a buffer over-read in print-nfs.c:xid_map_enter()
+765	ACLs for discussion threads were mishandled
+766	reading data past the end of the intended buffer
+767	Memory Allocation with an Excessive Size Value
+768	a cross-site websocket hijacking (CSWSH) vulnerability within the control.ashx endpoint
+769	an invalid `SAM` file path
+770	out-of-bounds read when `WCHAR` string is read with twice the size it has and
+771	cache of a non-dynamic server-side rendered route in the pages router could coerce Next.js to
+772	use after free in r_reg_get_name_idx function
+773	a type-confusion vulnerability
+774	command injection vulnerability with a shell string sanitation fix
+775	lack of invalidating session attributes
+776	prepared statements are not used
+777	an error handle when the file doesn't exist on the server
+778	assume that one of its connected peers has moved to a new address and initiate a reconnect by sending
+779	Directory traversal vulnerability
+780	a crafted payload injected into the Name parameter under the settings module
+781	mishandles leaf cfs_rq's
+782	fails to properly validate and sanitize user inputs in the `control.php` parameter
+783	Heap-based Buffer Overflow due to a crafted filename
+784	command injection in basic_caption_gui.py
+785	a command injection vulnerability from `$poller_id` sourced from `$_SERVER['argv']`, which
+786	does not check if a commit created by dependabot is verified with the proper GPG key
+787	NULL pointer dereference via vectors involving a bind system call on a Bluetooth RFCOMM socket
+788	a use-after-free
+789	improper handling of the 'next' parameter
+790	an out-of-bounds write via a crafted PSD file
+791	malformed datastore URI
+792	a separating comma ends up on a folded line and that line is to be unicode-encoded then the
+793	improper access to a certain error field
+794	JavaScript code will be executed in the browser
+795	a lack of validation of file names
+796	NULL pointer dereference and system crash via a crafted endpoints value in a USB device descriptor
+797	manipulation of the argument quiz leads to sql injection
+798	HTML is not sanitized before replacing the shortcode
+799	lacks intended decoder-table flags for certain RIP-relative instructions
+800	unknown processing of the file setup/lib/main.lib.php
+801	bypass an account disabling by requesting their password be reset
+802	directory traversal via ../ in a .qp file
+803	unsafe way
+804	any user with script rights can perform arbitrary remote code execution by adding instances of `XWiki.Configurable
+805	an expression injection in Actions
+806	inject arbitrary web script or HTML via the file name of an uploaded file
+807	an out-of-bound read in glyph_cache_put
+808	hash collisions of indices to the counter array
+809	a heap-based buffer overflow issue in ImageMagick's ImportMultiSpectralQuantum() function allowing an
+810	Relative Path Traversal
+811	bypassing of a filter which allows for an XXE-attack
+812	not escaping values properly
+813	lack of proper validation that cached inodes are free during allocation
+814	does not properly handle the MSG_PEEK flag with zero-length data
+815	properly restrict seq buffer allocations
+816	an uninitialized pointer
+817	pathname traversal
+818	Buffer overflow vulnerability in function NumberToPrecisionCmd allows remote attackers to execute arbitrary code.
+819	a prototype pollution sink to trigger a remote code execution through the MongoDB BSON parser
+820	mishandles dev->buf release
+821	SQL injection when Parse Server is configured to use the PostgreSQL database
+822	content insertion code
+823	users might see tracker names they should not have access to
+824	inject malicious input or arrange to have malicious input be returned from an endpoint
+825	sensitive revision-history information by leveraging the ability to read a post
+826	an error in program design
+827	a signed integer overflow
+828	cross-site scripting when switching to the source code mode
+829	the update through local files
+830	invalid integrity hash that is ignored by the browser
+831	an attacker modifies the calls to this functionality by supplying a completely different URL or by manipulating how URLs are
+832	an invalid memory access flaw
+833	large width and height values
+834	the connection between the two sockets was not verified before passing the two sockets back to the user
+835	overlapping capture groups
+836	does not validate the src_format and dst_format attributes
+837	insufficient checks on the allowed set of permissions
+838	Improper Authorization
+839	an off by one in the cqspi_setup_flash() function
+840	an issue in queue-name parameter to include/ajax.search.php
+841	out-of-bounds writes via a crafted keycode table
+842	an attacker can crash a service using cbor2 to parse a CBOR binary by sending a long
+843	out-of-bounds read
+844	lacks a cryptographic HMAC-signature on the frame HTTP query parameter
+845	memory leaks in the mwifiex_pcie_init_evt_ring() function due to triggering mwifiex
+846	improper authorization
+847	absence of restrictions on the endpoint
+848	improper validation and enforcement of CSRF tokens
+849	forging a request to a delete attachment action with a specific attachment name
+850	allow remote authenticated users to inject arbitrary web script or HTML via a crafted name
+851	stack-buffer overflow vulnerability due to hashed digest credentials data length not validated
+852	an Integer Overflow in the way the overrun accounting works
+853	does not enforce project sourceNamespaces
+854	customer could overwrite the warehouse address with its own
+855	does not verify FIFO assignment before proceeding with FIFO clearing
+856	mishandling of remote hosts filtering SSH commands using ssh_filter_btrbk.sh in authorized_keys
+857	a buffer overflow via the component /shared/dlt_common.c.
+858	a double-free in function pspdf_export() may result in a write-what-where condition
+859	nullptr dereference when given a parameter shape with rank that is not greater than zero
+860	an exception in the AMF's internal state machine
+861	processing of the Criteria did not considered ManyToMany associations and so they were not considered properly and the
+862	an incorrect configuration allows arbitrary files
+863	user input is not filtered correctly
+864	an out-of-bounds read
+865	calling the Electron shell.openExternal function without verifying that the URL is for an http or https resource
+866	a vulnerability allows any authenticated user to arbitrarily remove content from the Wiki resulting in partial loss of data
+867	A user with an XSS payload as password or username to execute arbitrary javascript code on a victim browser
+868	an issue in wp_validate_redirect() and URL sanitization
+869	an out-of-bounds read and application crash via a crafted length field in ASN1_TIME data
+870	Improper Restriction of Rendered UI Layers or Frames
+871	manipulation of the argument $COMMENT_BODY leads to os command injection
+872	file outside of the restricted directory
+873	reflected XSS vulnerability in main/social/search.php=q URI
+874	a memory leak vulnerability in WritePDFImage in coders/pdf.c
+875	Multiple buffer overflows allow local users to gain privileges by leveraging the CAP_NET_ADMIN capability during scan operations
+876	a large value
+877	improper neutralization of special elements used in an OS command
+878	Use After Free
+879	memory corruption when non-default build configuration is used
+880	Incorrect error handling in the set_mempolicy and mbind compat syscalls allows local users to obtain
+881	non-existent session token rotation after authenticating
+882	any user with an account on the main wiki could run scheduling operations on subwikis
+883	Use After Free
+884	special crafted GET request parameters handled by endpoints allow a super-user attacker or an unwitting, but authorized
+885	path traversal and arbitrary file upload vulnerability via the `/collections/{COLLECTION}/snapshots/upload` endpoint
+886	accepts `file:/` URL where a relative path is expected
+887	mishandled
+888	Inefficient Regular Expression Complexity
+889	nil pointer dereference when the node attempted to drop the Handshake packet number space
+890	untrusted content processed using Mathjax
+891	memory race condition with the ssl.SSLContext methods “cert_store_stats()” and “get_ca
+892	users of that schema may be able to inject arbitrary AQL queries that will be forwarded to and executed
+893	A memory leak in rtl8xxxu_submit_int_urb() allows attackers to cause a denial of
+894	an artifact named .. when downloaded using gh run download
+895	no checks on whether the input is encrypted
+896	a weak cache-based mechanism
+897	an attacker can craft traffic to cause Suricata to use far more CPU and memory for processing the
+898	HTML, including script tags can be injected into field names
+899	NULL pointer dereference via a crafted file
+900	improper sanitizing of html
+901	XXE when parsing XMP metadata entries
+902	NULL Pointer Dereference
+903	Authorization Bypass Through User-Controlled Key
+904	improper handling of elements under the `contentEditable` element
+905	parameters which are passed through replacements are not properly escaped
+906	a memory leak vulnerability in WritePALMImage
+907	a buffer over-read
+908	a CHECK-fail related abort if a segment id in segment_ids is large; the number of elements
+909	memory corruption when deflating if the input has many distant matches
+910	a heap-based buffer over-read
+911	NULL pointer dereference
+912	does not exclude the CHUNKY format
+913	parameters of UI extensions are always interpreted as Velocity code and executed with programming rights
+914	Integer overflow in the oom_badness function in mm/oom_kill.c in the Linux kernel.
+915	Insufficient Session Expiration
+916	does not properly perform service-principal realm referral
+917	a type juggling vulnerability allows attackers to bypass authentication
+918	an attacker who has access to edit pages can inject JavaScript payload in the title field
+919	invalid Unicode sequences
+920	Race condition in reading an extent that was not properly marked as uninitialized
+921	an empty input `a`
+922	arbitrary JavaScript code
+923	observing response time during user authentication can be used to distinguish between existing and non-existing user accounts
+924	users might see tracker names they should not have access to
+925	accept extra unencrypted commands after STARTTLS, treating them as if they came from inside the encrypted connection
+926	allow_redirects=True, server-side request forgery, request returns a 302 redirect
+927	allows remote attackers to inject arbitrary web script or HTML via a folder name
+928	inject arbitrary web script or HTML via a crafted Host HTTP header, crafted JSON data, a crafted SQL
+929	access heap memory which is not in the control of user
+930	a NULL pointer dereference in tw5864_handle_frame()
+931	unspecified vectors
+932	improper authorization of access
+933	xml external entity reference
+934	a regular expression that is vulnerable to a Regular Expression Denial of Service
+935	a shell is used to execute df (i.e., with execSync instead of spawnSync in child
+936	SQL Injection
+937	untrusted user input with no sanitization
+938	Byte-aligned data is accessed through uint16_t pointers
+939	an error in program design, allows remote attackers to inject arbitrary web script or HTML via the app_uuid
+940	a race condition
+941	Cross-Site Request Forgery (CSRF) in admin/stat.adminlog.php
+942	crafted requests in the social and links tools
+943	prototype pollution in the main Snowboard class as well as its plugin loader
+944	allow remote attackers to inject arbitrary web script or HTML via a crafted Host HTTP header, crafted JSON data
+945	path traversal
+946	command injection via shell metacharacters in the command parameter of an API request
+947	race condition in the XMPP library allows man-in-the-middle attackers to bypass TLS protections and trigger use
+948	missing rate limits on `/auth/setup`
+949	multiple integer overflows leading to a heap-based buffer overflow
+950	incorrectly unescaped
+951	a command with newlines which would not be properly parsed
+952	does not consider the .phtml extension when examining files within a ZIP archive that may contain PHP code
+953	remote code execution, "Custom Filter" input
+954	Integer overflow in the ape_decode_frame function in libavcodec/apedec.c allows remote attackers to
+955	storing the JWT secret in plaintext in the navidrome.db database file
+956	Buffer Overflow vulnerability due to a local attacker to cause a denial of service via the function in gf_is
+957	endless loop that also keeps consuming memory and eventually will run out of memory
+958	Cross-Site Request Forgery (CSRF) in the password recovery form
+959	Request timed out.
+960	server-side-request-forgery (SSRF) vulnerability allowed an unauthenticated user to trigger a
+961	a heap-based buffer over-read via a malformed PPM input file
+962	Request timed out.
+963	allows remote attackers to inject arbitrary web script or HTML via the url parameter to permalink_page.php.
+964	an authorization bypass exploited by a user-controlled key
+965	failing to properly encode user-controlled values in file entities
+966	a command injection vulnerability with very specific prerequisites
+967	a memory leak in the way daemon processed log messages are logged when $RepeatedMsgReduction was enabled
+968	using a weak password by default
+969	injection arbitrary web script or HTML
+970	unauthenticated blind server-side request (SSRF) vulnerability in Auth.js
+971	does not limit the instruction size
+972	The capabilities implementation in the Linux kernel does not properly consider that namespaces are inapplicable to inodes
+973	Insufficient Session Expiration
+974	allowing remote attackers to run arbitrary commands via unauthenticated HTTP request
+975	access to remapped root allows privilege escalation to real root
+976	insufficient parameter validation
+977	does not initialize a certain structure for IP_VS_SO_GET_TIMEOUT commands
+978	did not properly verify the signature of JSON Web Tokens
+979	mishandles ordered_url_params and additional_delimiters
+980	Regular Expression Denial of Service (ReDoS) vulnerability exists in parsing HTTP Accept headers
+981	a buffer overflow
+982	exponential backtracking on strings containing many repetitions of '\r\n' in SQL comments
+983	the parameter is not validated
+984	Buffer Overflow or Out-of-bounds Read during syntax parsing
+985	access plugins without proper authorization
+986	incomplete check for the parent directory
+987	Use After Free
+988	a bug in Red's Core API, 3rd-party cogs using the `@commands.can
+989	improper validation to block attempts to connect to internal resources
+990	Improper Restriction of XML External Entity Reference
+991	overflowing the field where the values are defined
+992	the vast majority of these PATH_RESPONSE frames by collapsing the peers congestion window and by manipulating the peer's
+993	exposed secret values in error messages and the diff view when an invalid Kubernetes Secret resource was synced from
+994	a TIFF decoding integer overflow, related to realloc
+995	Eval injection due to remote unprivileged attackers.
+996	bad input sanitization leading to path traversal
+997	manipulating the 'id' parameter in the request
+998	exposing the random number seed to the API
+999	null pointer dereference in naludmx_create_avc_decoder_config function in reframe_nalu.c
+1000	use after free in mrb_vm_exec
+1001	path traversal in the TAR entry's name
+1002	stack buffer overflow vulnerability
+1003	manipulation of the argument value/name leads to sql injection
+1004	missing SQL escaping and parameterization on user supplied data
+1005	using the `javascript:` scheme with custom widget URLs and form redirect URLs
+1006	does not require the FilemanagerAdmin capability for restartMySQL actions
+1007	Integer overflow in the mem_check_range function
+1008	SQL injection via a base64 serialized API key
+1009	allows remote attackers to inject arbitrary web script or HTML via vectors involving numeric form fields
+1010	Out-of-bounds Read prior to 9.0.0212
+1011	an issue where $wpdb->prepare() can create unexpected and unsafe queries leading to potential SQL injection (
+1012	stored XSS in HTML messages during message display via a crafted SVG document
+1013	a vulnerability in the "file forwarding" feature which can be used by an attacker to gain access to
+1014	SQL injection due to the `rudder` role in PostgresSQL having superuser permissions by default
+1015	do not properly check the protocol when security groups are created and the network protocol is not specified entirely in
+1016	Improper Authorization
+1017	an overflow when converted to an int64
+1018	allows attacker to include file contents from outside the `/log/file1/` directory
+1019	a double free in the gdImage*Ptr() functions
+1020	cookies were not encrypted and thus CSRF tokens were transmitted in the clear
+1021	mishandles seccomp permissions allowing attackers to bypass intended restrictions on setting the PT_SUSPEND
+1022	improperly restrict changes to the MNT_READONLY flag
+1023	a crafted filename
+1024	the implementation of `tf.raw_ops.LSTMBlockCell` does not fully validate the input arguments;
+1025	domain names that included square brackets which isn't valid according to RFC 3986
+1026	the backend did not properly take into account SMB servers that have any kind of anonymous auth configured
+1027	an invalid HTTP method
+1028	elevation of privilege vulnerability in a helper script, malicious insider without admin privileges, replace valid content with
+1029	some files with xml content are parsed vulnerable against all sorts of XXE attacks
+1030	invalid frame
+1031	secretKey value is stored in the database in cleartext form
+1032	lack of proper validation of a user-supplied path prior to using it in file operations
+1033	out-of-bounds read via a crafted PSD file
+1034	NULL Pointer Dereference
+1035	a stored XSS vulnerability via send invitation feature
+1036	Insufficient session expiration
+1037	loading of plugins from the installed directory
+1038	a certificate error was overridden by the user
+1039	an information leak of uninitialized memory
+1040	SQL injection vulnerability via the itemid parameter
+1041	Improper Access Control
+1042	integer underflow and heap-based buffer under-read via a crafted TIFF image
+1043	manipulation of the argument value
+1044	allows remote attackers to execute arbitrary PHP code via HTTP POST data starting with a "<?php " substring
+1045	the problem of actual signature downgrading
+1046	unsanitized input from the request URL
+1047	inefficient regular expression complexity
+1048	a heap-based buffer over-read or buffer overflow in inflate via a large gzip header extra field
+1049	insufficient validation of user supplied data
+1050	an access-control check omitted when adding a key to the current task's "default request-key keyring
+1051	command injection in changed filenames
+1052	Global-Buffer-Overflow in the ncrush_decompress function
+1053	a settings key in place of a date/time format setting
+1054	manipulation of the argument sol leads to sql injection
+1055	a stack-based buffer overflow in MeshCoP::Commissioner::GeneratePskc
+1056	improper input validation
+1057	Heap-based buffer overflow in the decodeBlockWAVE function allows remote attackers to cause a denial of service
+1058	manipulate the template in a way that writes files to arbitrary paths on the scaffolder-backend
+1059	bypass the NMI validation
+1060	malicious content
+1061	a NULL value of a BIO data structure
+1062	an arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter
+1063	overlap entries in the archive
+1064	a use-after-free in read_answers() when process_answer() may re-enqueue a query either due
+1065	any user with view rights on any document can execute code with programming rights, leading to remote code execution
+1066	missing verification of Session Tokens after password changes and/or elapsed inactivity periods
+1067	improperly validates client certificates
+1068	the first 16 bytes of the secret key as the initialization vector (IV)
+1069	path traversal
+1070	path traversal vulnerability permitting file write in arbitrary locations via install command
+1071	previous values of kubernetes secrets would have been disclosed in the audit messages
+1072	freely change the id_address in the form, change the id_customer and change all information of all
+1073	an incorrect design in the image upload function
+1074	Buffer overflow in ReadRLEImage function in coders/rle.c in ImageMagick allows remote
+1075	inadequate input sanitization
+1076	Cross Site Scripting (XSS) vulnerability in change password form
+1077	improper handling within an http-equiv="refresh" META element
+1078	a null pointer dereference in mailimap_mailbox_data_status_free
+1079	reading more bytes than provided by user space
+1080	a malicious actor could get the FastImage library to redirect requests to an internal Discourse IP
+1081	a CHECK failure can be triggered remotely, client supported cipher advertisement changing between the original ClientHello and the
+1082	lacks an ACL check
+1083	the password is not checked for users with an already existing session
+1084	a `CHECK`-fail if the key tensor is not a scalar
+1085	a use-after-free
+1086	inject arbitrary web script or HTML via the id parameter
+1087	does not check for an MSR with both the S and T bits set
+1088	negligence to consider a few cases
+1089	a Computer thread stuck in the Lua VM, which eventually blocks the Server thread
+1090	sql injection
+1091	the values in the sliding window are not checked to be strictly positive
+1092	Improper Neutralization of Input During Web Page Generation
+1093	heap-based buffer overflow in the function gp_rtp_builder_do_avc()
+1094	a negative number
+1095	Buffer Over-read in GitHub repository bfabiszewski/libmobi prior to 0.11
+1096	mishandles freeing instances, allowing a local user able to access the AF_ALG-based AE
+1097	out of array access vulnerability in MXF format demuxer
+1098	XSS vulnerability on the machine_list view
+1099	does not check the values passed into the argument
+1100	forwards empty Content-Length headers, violating RFC 9110 section 8.6
+1101	insufficient control of network message volume
+1102	distinct messages for invalid password and non-existing users
+1103	NULL Pointer Dereference
+1104	out-of-bounds read and system crash via a crafted USB device
+1105	an attacker can read local files via a specially crafted request
+1106	incomplete fix of CVE-2022-1211
+1107	Heap-based Buffer Overflow
+1108	uninitialized pointer
+1109	does not properly implement a TKIP protection mechanism
+1110	a logic error allows an unprivileged user to unmount a FUSE filesystem that belongs to certain
+1111	inefficient regular expression complexity
+1112	customer could overwrite the warehouse address with its own, which exposes its address as click-and-collect address
+1113	out-of-bounds write
+1114	an authenticated DHIS2 user can craft a request to DHIS2 to instruct the server to make
+1115	broadcasts events to all clients without checking if the session token is valid
+1116	a race condition for removal of the HCI controller
+1117	sql injection
+1118	insufficient input validation on the `priority` field during ticket creation and unsafe rendering of this field in
+1119	path injection in the `common_gui.py` `add_pre_postfix` function
+1120	writing to paths outside of the unarchive temporary directory
+1121	NULL Pointer Dereference
+1122	log injection vulnerability allowing any unauthenticated actor to inject arbitrary messages into the logs
+1123	use-after-free
+1124	an out-of-bounds read via a crafted XCF file
+1125	values taken from the pgk [] parameter in the update request being transmitted to the operating system's package
+1126	improperly validate values for tree length
+1127	no character limit for the reason provided with the request
+1128	Use After Free
+1129	an executable file via lib/FileUtility.php
+1130	the multipart form parser in affected versions is vulnerable to this type of attack by design
+1131	negation overflow and segmentation fault in getlocal and setlocal
+1132	enable_load_extension property can be set for the SQLite integration, enabling an attacker to load (local or
+1133	adding or modifying properties of Object.prototype using a __proto__ payload
+1134	use of hard-coded password
+1135	SQL injection when Parse Server is configured to use the PostgreSQL database
+1136	does not properly maintain a hub-interface data structure
+1137	no limitation of the length of the filename and the costly use of the Unicode normalization with the form N
+1138	mishandles equivalent filenames that exist because of NTFS short names
+1139	the verification of this signature was found to be flawed as it allowed users to specify arbitrary public certificates
+1140	Directory traversal vulnerability allows remote attackers to delete arbitrary files via a .. (dot dot) in the file
+1141	tokens in query strings and does not arrange for them to be stripped before external navigation
+1142	the `verifyWithMessage` method of `tEnvoyNaClSigningKey` always returns `
+1143	translations are often included in privileged contexts without any escaping which allows remote code execution for any user who has
+1144	redirects a logged-in user to a third-party site via the return_to_url parameter
+1145	Use After Free
+1146	bypass signature verification via crafted tokens
+1147	Weak Password Requirements
+1148	manipulation of the argument twttr_url_twitter/bws_license_key/bws_license_plugin
+1149	hijack the authentication of users
+1150	arbitrary files overwriting if the attacker can make the victim run the language server within a specific crafted
+1151	the only verification check is that the file is an image by extracting the dimensions from the file; the
+1152	heap-based buffer overflow
+1153	the key is revealed by this endpoint along with any other flags provided to the SpiceDB binary
+1154	does not properly initialize the HMAC key
+1155	an out-of-bounds read
+1156	SQL injection vulnerability in popupnewsitem/ allows remote attackers to execute arbitrary SQL commands via the itemid
+1157	an authenticated user can exploit a SQL injection vulnerability from map search
+1158	XSS via the event-graph relationship tooltip
+1159	does not filter input and encode output in Quick Post validation error message
+1160	Session fixation vulnerability in pcsd in pcs.
+1161	an unsanitized "file" variable coming from the URL, which takes any pathname (base64
+1162	arbitrarily executed javascript code
+1163	use after free vulnerability
+1164	authorization bypass due to the implementation of the `get_client_addr` function
+1165	an Open redirect vulnerability
+1166	allow someone to bypass the WAF when a malicious `X-Forwarded-For` IP matches
+1167	does not properly initialize certain structures
+1168	absolute path traversal because the Flask send_file function is used unsafely
+1169	a denial of service vulnerability when it parses an XML that has many `<`s in an attribute value
+1170	Unchecked NULL pointer usage
+1171	Improper Input Validation
+1172	a layout block was able to bypass the block blacklist to execute remote code
+1173	mishandles a NULL pathname during an update of a ZIP archive
+1174	does not ensure that a certain name field ends with a '\0' character
+1175	XSS via window.location.href
+1176	an attacker can display a link to a third party website on a login screen by convincing a legitimate content
+1177	writing to arbitrary physical memory locations and possibly execute arbitrary code via vectors involving snap handling
+1178	manipulation of the argument ch leads to format string
+1179	a regular expression involved in parsing which can be exploited to cause a denial of service
+1180	a stack-based buffer overflow because did_set_langmap in map.c calls sprintf to write to the error
+1181	an out-of-bounds read vulnerability in zinflate.cpp in the Inflator filter.
+1182	an out-of-bounds read in the BGP daemon
+1183	improperly quote newlines for email headers when serializing an email message allowing for header injection
+1184	XSS via button and form in the note body
+1185	omits certain reinitialization, leading to a use-after-free
+1186	excessive privileges

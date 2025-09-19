@@ -1,0 +1,975 @@
+0	a denial of servicea denial of service attackan infinite loopa Denial of Service
+1	obtain sensitive informationsensitive informationexfiltrate sensitive informationobtain sensitive data
+2	a denial of servicea denial of service (out-of-bounds read)remote code executionout-of-bounds read
+3	access sensitive informationthe contents of arbitrary filesthe contents of arbitrary files on the systemthe contents of arbitrary files on the server
+4	sensitive informationunauthorized access to sensitive dataunauthorized access to sensitive data or data leakageunauthorized access to sensitive data, data leakage of sensitive information
+5	an out-of-bounds reada denial of service (out-of-bounds read and application crash)out-of-bounds read accessa denial of service (out-of-bounds read
+6	inject arbitrary web script or HTMLXSSan XSS vulnerabilityinject arbitrary web scripts or HTML
+7	unspecified impactsensitive informationmemory corruptiona denial of service
+8	bypass intended access restrictionsgain privilegesbypass intended restrictionsbypass intended permissions
+9	bypass intended access restrictionsbypass the CSRF protection mechanisma denial of service (DoS)bypass the CSRF protection mechanisms
+10	execute arbitrary SQL commandsRemote Code Execution (RCE)remote code executionexecute arbitrary code
+11	gain privilegessensitive informationbypass intended access restrictionsbypass intended restrictions
+12	a denial of serviceunspecified impactexecute arbitrary coderead sensitive information
+13	execute arbitrary SQL commandsexecute arbitrary commandsexecute arbitrary codeexecute arbitrary commands on the server
+14	arbitrary code executionarbitrary codearbitrary Code Executionarbitrary code execution, code execution
+15	Arbitrary File Readunauthorized access to sensitive filesunauthorized access to sensitive informationunauthorized access to sensitive files on the server
+16	an authenticated attacker could inject arbitrary JavaScriptan authenticated attacker could inject malicious scriptsan authenticated attacker could inject arbitrary web script or HTMLan authenticated attacker could inject arbitrary web scripts
+17	disable subscriptions and reviews of another customerdigital downloads sold without valid paymentdigital downloads can be downloaded without valid paymentdisable subscriptions and reviews of another customer account
+18	execute arbitrary SQL commandsexecute arbitrary coderemote code executionexecute arbitrary PHP code
+19	a denial of servicedenial of servicememory corruptionmemory exhaustion
+20	Remote Code Execution (RCE)remote code executionexecute arbitrary codeRemote Code Execution (RCE) on the victim
+21	a denial of serviceremote code executionRequest timed out.execute arbitrary code
+22	XSSexecute arbitrary codeexecute arbitrary SQL commandsinject arbitrary web scripts
+23	a denial of servicea denial-of-service attacka denial of service (NULL pointer dereference)a denial of service (memory corruption
+24	a denial of servicedenial of servicememory exhaustiona denial-of-service
+25	a denial of service or possibly have unspecified other impacta denial of serviceunspecified impacta denial of service or execute arbitrary code
+26	remote code executionremote code execution and execute arbitrary codeimproperly controlled modification of object prototype attributes ('prototype pollution')remote code execution and execute arbitrary code on the host system
+27	gain privilegesbypass intended access restrictionsbypass intended restrictionsgain privileges or cause a denial of service
+28	access to private informationaccess to sensitive informationedit arbitrary files on the serverdelete arbitrary files on the server
+29	sql injectionexecute arbitrary SQL commandsSQL injectioninformation disclosure
+30	authentication bypassbypass intended access restrictionsbypass the CSRF protection mechanismbypass the CSRF protection
+31	arbitrary command executionarbitrary code executiona regular Expression Denial of Servicearbitrary command injection
+32	sensitive informationinformation disclosureexecute arbitrary codeaccess to the database
+33	XSSexecute arbitrary coderemote code executionRemote Code Execution
+34	remote code executionexecute arbitrary codea denial of serviceundefined behavior
+35	XSSexecute arbitrary web scriptsexecute arbitrary web scripts or HTMLexecute arbitrary JavaScript code
+36	execute arbitrary codeexecute arbitrary JavaScript codeexecute arbitrary web scripts or HTMLexecute arbitrary web scripts
+37	Request timed out.execute arbitrary codeexecute arbitrary code on the serverexecute arbitrary code and obtain sensitive information
+38	read arbitrary filesaccess to sensitive filesaccess any file on the serverread arbitrary files on the server
+39	unauthorized accessunauthorized access to the serverunauthorized access to the systemunauthorized access to sensitive data
+40	remote code executionpath traversalremote code execution on the serverremote code execution on the system
+41	remote code executionremote code execution (RCE)arbitrary code executionarbitrary code execution on the system
+42	a denial of service attacka denial of servicea crashundefined behavior
+43	execute arbitrary coderemote code executioninformation disclosurearbitrary code execution
+44	unauthorized accessunauthorized access to sensitive informationunauthorized access to the user's sessionunauthorized access to the user's account
+45	remote code executionRemote Code Execution (RCE)arbitrary code executionarbitrary file read
+46	a denial of service or possibly have unspecified other impacta denial of service (use-after-free and system crash) or possibly have unspecified other impacta denial of servicea denial of service (use-after-free) or possibly have unspecified other impact
+47	cross site scriptingXSSexecute arbitrary JavaScript codeexecute arbitrary JavaScript
+48	remote code executionArbitrary Code ExecutionRemote Code ExecutionArbitrary Code
+49	XSScross site scriptingexecute arbitrary web scriptsinject arbitrary web scripts
+50	remote code executionarbitrary code executionthe execution of arbitrary code on the host machinethe execution of arbitrary code on the server
+51	a denial of servicea denial of service (crash)a denial of service (memory consumption)denial of service
+52	a denial of service (system crash) or possibly have unspecified other impacta denial of service (NULL pointer dereference) or possibly have unspecified other impacta denial of service (out-of-bounds read)a denial of service (out-of-bounds read) or possibly gain privileges
+53	remote code executionan unspecified impactwrite to arbitrary filesremote code execution (R
+54	memory exhaustiona denial of service (memory consumption)memory corruptiona denial of service
+55	a denial of service (out-of-bounds read)a denial of servicea denial of service (crash)a denial of service (out-of-bounds access
+56	inject arbitrary web script or HTMLallows remote attackers to inject arbitrary web script or HTMLallows remote attackers to inject malicious JavaScriptallows remote attackers to inject arbitrary web script or HTML or HTML
+57	a denial of servicea denial of service attacka denial of service (DoS)denial of service
+58	a denial of servicea denial of service (system crash)bypass intended access restrictionsan out-of-bounds read
+59	a denial of servicea denial of service (DoS)a denial of service (memory consumption)a denial of service (invalid memory
+60	execute arbitrary SQL commandsSQL injectionSQL Injectionimproper access
+61	unauthorized access to sensitive informationunauthorized access to sensitive information, read sensitive informationunauthorized access to sensitive information, read sensitive information, denial of serviceunauthorized access to sensitive information, read sensitive information, denial of service (DoS
+62	gain privilegessensitive informationsensitive information from kernel memorygain privileges or cause a denial of service
+63	a denial of servicea denial of service (crash)a denial of service (out-of-bounds read)a denial of service (application crash
+64	command injectionprivilege escalationunauthorized access to sensitive information, security riskunauthorized access to sensitive information, remote code execution
+65	cross site scriptingXSSexecute arbitrary codeinject arbitrary web scripts
+66	the ability to inject arbitrary web script or HTMLunauthorized access to sensitive informationthe ability to inject arbitrary web scriptsthe ability to inject arbitrary web scripts or HTML
+67	inject arbitrary web script or HTMLexecute arbitrary JavaScript codeexecute arbitrary web scripts or HTMLinject arbitrary web script and HTML
+68	sql injectionSQL injectionexecute arbitrary SQL commandsexecute arbitrary SQL queries
+69	arbitrary code executionarbitrary JavaScript executionarbitrary file read and write accessarbitrary file read and write access to the application
+70	sensitive information from kernel memorya denial of service (use-after-free) or possibly have unspecified other impactunspecified impacta denial of service (memory corruption) or possibly have unspecified other impact
+71	remote code executionsensitive informationexecute arbitrary codeunauthorized access
+72	execute arbitrary codeexecute arbitrary commandsexecute arbitrary SQL commandsremote code execution
+73	cross site scriptingXSSexecution of arbitrary JavaScript codeinject arbitrary web scripts
+74	execute arbitrary JavaScript codeexecute arbitrary PHP codeexecute arbitrary web scriptsexecute arbitrary code
+75	phishing attacksbypass the CSRF protection mechanismunauthorized access to sensitive informationunauthorized access to the user's browser
+76	sensitive informationinformation disclosuretake over any accounttake over any account without any account
+77	remote code executionexecute arbitrary commandsexecute arbitrary web scriptsexecute any commands on the server
+78	remote code executioncommand injectionauthentication bypasscommand execution
+79	denial of servicedenial of service, bypassdenial of service, potentially sensitive informationdenial of service, potentially sensitive information, bypass
+80	execute arbitrary codean out-of-bounds writea denial of servicesensitive information from process memory
+81	execute arbitrary codeexecute arbitrary code on the serverbypass intended access restrictionsexecute arbitrary code on the host system
+82	cross site scriptingXSScross-site scriptinginject arbitrary web script
+83	authentication bypassunauthorized accessunauthorized access to sensitive informationunauthorized access to the user's session
+84	execute arbitrary coderemote code executiona denial of servicea denial of service (application crash) or possibly execute arbitrary code
+85	a denial of servicea denial of service attacka Denial of Service attacka denial of service (crash
+86	inject arbitrary web script or HTMLXSSexecute arbitrary SQL commandsinject arbitrary web scripts or HTML
+87	a denial of servicebypass the signature verificationimpersonate any userbypass the signature protection
+88	a denial of service (application crash)a denial of servicea denial of service (crash)a denial of service (DoS
+89	a denial of servicegain privilegesinformation disclosurememory corruption
+90	path traversaldirectory traversalread arbitrary files on the filesystemread arbitrary files on the server
+91	a denial of servicea denial of service (application crash)a denial of service (segmentation fault)a denial of service (NULL pointer dereference
+92	account takeoverbypass intended access restrictionsbypass authenticationbypass intended access control
+93	bypass intended access restrictionsbypass intended restrictionsbypass intended permissions restrictionsmodify permissions of files on the filesystem
+94	a denial of servicecrash the applicationcrash the interpreter processa denial of service (NULL pointer dereference and application crash
+95	execute arbitrary coderemote code executionexecute arbitrary Python codearbitrary code
+96	a denial of servicearbitrary code executiona remote code executionexecute arbitrary code
+97	full control of the user's contentprivilege escalation to an arbitrary user to read and write access to all resourcesprivilege escalation to an arbitrary user to read and write access to all data from the serverprivilege escalation to an arbitrary user to read and write access to any file from the server
+98	a denial of serviceremote code executiona denial of service (crash)a remote code execution
+99	bypass intended access restrictionsbypass the CSRF protection mechanismhijack the authentication of arbitrary usershijack the authentication of users
+100	bypass the signature verificationbypass authenticationbypass SAML authenticationbypass the signature check
+101	remote code executionbypass intended access restrictionsbypass the security mechanismbypass the security
+102	XSScross site scriptingXSS attacksinject arbitrary JavaScript
+103	bypass intended access restrictionsbypass intended restrictionsbypass intended access restrictions and read arbitrary actionsbypass intended access restrictions and take over the administrator
+104	remote code executionsensitive informationexecute arbitrary coderemote command execution
+105	Request timed out.Remote Code Execution (RCE)Denial of ServiceDenial of Service (DoS
+106	a denial of service (system crash) or possibly execute arbitrary codeout-of-bounds reada denial of service (out-of-bounds read and system crash)a denial of service (system crash
+107	a denial of service (memory consumption)a denial of service (system crash)a denial of service (NULL pointer dereference)a denial of service
+108	path traversalremote code executionread arbitrary filesread arbitrary files on the server
+109	a denial of servicea denial of service (application crash)a denial of service (application crash) or possibly execute arbitrary codea denial of service (out-of-bounds read
+110	inject arbitrary web script or HTMLremote code executionexecute arbitrary JavaScript codeexecute arbitrary JavaScript in the context of another user
+111	sensitive informationsensitive information from kernel memoryobtain sensitive informationsensitive information from kernel stack memory
+112	exposure of sensitive informationthe exposure of sensitive informationexposure of private keyexposure of sensitive information from the server
+113	execute arbitrary coderemote code executionRemote Code Executionexecute arbitrary PHP code
+114	remote code executionexecute arbitrary codea remote code executionexecute arbitrary code on the host system
+115	gain privilegesescalate privilegesrun arbitrary commandsexecute arbitrary commands
+116	XSScross site scriptingexecute arbitrary JavaScript codeexecute arbitrary JavaScript in the browser
+117	cross-site request forgerycross site scriptingremote code executioncross-site scripting
+118	sensitive informationbypass intended access restrictionsexfiltrate dataexfiltrate sensitive information
+119	inject arbitrary web script or HTMLXSSinject arbitrary web scripts or HTMLexecution of arbitrary JavaScript code in the browser
+120	execute arbitrary codea denial of servicea denial of service (application crash)remote code execution
+121	execute arbitrary commandssensitive informationremote code executionexecute arbitrary code
+122	a denial of servicea denial of service (DoS)a DoS vulnerabilityHTTP request smuggling
+123	remote code executionremote code execution (RCE)Remote Code Execution (RCE)remote code execution (RCE) on the server
+124	remote code executioninformation disclosureexecute arbitrary codeexecute arbitrary code on the server
+125	a denial of serviceremote code executiona denial of service (DoS)a denial of service (crash
+126	inject arbitrary web script or HTMLXSScross site scriptingexecute arbitrary code
+127	inject arbitrary web script or HTMLexecute arbitrary codeexecute arbitrary JavaScript codeexecute arbitrary PHP code
+128	XSSbypass intended access restrictionsbypass the CSRF protectionbypass the SSRF protection
+129	path traversalremote code executionread arbitrary filesread arbitrary files on the system
+130	a denial of servicea denial of service (DoS)a crasha DoS
+131	inject arbitrary web script or HTMLcross site scriptingXSSexecute arbitrary JavaScript code
+132	unspecified impacta denial of servicememory corruptionuse after free
+133	execute arbitrary SQL commandsXSSexecute arbitrary codeexecute arbitrary web scripts
+134	execute arbitrary commandsremote code executionrun arbitrary commandsarbitrary command execution
+135	path traversalexecute arbitrary codewrite to arbitrary filesarbitrary file write
+136	a denial of servicea denial of service (out-of-bounds read and application crash)a denial of service (crash)a denial of service (out-of-bounds read
+137	remote code executioncommand injectionRemote Code Execution (RCE)remote code execution (RCE
+138	remote code executionRemote Code Execution (RCE)remote code execution (RCE)Remote Code Execution (RCE) attack
+139	a denial of servicea denial of service (infinite loop)a denial of service (resource consumption)gain privileges
+140	sql injectionSQL injectionexecute arbitrary SQL commandsSQL Injection
+141	execute arbitrary SQL commandsSQL injectionsql injectionSQL Injection
+142	a denial of serviceDenial of Servicea denial of service (crash)a denial of service and application crash
+143	XSSexecute arbitrary SQL commandsexecute arbitrary web scriptsexecute arbitrary JavaScript code
+144	execute arbitrary coderemote code executionexecute arbitrary code on the serverexecute arbitrary code and gain privileges
+145	a denial of servicea denial of service (application crash)a denial of service (crash)a crash
+146	a denial of servicea denial of service (out-of-bounds read)a denial of service (crash)unspecified impact
+147	remote code executionexecute arbitrary codeRemote Code ExecutionRemote Code Execution (RCE
+148	a denial of service (out-of-bounds read)a denial of servicea denial of service (crash)a denial of service (segmentation fault
+149	privilegesbypass intended access restrictionsgain privilegesprivilege escalation
+150	bypass intended access restrictionsunauthorized accessbypass authenticationbypass intended permissions
+151	sensitive informationlocal privilege escalationsensitive information from process memorysensitive information from kernel memory
+152	unspecified impacta Denial of Service attacka Denial of Servicea Denial-of-Service
+153	remote code executioncommand injectionexecute arbitrary codeexecute arbitrary commands on the system
+154	bypass intended access restrictionstake over any accountbypass intended access restrictions and execute arbitrary commandsbypass intended access restrictions and execute arbitrary code
+155	inject arbitrary web script or HTMLopen redirecthijack the authentication of usersaccess to sensitive information
+156	a denial of servicea denial of service (application crash) or possibly have unspecified other impacta denial of service (application crash)a denial of service (application crash) or possibly execute arbitrary code
+157	sensitive informationunauthorized access to sensitive informationunauthorized access to sensitive information, manipulation of the server process, potentially compromising services, including privilege escalationunauthorized access to sensitive information, manipulation of the server process, potentially compromising services, including services
+158	sensitive informationstored XSSan XSSan XSS attack
+159	unspecified impacta denial of serviceunexpected behaviora denial of service (DoS
+160	authentication bypassunauthorized accessunauthorized access to sensitive informationunauthorized access to sensitive data
+161	a denial of service (system crash)a denial of service (OOPS)a denial of service (memory corruption)a denial of service
+162	a denial of servicea denial of service (DoS)a regular Expression Denial of Service (DoS)a regular Expression Denial of Service attack
+163	an infinite loopa denial of servicean out-of-bounds readan out-of-bounds write
+164	bypass intended access restrictionsobtain sensitive informationan account takeoverbypass intended restrictions
+165	XSScross site scriptingexecute arbitrary web scripts or HTMLexecute arbitrary web script or HTML
+166	execute arbitrary commandsexecute arbitrary shell commandscommand injectionexecute arbitrary code
+167	remote code executionexecute arbitrary SQL commandsSQL injectionRemote Code Execution (RCE
+168	a denial of servicean infinite loopa denial of service (NULL pointer dereference)a denial of service (DoS
+169	remote code executionexecute arbitrary SQL commandsexecute arbitrary codeRemote Code Execution (R
+170	upload and execute arbitrary codeupload a malicious file on the serverupload and execute arbitrary code on the serverallows remote authenticated users to inject arbitrary files
+171	sql injectionSQL injectionexecute arbitrary SQL commandsexecute arbitrary SQL queries
+172	sandbox escapea denial of serviceexecute arbitrary codeexecute arbitrary Python code
+173	a denial of service (system crash)a denial of service (system hang)a denial of servicegain privileges
+174	remote code executionexecute arbitrary codeRemote Code Execution (RCE)execute arbitrary JavaScript code
+175	remote code executionRemote Code Execution (RCE)remote code execution (RCE)arbitrary code execution
+176	bypass intended access restrictionsbypass authenticationbypass intended access controleasier for remote attackers to guess passwords
+177	a denial of service (application crash)a denial of servicea denial of service (crash)a denial of service (DoS
+178	denial of servicea denial of serviceDenial of Servicea Denial of Service
+179	Request timed out.remote code executionremote code execution on the serverRequest timed out..
+180	a denial of servicea denial of service (NULL pointer dereference)a denial of service (DoS)a Denial of Service (DoS
+181	a denial of servicea NULL pointer dereferencea crasha Denial of Service
+182	execute arbitrary coderemote code executionexecute arbitrary web scripts or HTMLexecute arbitrary web scripts
+183	remote code executiondelete arbitrary fileswrite to arbitrary filesdelete arbitrary files on the server
+184	authentication bypasssensitive informationimpersonate any accountimpersonate any user's account
+185	inject arbitrary web script or HTMLXSSexecute arbitrary web scripts or HTMLexecute arbitrary JavaScript code
+186	a denial of service (memory consumption)a denial of service (memory corruption) or possibly have unspecified other impacta denial of service (system crash) or possibly have unspecified other impacta denial of service
+187	a denial of servicea crasha denial of service (NULL pointer dereference)a denial of service (crash
+188	sensitive informationadmin privilegesprivilege escalationprivilege escalation, access to the user's account
+189	a denial of service (system crash)a denial of service (memory corruption) or possibly have unspecified other impacta denial of service (system crash) or possibly have unspecified other impacta denial of service (out-of-bounds array access
+190	XSSexecute arbitrary codeexecute arbitrary SQL commandsexecute arbitrary code on the server
+191	authentication bypassauthentication bypassingauthentication bypassing attacksauthentication bypassing (DoS
+192	remote code executionsensitive informationexecute arbitrary codeexecute arbitrary commands
+193	access to the private informationaccess to the private information about a useran authenticated user can be accessed by a user can be accessed to a specific useran authenticated user can be accessed by a user can be accessed to see a user
+194	Request timed out.execute code on the serverunintended SQL commandsexecute code on the user's machine
+195	remote code executionexecute arbitrary codeRemote Code ExecutionRemote Code Execution (R
+196	denial of servicea denial of servicea denial of service (DoS)memory exhaustion
+197	cross site scriptingcross-site scriptingXSSCross-site Scripting
+198	a denial of servicedenial of servicea denial of service (DoS)Denial of Service (DoS
+199	a denial of service attacka denial of servicecode executiona segfault
+200	stored XSScross site scriptingXSSstored XSS or HTML
+201	a denial of service (application crash)heap-based buffer overflowa denial of service (crash)a denial of service
+202	execute arbitrary codeexecute arbitrary web scriptstake over the accountexecute arbitrary web scripts or HTML
+203	execute arbitrary SQL commandsexecute arbitrary codeexecute arbitrary commandsexecute arbitrary SQL commands on the user
+204	a denial of servicea denial of service (memory consumption)a denial of service (application crash)a Denial of Service (DoS
+205	XSSexecute arbitrary JavaScript codeexecute arbitrary web scripts or HTMLexecuted in the browser
+206	take over any accountdelete arbitrary non-protected imagesdelete arbitrary files on the serverread arbitrary files on the server
+207	a denial of service (memory corruption) or possibly have unspecified other impacta denial of service (system crash) or possibly have unspecified other impacta denial of service (system crash) or possibly execute arbitrary codea denial of service (out-of-bounds read) or possibly execute arbitrary code
+208	remote code executionauthentication bypassthe possibility of arbitrary filesauthenticated remote attackers to inject arbitrary files
+209	sensitive informationexecute arbitrary codebypass intended access restrictionsbypass intended authorization restrictions
+210	redirect users to arbitrary web sitesredirect to arbitrary web sitesredirect users to arbitrary web script or HTMLredirect users to arbitrary web script or other sensitive information
+211	full access to the serverfull access to the applicationfull access to the hostfull access to the server, including sensitive information
+212	a connection race from a malicious local peera connection race from the malicious local peera connection race from malicious local peera connection race from a malicious connection
+213	a denial of service (out-of-bounds read)a denial of servicea denial of service (application crash)unspecified impact
+214	Remote Code Execution (RCE)command injectionarbitrary code executionexecute arbitrary code
+215	open redirectcross site scriptingcross-site scriptinginject arbitrary web scripts
+216	execute arbitrary coderemote code executionRemote Code Execution (RCE)Remote Code Execution (RCE) with malicious actions
+217	XSSan XSScross-site scriptinginject arbitrary web scripts
+218	a denial of servicea denial of service (crash)unspecified impacta denial of service (crash) or possibly execute arbitrary code
+219	execute arbitrary commandsexecute arbitrary codeexecute arbitrary commands on the serverexecute arbitrary commands on the host
+220	sensitive informationunauthorized accesssensitive dataunauthorized access to sensitive information
+221	remote code executionread arbitrary filesexecute arbitrary coderead arbitrary files on the server
+222	inject arbitrary web script or HTMLan account takeoverinject arbitrary web scriptsinject arbitrary web scripts or HTML
+223	execute arbitrary SQL commandsexecute arbitrary SQL queriessql injectionSQL injection
+224	inject arbitrary web script or HTMLXSSexecute arbitrary web scripts or HTMLexecute arbitrary JavaScript code
+225	improper authorizationa denial of servicea denial of service (DoS)a denial of service (NULL pointer dereference
+226	account takeoverunauthorized accessimproper access controlimproper access
+227	remote code executioninformation disclosureexecute arbitrary coderemote code execution and execute arbitrary code
+228	hijack the authentication of arbitrary usersarbitrary JavaScript executionunauthorized access to sensitive informationhijack the authentication of arbitrary web users
+229	a denial of servicea denial of service (DoS)Request timed out.a denial of service (crash
+230	sensitive informationbypass intended access restrictionsbypass intended access restrictions on the usersbypass intended access restrictions and delete all users
+231	cross site scriptingXSScross-site scriptingcross-site request forgery
+232	inject arbitrary web script or HTMLXSSexecute arbitrary JavaScript codeexecution of arbitrary JavaScript code
+233	a denial of servicea crasha denial of service attacka Denial of Service
+234	a denial of service (NULL pointer dereference and system crash)a denial of service (NULL pointer dereference and OOPS)a denial of service (system crash)a denial of service (system crash) or possibly execute arbitrary code
+235	XSScross site scriptingexecute arbitrary codeexecute arbitrary JavaScript code
+236	sensitive informationinformation disclosureexecute arbitrary commandsexecute arbitrary code
+237	XSSRemote Code Execution (RCE)Remote Code Executionexecute arbitrary JavaScript code
+238	bypass authenticationbypass the CSRF protection mechanismaccess to the serverbypass the CSRF protection
+239	a denial of service (out-of-bounds read)a denial of servicea denial of service (application crash)an out-of-bounds read
+240	sensitive informationexecute arbitrary SQL commandsexecute arbitrary commandsexecute arbitrary PHP commands
+241	unauthorized access to sensitive informationunauthorized access to sensitive information about the context of the applicationunauthorized access to sensitive information, data loss of all dataunauthorized access to sensitive information about the context of the context of
+242	execute arbitrary codeunauthorized accessexecute arbitrary SQL commandsExposure of Sensitive Information
+243	authentication bypassfull access to the XSSbypass authentication and execute arbitrary codefull access to the user
+244	gain privilegessensitive informationgain privileges or cause a denial of service (panic)a denial of service (system crash
+245	improper access controltake over the accountaccess to the password of a useraccess to the password of the user
+246	session hijackingunauthorized accessunauthorized access to sensitive informationunauthorized access to sensitive data
+247	execute arbitrary codeexecute arbitrary code and gain privilegesexecute arbitrary code on the host systemexecute arbitrary code and cause a denial of service
+248	bypass intended access restrictionsaccess to the serverbypass intended access restrictions and cause a denial of servicebypass intended access restrictions and read access restrictions
+249	escalate their privilegesarbitrary code executionarbitrary file readescalate their privileges to the system
+250	arbitrary code executiona denial of servicea denial of service (application crash)crash the system
+251	a denial of service (NULL pointer dereference and system crash) or possibly have unspecified other impacta denial of service (NULL pointer dereference and system crash)a denial of service (system crash) or possibly have unspecified other impacta denial of service (NULL pointer dereference and application crash) or possibly have unspecified other impact
+252	sql injectionSQL injectionexecute arbitrary SQL commandsexecute arbitrary SQL queries
+253	path traversalwrite to arbitrary filesarbitrary file writearbitrary files on the system
+254	information disclosureimpersonationimpersonation of informationallows attackers to spoofing the password of other users
+255	remote code executionread arbitrary filesread arbitrary files on the serverwrite to arbitrary files
+256	a denial of servicea denial of service (memory consumption)a denial of service (memory exhaustion)a denial of service attack
+257	a denial of servicea denial of service (memory consumption)a denial of service or possibly have unspecified other impacta denial of service (use-after free
+258	a denial of servicea Denial of Servicea Denial-of-Service attacka Denial of Service (DoS
+259	denial of servicea denial of servicea denial of service (DoS)a denial of service (application crash
+260	a denial of service attacka denial of servicea denial-of-service attacka denial of service (DoS
+261	a denial of servicea crasha denial of service (application crash)a denial of service (out-of-bounds read
+262	exposes its address as click-and-collect addressexposes its address as click-collect addressexposes its address as click-and-and-collect addressexposes its address as click-and-collect address as address
+263	a denial of servicearbitrary code executiona denial of service or possibly execute arbitrary codea denial of service (system crash) or possibly execute arbitrary code
+264	a heap-based buffer over-reada denial of service (memory consumption)a denial of servicea denial of service (application crash
+265	XSSexecute arbitrary codeinject arbitrary web script or HTMLexecute arbitrary JavaScript code
+266	XSScross site scriptingexecute arbitrary JavaScript codeinject arbitrary JavaScript
+267	XSSexecute arbitrary SQL commandsstored XSSinject arbitrary web script
+268	execute arbitrary SQL commandsexecute arbitrary codeSQL injectionexecute arbitrary SQL queries
+269	execute arbitrary codeexecute arbitrary commandsexecute arbitrary code on the serverexecute arbitrary code on the host system
+270	sensitive information from kernel memorysensitive informationsensitive information from kernel stack memorysensitive information from kernel heap memory
+271	a denial of servicea denial of service (application crash)a denial of service (crash)a denial of service (application crash) or possibly execute arbitrary code
+272	a denial of servicea denial of service (application crash)a denial of service (crash)an out-of-bounds write
+273	sensitive informationexecute arbitrary SQL commandsadmin privilegessensitive data
+274	escalate privilegesfull access to the XSSfull access to the systemfull access to the application
+275	cross site scriptingexecute arbitrary codeXSSexecute arbitrary JavaScript
+276	sensitive information from kernel memorya denial of service (memory corruption) or possibly have unspecified other impacta denial of service (out-of-bounds read)a denial of service (out-of-bounds read) or possibly have unspecified other impact
+277	sensitive informationmemory leaka denial of servicea denial of service (memory consumption
+278	unauthorized accessunauthorized access to sensitive informationunauthorized access to sensitive system commandsunauthorized access to sensitive system commands, access to sensitive information
+279	authentication bypassunauthorized accesshijack the authenticationhijack the authentication of a user
+280	a denial of servicememory exhaustiona denial of service (NULL pointer dereference)memory corruption
+281	a denial of service (memory consumption)a denial of servicea denial-of-service (memory consumption)a denial of service (memory consumption) condition
+282	execute arbitrary coderemote code executionread arbitrary filesread arbitrary files on the system
+283	inject arbitrary web script or HTMLcross site scriptingXSSinject arbitrary HTML
+284	a denial of servicea denial of service (application crash)a denial of service (application crash) or possibly execute arbitrary codeexecute arbitrary code
+285	unspecified impactan infinite loopa denial of serviceunexpected behavior
+286	bypass authenticationobtain sensitive informationobtain informationbypass authentication and execute code
+287	bypass intended access restrictionsbypass the signature verificationleakage of other usersleakage of other users' messages
+288	sensitive information from kernel memorysensitive informationsensitive information from kernel heap memorysensitive information from uninitialized memory
+289	remote code executionan out-of-bounds readout-of-bounds readan out-of-bounds write
+290	a denial of servicea denial of service (crash)Denial of Service (DoS)Denial of Service (crash
+291	XSSinject arbitrary web script or HTMLexecute arbitrary JavaScript codeinject arbitrary web scripts
+292	an attacker could inject arbitrary web scriptsenumerate the user's sessionan attacker could inject arbitrary web scriptan attacker could inject arbitrary web script or HTML
+293	information disclosureunauthorized access to sensitive informationaccess to sensitive informationunauthorized access to sensitive data
+294	read arbitrary filespath traversalread arbitrary files on the systemread arbitrary files on the server
+295	impersonate any accountaccess to the serverimpersonate any user's accountimpersonate the user's account
+296	sensitive informationinformation disclosurestored XSSinject arbitrary web script
+297	an attacker could inject malicious scriptsunintended access to sensitive informationunintended access to the context of sensitive informationunintended access to the context of the victim
+298	XSScross site scriptingexecute arbitrary codeexecute arbitrary JavaScript code
+299	inject arbitrary web script or HTMLXSSexecute arbitrary web script or HTMLexecute arbitrary JavaScript code
+300	a denial of service (NULL pointer dereference and system crash) or possibly have unspecified other impacta denial of service or possibly have unspecified other impacta denial of service (NULL pointer dereference and system crash)a denial of service
+301	information disclosurea denial of serviceexecute arbitrary codeleak information
+302	a denial of servicea denial of service (crash)crash the systemprivileges
+303	Arbitrary Code ExecutionRemote Code Execution (RCE)arbitrary code executionRemote Code Execution (RCE) on the system
+304	a denial of serviceredirect to a malicious websiteredirect to a malicious sitea denial of service (DoS
+305	improper authorizationPrototype Pollutionimproperly controlled modification of object prototype attributes ('prototype pollution')improperly controlled modification of object prototype attributes
+306	a denial of servicedenial of servicea Denial of Servicea denial of service (application crash
+307	remote code executiondelete arbitrary files on the serverexecute arbitrary code on the serverread arbitrary files on the server
+308	XSSexecute arbitrary JavaScript codeexecute arbitrary codeexecute arbitrary JavaScript
+309	execute arbitrary commandsexecute arbitrary SQL commandsexecute arbitrary commands on the serverexecute arbitrary commands on the victim's machine
+310	phishing attacksan authenticated attacker could inject arbitrary web script or HTMLan authenticated user can be executed on the serveran authenticated user can be executed on the victim's browser
+311	XSSexecute arbitrary codeexecute arbitrary web scriptsinject arbitrary web scripts
+312	arbitrary code executionunauthorized access to sensitive informationaccess to sensitive informationunauthorized access to sensitive data
+313	a denial of service (out-of-bounds read)a denial of service (out-of-bounds write)a denial of serviceout-of-bounds read
+314	denial of servicememory exhaustionsensitive informationsensitive information from process memory
+315	Remote Code Execution (RCE)execute arbitrary coderemote code executionarbitrary code execution
+316	a denial of service (memory consumption)a denial of servicea denial-of-service (memory consumption)a memory leak
+317	execute arbitrary SQL commandsexecute arbitrary commandsexecute arbitrary codeexecute arbitrary JavaScript code
+318	bypass intended access restrictionsbypass intended restrictionsbypass intended permissions restrictionsmodify permissions of files on the filesystem
+319	sensitive informationbypass authenticationbypass authorization restrictionsbypass authentication mechanisms
+320	sensitive informationunauthorized accessunauthorized access and obtain sensitive informationunauthorized access to sensitive user data
+321	memory corruptionheap memory corruptionobtain sensitive informationobtain sensitive information from process memory
+322	a denial of servicea Denial of Servicea denial of service (DoS)a Denial-of-Service
+323	inject arbitrary web script or HTMLa cross-site scripting (XSS) vulnerabilitya cross-site scripting vulnerabilitya cross-site scripting (XSS) attacks
+324	sql injectionSQL injectionexecute arbitrary SQL commandssql injections
+325	a denial of serviceunspecified impacta denial of service (DOS)a denial of service (DoS
+326	remote code executionexecute arbitrary commandscommand injectionexecute arbitrary code
+327	remote code executionexecute arbitrary codeexecute arbitrary code on the serverexecution of arbitrary code
+328	a denial of service (NULL pointer dereference and system crash)a denial of service (NULL pointer dereference)gain privilegesa denial of service (NULL pointer dereference and application crash
+329	read arbitrary filesexecute arbitrary coderead sensitive informationread arbitrary files on the server
+330	bypass intended access restrictionsallows attackers to inject arbitrary web script or HTMLallows attackers to inject malicious scriptsallows attackers to inject arbitrary web scripts or HTML
+331	execute arbitrary commandscommand injectionremote command executionexecute arbitrary commands as root
+332	a denial of service (memory consumption)a denial of service (infinite loop)a denial of service (resource consumption)a denial of service
+333	a denial of servicedenial of servicegain privilegesa denial of service (crash
+334	a denial of service (system crash)a denial of service (OOPS)a denial of service (panic)a denial of service
+335	remote code executionremote code execution, confidentiality, integrity and availability of the whole XWiki installationremote code execution, integrity and availability of the whole XWiki installationremote code execution including unrestricted read and write access to the whole XWiki installation
+336	phishing attacksuntrusted codehijack the authentication of usershijack the authentication
+337	stored XSSthe execution of malicious codeunauthorized access to sensitive filesunauthorized access to other users
+338	inject arbitrary web script or HTMLXSScross site scriptinginject arbitrary web scripts or HTML
+339	remote code executionRemote Code Executiona remote code executionRemote Code Execution (R
+340	a denial of service (system crash)a denial of service (infinite loop)a denial of service (system hang)a denial of service
+341	inject arbitrary web script or HTMLXSSexecute arbitrary web scripts or HTMLexecute arbitrary code
+342	remote code executioninformation disclosureremote code execution (RCE)remote code execution on the server
+343	access to the user's accountaccess to the user's account takeoveraccess to the user's password of other usersaccess to the user's password of a user's account
+344	a denial of service (NULL pointer dereference and application crash)a denial of service (NULL pointer dereference and daemon crash)a denial of service (NULL pointer dereference)a denial of service
+345	a denial of servicearbitrary code executionunspecified impacta potential denial of service
+346	a denial of service (memory consumption)a denial of service (memory corruption)denial of servicea denial of service
+347	inject arbitrary web script or HTMLXSScross site scriptinginjection
+348	XSSinject arbitrary web script or HTMLcross-site scriptingexecute arbitrary web scripts
+349	remote code executionarbitrary JavaScript executionthe execution of malicious code on the serverthe execution of malicious code on the host machine
+350	execute arbitrary SQL commandssql injectionexecute arbitrary SQL queriesexecute arbitrary sql commands
+351	gain privilegessensitive informationsensitive information from kernel memoryobtain sensitive information
+352	remote code executionwrite to arbitrary filesdelete arbitrary filesdelete arbitrary files on the server
+353	a heap-based buffer overflowa memory leaka denial of servicea heap-based buffer overflows
+354	a denial of service (system crash)a denial of service (NULL pointer dereference and system crash)a denial of servicea denial of service (system crash) or possibly execute arbitrary code
+355	a denial of servicedenial of servicea Denial of Servicea Denial of Service (DoS
+356	execute arbitrary coderemote code executioninformation disclosureexecute arbitrary code on the server
+357	sensitive informationsensitive information from kernel memorysensitive information from kernel stack memoryobtain sensitive information from kernel memory
+358	execute arbitrary SQL commandstake over the accountexecute arbitrary SQL commands on the serverexecute arbitrary JavaScript in the context of another user
+359	a denial of service (NULL pointer dereference and application crash)a denial of service (NULL pointer dereference)denial of servicea denial of service
+360	a denial of servicebypass the CSRF protection mechanisma denial of service (DoS) attacka denial of service (DoS
+361	execute arbitrary commandsexecute arbitrary coderemote code executionexecute arbitrary commands on the host system
+362	a denial of service (system crash)a denial of service (system crash) or possibly have unspecified other impacta denial of service (system crash) or possibly execute arbitrary codea denial of service (system crash) or possibly gain privileges
+363	remote code executionRemote Code Execution (RCE)Remote Code Executionarbitrary command injection
+364	information disclosureexecute arbitrary SQL commandsprivilege escalationexecute arbitrary SQL commands on the server
+365	sensitive informationsensitive information from kernel stack memorysensitive information from kernel memorysensitive information from kernel heap memory
+366	a denial of service (memory consumption)a denial of service (memory consumption) or possibly have unspecified other impacta denial of service (memory corruption) or possibly have unspecified other impacta denial of service
+367	a denial of servicea denial of service attacka DoSa denial-of-service
+368	information disclosuresensitive informationexecute arbitrary SQL commandsexecute arbitrary code
+369	a denial of service (NULL pointer dereference)a NULL pointer dereferencea crasha denial of service
+370	cross site scriptingcross site scripting attacksXSScross-site scripting
+371	execute arbitrary JavaScript codeXSSexecute arbitrary JavaScript in the context of the victim's browserexecution of malicious JavaScript in the browser
+372	XSSphishing attacksexecute arbitrary codeexecute arbitrary JavaScript code
+373	path traversaldelete files on the systemdelete files on the host systemdelete files on the filesystem
+374	unauthorized accessunauthorized access to sensitive dataunauthorized access to the user's accountunauthorized access to the user's database
+375	a denial of service (application crash)a denial of servicea denial of service (CPU consumption)a denial of service (DoS
+376	escalate privilegeswrite to arbitrary filesprivilege escalationprivilege escalation to root
+377	remote code executioncommand injectionremote code execution on the serverprivileges the command execution
+378	a denial of serviceremote code executiondenial of serviceDenial of Service
+379	a denial of servicedenial of serviceunspecified impactmemory corruption
+380	execute arbitrary coderemote code executioncommand injectionexecute arbitrary commands
+381	sensitive informationprivilegesprivilege escalationprivilege escalation to root
+382	a denial of service (system crash)a denial of service (infinite loop)a denial of servicea denial of service (assertion failure
+383	denial of servicea denial of serviceheap-based buffer overflowa denial of service (memory corruption
+384	sql injectionexecute arbitrary SQL commandsSQL injectionexecute arbitrary SQL queries
+385	inject arbitrary web script or HTMLcross site scriptingXSSexecute arbitrary SQL commands
+386	sensitive informationunauthorized access to sensitive informationunauthorized accessunauthorized access to sensitive data
+387	inject arbitrary web script or HTMLXSScross site scriptingan XSS vulnerability
+388	sensitive informationaccess to sensitive informationaccess to sensitive information from other usersaccess to sensitive information from the database
+389	a denial of service (out-of-bounds array access) or possibly have unspecified other impacta denial of service or possibly have unspecified other impacta denial of service (out-of-array access) or possibly have unspecified other impactunspecified impact
+390	account takeoveran account takeoveran authenticated user account takeoverbypass authentication checks
+391	execute arbitrary coderesource exhaustionaccess to resourcesarbitrary code
+392	stored XSSbypass authentication and execute arbitrary codebypass authenticationbypass authentication and execute code
+393	sensitive informationarbitrary code executiontake over the applicationarbitrary remote code execution
+394	authentication bypasstake over any accounttake over the accountexecute arbitrary web scripts
+395	a denial of serviceunauthorized access to sensitive informationunauthorized access to sensitive dataunauthorized access to the user's data
+396	execute arbitrary OS commandsexecute arbitrary shell commandsexecute arbitrary codeexecute arbitrary shell commands on the server
+397	execute arbitrary coderemote code executionRemote Code ExecutionRemote Code Execution (RCE
+398	remote code executioncommand executionRemote Code Executionremote command execution
+399	a denial of servicea denial of service (DoS)a Denial of Service attacka denial-of-service attack
+400	XSSexecute arbitrary codeexecute arbitrary JavaScript codeinject arbitrary web scripts
+401	memory exhaustiona denial of service (memory consumption)memory corruptiona denial of service
+402	crash the systema denial of service (NULL pointer dereference and system crash)crash the system or potentially escalate their privileges on the systemcrash the system or escalate their privileges on the system
+403	authentication bypasstake over the accountimpersonation of usersimpersonation of users to authenticated users
+404	account takeoverauthentication bypassbypass authenticationbypass authentication checks
+405	path traversalaccess to files on the serveraccess to files on the host systemallowing attackers to write to arbitrary files
+406	a denial of servicea denial of service (system crash)a denial of service (OOPS)a denial of service (double free
+407	sql injectionSQL injectionsql injection attacksexecute arbitrary SQL commands
+408	a denial of service (use-after-free) or possibly have unspecified other impacta denial of service (memory consumption)a denial of service (NULL pointer dereference and system crash)a denial of service (memory corruption) or possibly have unspecified other impact
+409	open redirectphishing attacksredirect users to arbitrary web sitesredirect to arbitrary web sites
+410	a denial of serviceexecute arbitrary codea denial of service (application crash)an out-of-bounds read
+411	a denial of service (application crash)a denial of servicememory corruptionobtain sensitive information from process memory
+412	a denial of serviceexecute arbitrary codea denial of service (application crash)an out-of-bounds read
+413	XSScross site scriptingan XSSinject arbitrary JavaScript
+414	execute arbitrary codeRemote Code Execution (RCE)remote code executionexecute arbitrary code on the server
+415	sensitive informationwrite to arbitrary fileswrite to arbitrary files on the systemwrite to arbitrary files on the server
+416	XSSsensitive informationimproper authorizationimproperly controlled actions
+417	a denial of servicean out-of-bounds writea denial of service (application crash)a denial of service (application crash) or possibly execute arbitrary code
+418	a denial of servicea denial of service (NULL pointer dereference)denial of servicea denial of service (application crash
+419	a denial of service (memory consumption)a denial-of-service (memory consumption)a denial of servicea memory leak
+420	privilegesauthentication bypassesprivilege escalation, account takeoverprivilege escalation to account takeover
+421	a denial of servicedenial of servicea denial of service (DoS)a Denial of Service attack
+422	inject arbitrary web script or HTMLXSSan XSS vulnerabilityan XSS attack
+423	inject arbitrary web script or HTMLXSSinject arbitrary web scriptsa stored cross site scripting
+424	account takeoverunauthorized accessunauthorized access to sensitive informationbypass the password
+425	admin privilegesauthentication bypassunauthorized accessunauthorized access to the user account
+426	remote code executionexecute arbitrary codeRemote Code Executionexecute arbitrary code and escalate privileges
+427	a loss of confidentialitya denial of servicea denial of service (NULL pointer dereference)a denial of service (NULL pointer dereference and crash
+428	XSSXSS attacksinject arbitrary web scriptsinject arbitrary JavaScript
+429	command injectionremote code executionArbitrary Code Executionarbitrary code execution
+430	execute arbitrary JavaScript codeexecute arbitrary SQL commandsXSSexecution of arbitrary JavaScript code
+431	a denial of service (NULL pointer dereference and system crash)a denial of service (system crash)a denial of service (NULL pointer dereference and OOPS)a denial of service (NULL pointer dereference
+432	XSScross site scriptingexecute arbitrary codeRemote Code Execution
+433	arbitrary code executionunauthorized access to sensitive informationunauthorized access to sensitive filesunauthorized access to the application of sensitive information
+434	a denial of service (NULL pointer dereference)a denial of service (NULL pointer dereference and system crash)a denial of service (system crash)a denial of service (panic
+435	XSSexecute arbitrary JavaScript codecross site scriptingexecute arbitrary code
+436	a connection race from a malicious local peera connection race from the malicious local peera connection race from the local peera connection race from a malicious connection
+437	remote code executionexecute arbitrary coderemote code execution, integrity and availability of the whole XWiki installationremote code execution and confidentiality
+438	arbitrary code executiona denial of service (application crash)a heap-based buffer over-reada heap-based buffer overflow
+439	information disclosuresensitive informationobtain sensitive informationaccess to sensitive information
+440	open redirectinject arbitrary web script or HTMLphishing attacksredirect users to arbitrary web sites
+441	execute arbitrary codeexecute arbitrary JavaScript codeinject arbitrary web script or HTMLinject arbitrary web scripts
+442	denial of serviceunspecified impacta denial of servicean out-of-bounds write
+443	escalate their privilegesunauthorized accessunauthorized access to the systemunauthorized access to other users
+444	information leakageremote code executioninformation disclosureremote code execution on the server
+445	inject arbitrary web script or HTMLXSSstored XSSallows remote attackers to inject malicious JavaScript
+446	execute arbitrary coderemote code executionexecute arbitrary code and obtain sensitive informationexecute arbitrary code and gain privileges
+447	account takeoveran account takeoversensitive informationan account takeover of any account
+448	a denial of servicea denial of service (DoS)denial of servicea denial of service (DoS) attacks
+449	execute arbitrary codefull access to the XSSthe execution of arbitrary codethe execution of malicious code
+450	a denial of servicea denial of service (application crash)a denial of service (out-of-bounds read and application crash)denial of service
+451	inject arbitrary web script or HTMLXSSexecute arbitrary codeexecute arbitrary JavaScript code
+452	sensitive informationexfiltrate dataexfiltrate sensitive informationexfiltrate sensitive data
+453	sql injectionexecute arbitrary SQL commandsSQL injectionexecute arbitrary SQL queries
+454	account takeoversensitive informationunauthorized accesstake over the account
+455	gain privilegeslocal privilege escalationbypass intended access restrictionsprivilege escalation
+456	access to informationaccess to dataaccess to the contentaccess to the content of any user
+457	remote code executionremote denial of serviceRemote Code Execution (RCE)Remote Code Execution
+458	command injectionexecute arbitrary commandscommand executionremote command execution
+459	unauthenticated usersunauthorized access to sensitive informationunauthorized access to the application's machineunauthorized access to sensitive information, manipulation of the system
+460	remote code executionremote code execution (RCE)unauthorized access to sensitive informationremote code execution (RCE) attacks
+461	inject arbitrary web script or HTMLcross site scriptingcross-site scriptinginject arbitrary web scripts or HTML
+462	bypass intended access restrictionsprivilegesprivileges or cause a denial of serviceprivileges or cause a denial of service (use-after-free
+463	a denial of servicea denial of service (application crash)a denial of service (crash)a crash
+464	remote code executioninformation disclosureremote code execution (RCE)allows remote attackers to inject arbitrary files
+465	execute arbitrary SQL commandsremote code executionsensitive informationexecute arbitrary code
+466	unspecified impactread arbitrary filesarbitrary file readoverwrite arbitrary files
+467	a denial of serviceunspecified impacta denial of service (application crash)a denial-of-service (DoS
+468	unauthorized access to sensitive filesarbitrary file readunauthorized access to sensitive informationunauthorized access to sensitive files on the system
+469	path traversalread arbitrary filesunauthorized access to sensitive informationunauthorized access to sensitive files
+470	remote code executionaccess to sensitive informationarbitrary code executionarbitrary file read and write access to arbitrary files
+471	unspecified impacta denial of servicea denial of service (crash)a denial of service (crash) or possibly execute arbitrary code
+472	remote code executionremote code execution including unrestricted read and write access to the whole XWiki installationremote code execution, integrity and availability of the whole XWiki installationremote code execution including unrestricted read and write access to all wiki contents
+473	a denial of service (crash)a heap-based buffer overflowa heap-based buffer over-readan out-of-bounds read
+474	escalate privilegesgain privilegesbypass intended restrictionsbypass the sandbox
+475	remote code executionRemote Code Execution (RCE)execute arbitrary commands on the host systemexecute arbitrary code on the system
+476	information disclosureremote code executionsensitive informationread arbitrary files
+477	inject arbitrary web script or HTMLXSSinject arbitrary web scriptsredirect users to arbitrary web scripts
+478	XSSexecute arbitrary codeArbitrary Code ExecutionArbitrary JavaScript may be executed on the victim's browser
+479	a denial of servicePrototype Pollutiona denial of service (prototype pollution)a denial of service (daemon crash
+480	a denial of service (out-of-bounds read)a denial of service (application crash)a denial of service (out-of-bounds write)a denial of service (segmentation fault
+481	a denial of service (infinite loop)a denial of service (system crash)a denial of service (memory consumption)a denial of service (out-of-bounds read
+482	a denial of service (crash)a denial of servicea denial of service (crash) or possibly execute arbitrary codea denial of service (application crash
+483	remote code executionremote denial of servicearbitrary command injectionarbitrary command execution
+484	delete arbitrary files on the servertake over the applicationarbitrary code executiondelete arbitrary files on the host system
+485	a denial of service (system crash)a denial of service (OOPS)a denial of service (panic)a denial of service
+486	a denial of servicea denial of service (DoS)denial of serviceDenial of Service (DoS
+487	a denial of servicean infinite loopdenial of servicea Denial of Service
+488	a denial of servicea denial of service (DoS)access any file on the servera denial of service (DoS) attack
+489	a denial of service (memory corruption) or possibly have unspecified other impacta denial of service (memory corruption)a denial of service (NULL pointer dereference)a denial of service (buffer over-read
+490	remote code executionexecute arbitrary codeexecute arbitrary commandsRemote Code Execution (RCE
+491	execute arbitrary codeexecute arbitrary JavaScriptexecution of arbitrary JavaScriptexecution of arbitrary code
+492	inject arbitrary web script or HTMLXSSexecute arbitrary JavaScript codeinject arbitrary web scripts
+493	path traversalwrite arbitrary filesarbitrary file deletionbypass intended restrictions
+494	path traversalsensitive informationwrite to arbitrary fileswrite arbitrary files
+495	authentication bypassunauthorized accessunauthorized access to sensitive informationunauthorized access to sensitive data
+496	execute arbitrary codepath traversalread arbitrary files on the systemread arbitrary files on the server
+497	path traversalremote code executionexecute arbitrary coderead arbitrary files
+498	sensitive informationexecute arbitrary commandsexecute arbitrary commands on the serverexecute arbitrary commands as root
+499	a denial of service (system crash)bypass intended access restrictionssensitive informationa denial of service
+500	sql injectionSQL injectionexecute arbitrary SQL commandsexecute arbitrary SQL queries
+501	execute arbitrary codeobtain sensitive informationmemory corruptionobtain sensitive information from process memory
+502	execute arbitrary codeunspecified impactsensitive informationmemory corruption
+503	a denial of service (system crash)a denial of servicea denial of service (NULL pointer dereference)gain privileges
+504	account takeoverobtain sensitive informationbypass intended access restrictionsbypass the password reset
+505	a denial of servicea denial of service (crash)a denial of service (out-of-bounds read)out-of-bounds read
+506	sensitive information from kernel memoryobtain sensitive information from kernel memorya denial of service (memory consumption)a denial of service (memory corruption
+507	cross site scriptingXSScross-site scriptingcross-site scripting attacks
+508	inject arbitrary web script or HTMLexecute arbitrary codea denial of serviceinject arbitrary code
+509	execute arbitrary coderemote code executionRemote Code ExecutionRemote Code Execution (DoS
+510	inject arbitrary web script or HTMLcross site scriptingXSSinject arbitrary web scripts or HTML
+511	a denial of serviceremote code executiona denial of service (crash)crash the system
+512	remote code executionexecute arbitrary codeexecute arbitrary commandscommand injection
+513	sensitive informationunauthorized access to sensitive informationpotentially sensitive informationpotentially exposing sensitive information
+514	a denial of servicea denial of service (application crash)denial of serviceDenial of Service (DoS
+515	a denial of servicea denial of service (OOPS)a denial of service (system hang)a denial of service (system crash
+516	sensitive informationexecute arbitrary SQL commandsprivilege escalationunauthorized access to sensitive information
+517	cross site scriptinginject arbitrary web script or HTMLXSScross-site scripting
+518	remote code executionarbitrary code executiona denial of servicearbitrary code
+519	XSSexecute arbitrary codeexecute codeexecute code on the server
+520	take over any accountunauthorized accessexposure of sensitive informationunauthorized access to sensitive information
+521	a denial of service (memory consumption)a denial of service (memory corruption)a denial of service (panic)a denial of service
+522	a denial of service (NULL pointer dereference)a denial of servicea denial of service (application crash)a denial of service (assertion failure
+523	execute arbitrary codeexecute arbitrary code on the serverread, write to arbitrary filesexecute arbitrary code on the user's machine
+524	remote code executioncommand injectioncommand executionexecute arbitrary code
+525	account takeoverauthentication bypassaccess the password of other usersaccess the password of other users' accounts
+526	XSSexecute arbitrary codeexecute arbitrary code and obtain sensitive informationexecute arbitrary code on the server
+527	execute arbitrary codea denial of serviceexecute arbitrary code on the userexecute arbitrary code on the victim
+528	unauthorized access to sensitive informationunauthorized access to sensitive dataunauthorized access to sensitive information, exfiltrate sensitive informationunauthorized access to sensitive information, exfiltrate sensitive information, unauthorized actions
+529	gain privilegesa denial of servicecrash the systemread arbitrary files
+530	a denial of service (application crash)a denial of servicearbitrary code executiona denial of service (application crash) or possibly execute arbitrary code
+531	a denial of service (crash)a denial of service (segmentation fault)a denial of servicea denial of service (application crash) or possibly have unspecified other impact
+532	a denial of servicea denial of service (crash)a denial-of-service attacka denial of service (memory corruption
+533	sensitive informationsensitive information from kernel memorysensitive datasensitive information from kernel information
+534	inject arbitrary web script or HTMLcross site scriptingcross-site request forgerycross-site scripting
+535	authentication bypassbypass the signature verificationbypass SAML authenticationbypass the CSRF protection
+536	authentication bypassfull access to the serverfull access to the userfull access to the user's account
+537	a denial of service attacka denial of service (application crash)a denial of service (segmentation fault)a denial of service
+538	a denial of service (memory consumption)a denial of servicea memory leakmemory leaks
+539	sensitive informationexecute arbitrary codeobtain sensitive informationexecute arbitrary code and obtain sensitive information
+540	execute arbitrary SQL commandsexecute arbitrary commandsremote code executionexecute arbitrary code
+541	a denial of service (system crash)a denial of service (system crash) or possibly execute arbitrary codea denial of servicegain privileges
+542	execute arbitrary commandsexecute arbitrary shell commandsexecute arbitrary OS commandscommand injection
+543	a denial of serviceread sensitive informationa denial of service (system crash)a denial of service (memory corruption
+544	memory corruptionremote code executionremote denial of servicememory corruption and crash
+545	authentication bypassbypass authentication checksauthentication bypassesauthenticated users to authenticated users
+546	sensitive informationunauthorized access to sensitive informationaccess to sensitive informationunauthorized access to sensitive data
+547	a crasha denial of servicean out-of-bounds readan out-of-bounds write
+548	cross site scriptingXSSexecute arbitrary JavaScript codeinject arbitrary JavaScript
+549	XSSXSS attackscross-site scriptingcross-site scripting attacks
+550	execute arbitrary codearbitrary code executionexecute arbitrary code on the host systemexecute arbitrary shell commands
+551	arbitrary command executionexecute arbitrary coderemote code executionarbitrary code execution
+552	a denial of servicea crashexecute arbitrary codea Denial of Service
+553	access any file on the serveraccess any file on the host systemaccess any file on the host and the serveraccess any file on the server and possibly have unspecified other impact
+554	execute arbitrary codecrash the systemaccess to the systemcrash the system or escalate privileges
+555	access to critical informationaccess critical informationaccess to critical dataaccess to critical information about information
+556	authentication bypassunauthorized accesstake over any accountunauthorized access to sensitive information
+557	execute arbitrary codea denial of serviceremote code executionexecute arbitrary code on the server
+558	information disclosureremote code executionprivilege escalationfull control of the host system
+559	bypass intended access restrictionsgain privilegesprivilege escalationbypass intended access restrictions and escalate their privileges
+560	execute arbitrary SQL commandsremote code executionRemote Code Execution (RCE)execute arbitrary SQL commands on the server
+561	sensitive informationgain privilegesroot privilegeswrite to arbitrary files
+562	remote code executionRemote Code Execution (RCE)arbitrary code executionarbitrary file read and write files on the system
+563	a denial of service (memory corruption)a denial of servicea denial of service (NULL pointer dereference and system crash)sensitive information
+564	a denial of service (NULL pointer dereference and system crash)a denial of service (NULL pointer dereference)a denial of servicea denial of service (NULL pointer dereference and daemon crash
+565	a denial of serviceexecute arbitrary codea NULL pointer dereferencea crash
+566	sensitive informationtake over any accountdelete arbitrary non-protected imagesdelete arbitrary files
+567	a denial of service (NULL pointer dereference and system crash)a denial of service or possibly have unspecified other impacta denial of servicea denial of service (crash
+568	a denial of servicean attacker-controlled error messagea denial of service (DoS)a denial of service (DoS) attack
+569	XSSinject arbitrary web script or HTMLexecute arbitrary web scripts or HTMLexecute arbitrary web script or HTML
+570	unauthorized access to sensitive informationunauthorized access to sensitive dataunauthorized access to sensitive information, potential denial of serviceunauthorized access to sensitive data, potential denial of service
+571	execute arbitrary codebypass authentication and execute arbitrary codebypass authentication and read arbitrary filesbypass authentication and execute arbitrary commands
+572	sql injectionexecute arbitrary SQL commandsSQL injectionSQL Injection
+573	a denial of service (application crash)a denial of servicean infinite loopan application crash
+574	XSScross site scriptingcross-site scriptingCross-site Scripting
+575	cross site scriptingcross-site request forgeryXSScross-site scripting
+576	remote code executionimproper authorizationtake over the accountsteal the data and take over the account
+577	a Denial of Servicea denial of servicean unspecified impacta Denial of service
+578	a denial of servicea denial of service (application crash)a denial of service (DoS)an application crash
+579	remote code executionunauthorized accessunauthorized access to sensitive informationunauthorized access to the system
+580	arbitrary JavaScript executionRemote Code Execution (RCE)execute arbitrary codearbitrary code execution
+581	a denial of service (NULL pointer dereference and system crash) or possibly have unspecified other impacta denial of service (NULL pointer dereference and system crash)a denial of service (NULL pointer dereference and OOPS) or possibly have unspecified other impacta denial of service (NULL pointer dereference and daemon crash) or possibly have unspecified other impact
+582	phishing attacksunauthorized accessunauthorized access to sensitive informationunauthorized access to sensitive data
+583	execute arbitrary coderemote code executionread and write to arbitrary filesread, write to arbitrary files
+584	a denial of servicea denial of service (crash)a denial of service (crash) or possibly execute arbitrary codeout-of-bounds write
+585	sensitive informationobtain sensitive informationsensitive information from process memoryobtain sensitive information from the server
+586	execute arbitrary codeexecute arbitrary commandsescalate privilegesexecute arbitrary code and gain privileges
+587	gain privilegesa denial of service (system crash)a denial of service (use-after-free)a denial of service (crash
+588	a denial of servicea denial of service (application crash)denial of servicea denial of service (DoS
+589	execute arbitrary codefull control of the systemunauthorized access to sensitive informationunauthorized access to sensitive system files
+590	denial of servicea denial of serviceunauthenticated remote code executionunauthenticated remote code
+591	execute arbitrary coderead memorycrash the applicationread sensitive information from process memory
+592	remote code executionexecute arbitrary commands on the serverexecute arbitrary commands on the systemexecute arbitrary commands on the host system
+593	unspecified impactdenial of servicea denial of servicememory corruption
+594	execute arbitrary JavaScript codeexecution of arbitrary JavaScript codeexecution of malicious JavaScript codeexecution of malicious code in the browser
+595	sensitive information from kernel memorysensitive informationobtain sensitive information from kernel memorysensitive information from kernel stack memory
+596	execute arbitrary codea denial of servicea denial of service (infinite loop)a crash
+597	a denial of servicedenial of serviceobtain sensitive informationa denial of service (DoS
+598	memory corruptiona denial of service (memory consumption)a denial of service (memory corruption)denial of service
+599	XSSstored XSSexecute arbitrary JavaScript codeexecute arbitrary JavaScript in the victim's browser
+600	execute arbitrary codea denial of serviceout-of-bounds accessan infinite loop
+601	a denial of servicea denial of service (use-after-free and system crash)a denial of service (use-after-free)a denial of service (crash
+602	privilegesprivilege escalationprivilege escalation, access to the system administratorprivilege escalation, unauthorized access to the system administrator
+603	information disclosureinformation exposuresensitive informationexecute arbitrary SQL commands
+604	a denial of servicebypass intended access restrictionsa denial of service (DoS)a denial of service (system crash
+605	a denial of service (system crash)a denial of service (memory consumption)obtain sensitive information from kernel memorygain privileges
+606	inject arbitrary web script or HTMLXSSphishing attacksinject arbitrary web scripts
+607	unauthorized access to sensitive informationunauthorized access to sensitive filesunauthorized access to sensitive files, unauthorized access to sensitive informationunauthorized access to sensitive files, unauthorized access to the server
+608	a denial of servicea denial of service (DoS)denial of servicea Denial of Service
+609	remote code executionremote code execution (RCE)read files outside the intended directoryread files outside of the intended directory
+610	remote code executionexecute arbitrary coderead arbitrary filesread arbitrary files on the server
+611	gain privilegesa denial of servicebypass intended access restrictionscrash the system
+612	XSSexecute arbitrary web scripts or HTMLexecute arbitrary web scriptscross-site scripting
+613	cross site scriptingcross-site scriptingXSScross-site request forgery
+614	authentication bypassauthentication bypassingaccess to the user's dataauthentication bypassing attacks
+615	execute arbitrary coderemote code executionexecute arbitrary code on the serverinformation disclosure
+616	sensitive informationadministrative privilegesadministrative accessadministrative access to sensitive information
+617	authentication bypassa denial of servicea denial of service (DoS)authenticated remote attackers to inject arbitrary commands
+618	a denial of servicea denial of service (DoS)arbitrary code executionunspecified impact
+619	remote code executionexecute arbitrary coderead arbitrary filesallows remote attackers to inject arbitrary files
+620	XSSstored XSSstored XSS attacksstored XSS attack
+621	a denial of servicea NULL pointer dereferencea crasha heap-based buffer over-read
+622	arbitrary command executionarbitrary code executionarbitrary codeunauthorized access to sensitive information
+623	remote code executionthe ability to inject arbitrary web script or HTMLthe ability to inject arbitrary web scriptscompromise the internal network
+624	remote code executionexecute arbitrary codearbitrary code executionexecute arbitrary code on the server
+625	a denial of service (memory corruption) or possibly have unspecified other impacta heap-based buffer overflowa denial of service or possibly have unspecified other impacta denial of service (memory corruption
+626	information disclosureprivilege escalationinformation exposuretake over any account
+627	execute arbitrary codeunspecified impactremote code executiona denial of service
+628	a denial of servicea denial of service (crash)a denial of service (DoS)a denial-of-service attack
+629	cross site scriptingXSSXSS payloadinject arbitrary JavaScript
+630	sensitive informationunauthorized access to sensitive filesunauthorized access to filesarbitrary file access to the user's machine
+631	remote code executioncode executionarbitrary code executiona denial of service
+632	an account takeoverauthentication bypassan authenticated user can be logged on the useran authenticated user can be logged in a user
+633	execute arbitrary commandsremote code executionexecute arbitrary shell commandsexecute arbitrary commands on the system
+634	XSSexecute arbitrary SQL commandsexecute arbitrary JavaScript codeexecute arbitrary JavaScript
+635	a denial of service or possibly have unspecified other impacta denial of servicea denial of service or possibly gain privilegesa denial of service (use-after-free) or possibly have unspecified other impact
+636	remote code executionaccess to sensitive informationaccess to sensitive dataarbitrary file write to be leaked
+637	sensitive informationsensitive information from kernel memorysensitive information from process memoryprivileges
+638	stored XSSexecute arbitrary JavaScript codeexecution of arbitrary JavaScript codeallows remote attackers to inject arbitrary JavaScript
+639	sensitive informationsensitive information from kernel memorya denial of service (system crash)a denial of service (system crash) or possibly have unspecified other impact
+640	a denial of servicedenial of servicea denial of service (DoS)a denial-of-service
+641	unauthorized accessunauthorized access to the user's accountunauthorized access to the user accounthijack the authentication of users
+642	a denial of service (memory consumption)a denial of servicea memory leaka denial-of-memory consumption
+643	information disclosureinformation exposureunauthorized access to resourcesunauthorized access to data
+644	authentication bypasscross-site scriptingcross-site request forgerycross-site scripting (XSS
+645	inject arbitrary web script or HTMLXSScross-site scripting (XSS)inject arbitrary web scripts or HTML
+646	a denial of servicea denial of service (DoS)denial of servicea Denial of Service
+647	sensitive informationaccess sensitive informationauthentication bypassauthentication bypassing
+648	authentication bypassbypass the CSRF protection mechanismbypass the passwordbypass the CSRF protection
+649	sensitive informationauthentication bypassunauthorized access to sensitive informationunauthorized access to the user's session
+650	bypass intended access restrictionsinformation disclosureinformation leakbypass intended access control
+651	a denial of servicedenial of servicea crasha denial-of-service attack
+652	authentication bypasshijack the authentication of arbitrary usershijack the authentication of usershijack the authentication of arbitrary user
+653	a denial of service (application crash) or possibly have unspecified other impactunspecified impacta denial of service (application crash)an out-of-bounds write
+654	cross site scriptingXSScross-site scriptingexecute arbitrary JavaScript code
+655	execute arbitrary codea denial of servicesensitive informationa denial of service (host OS crash
+656	a denial of servicea Denial of Servicea Denial of Service (DoS)a Denial-of-Service
+657	cross site scriptingXSScross-site scriptinginject arbitrary web script
+658	a denial of service (NULL pointer dereference and system crash)a denial of service (NULL pointer dereference)a denial of service (system crash)a denial of service (NULL pointer dereference and daemon crash
+659	a denial of servicedenial of servicememory exhaustionDenial of Service (DoS
+660	inject arbitrary web script or HTMLXSScross site scriptingexecute arbitrary JavaScript code
+661	inject arbitrary web script or HTMLXSScross site scriptingexecute arbitrary JavaScript code
+662	a denial of servicea denial of service (NULL pointer dereference and daemon crash)a denial of service (NULL pointer dereference and system crash)a denial of service (NULL pointer dereference and OOPS
+663	sensitive information from kernel memorya denial of service (memory consumption)sensitive information from uninitialized memoryobtain sensitive information from kernel memory
+664	XSSexecute arbitrary JavaScript codeexecute arbitrary codeinject arbitrary web scripts
+665	a denial of servicebypass the signature verificationa denial of service (DoS)a denial of service (DoS) attack
+666	unauthorized accessbypass the CSRF protection mechanismunauthorized access to sensitive informationunauthorized access to sensitive system users
+667	remote code executionexecute arbitrary codeexecute arbitrary JavaScript codearbitrary JavaScript execution
+668	a denial of servicedenial of servicea denial of service (memory consumption)Denial of Service (DoS
+669	XSScross site scriptingexecute arbitrary SQL commandsexecute arbitrary JavaScript code
+670	execute arbitrary SQL commandsexecute arbitrary PHP codeexecute arbitrary web scripts or HTMLexecute arbitrary JavaScript in the user's browser
+671	remote code executionexecute arbitrary codeexecution of arbitrary PHP codeexecution of arbitrary JavaScript
+672	execute arbitrary SQL commandssql injectionSQL injectionexecute arbitrary SQL queries
+673	information disclosureexecute arbitrary codeexecute arbitrary code on the servertake control of the user's account
+674	sensitive informationsensitive information from kernel memorya denial of service (memory corruption) or possibly have unspecified other impacta denial of service (memory consumption
+675	sensitive informationan out-of-bounds reada denial of service (crash)a denial of service
+676	a denial of service (NULL pointer dereference and system crash)crash the systema denial of service (NULL pointer dereference and OOPS)a denial of service (system crash
+677	execute arbitrary SQL commandsexecute arbitrary JavaScript coderemote code executionRemote Code Execution (RCE
+678	a denial of servicea denial of service (DoS)a denial of service (resource consumption)a denial of service (DoS) attacks
+679	sql injectionSQL injectionexecute arbitrary SQL commandsSQL Injection
+680	remote code executionsensitive informationexecute arbitrary coderead arbitrary files
+681	a denial of servicea denial of service (application crash)a denial of service (out-of-bounds read)an out-of-bounds read
+682	a denial of service (NULL pointer dereference and system crash)a denial of service (NULL pointer dereference)a denial of service (crash)a denial of service
+683	sql injectionexecute arbitrary SQL commandsSQL injectionSQL Injection
+684	remote code executioncommand injectionexecute arbitrary commandsexecute arbitrary commands on the server
+685	a denial of service (system crash) or possibly have unspecified other impacta denial of service (system crash) or possibly execute arbitrary codea denial of service (crash) or possibly have unspecified other impacta denial of service (system crash
+686	a denial of service (memory corruption) or possibly have unspecified other impacta denial of service (memory corruption)a memory leaka denial of service (memory consumption
+687	cross site scriptingcross-site scriptingcross-site request forgeryinject arbitrary web script
+688	execute arbitrary commandscommand injectioncommand executionexecute arbitrary commands on the server
+689	a denial of servicea denial of service (out-of-bounds read)unspecified impacta denial of service (application crash
+690	a denial of service (memory consumption)a denial of service (system crash)a denial of service (memory corruption)a denial of service
+691	cross site scriptingexecute arbitrary SQL commandsexecute arbitrary codeexecute arbitrary JavaScript code
+692	a denial of service (application crash)a denial of serviceunspecified impactan out-of-bounds write
+693	path traversalabsolute path traversalread arbitrary filesread arbitrary files on the system
+694	administrative privilegesunauthorized access to sensitive informationunauthorized access to the user's accountunauthorized access to sensitive information, unauthorized actions on the server
+695	execute arbitrary commandsremote command executionexecute arbitrary commands on the host systemcommand execution
+696	allows remote attackers to inject arbitrary web script or HTMLthe ability to inject arbitrary web script or HTMLallows remote attackers to inject arbitrary web scripts or HTMLallows remote attackers to inject arbitrary web scripts
+697	inject arbitrary web script or HTMLXSSexecute arbitrary codeexecute arbitrary web scripts or HTML
+698	a denial of service (application crash)a denial of service (crash)a denial of servicea denial of service (segmentation fault
+699	a denial of servicea crasha panicdenial of service
+700	remote code executionRemote Code Execution (RCE)remote code execution (RCE)unauthorized access to arbitrary files
+701	a denial of servicearbitrary code executionexecute arbitrary codea denial of service (system crash
+702	a denial of servicea denial of service (DoS)a denial of service (memory consumption)a denial of service (invalid memory
+703	access to the user's passwordaccess to the user's contentaccess the password of the user's accountaccess the password of the user's password
+704	take over the accountunauthorized access to the user's accountunauthorized access to the user's sessionunauthorized access to the user's account, access to
+705	gain privilegesa denial of service (NULL pointer dereference and system crash)privilegessensitive information from kernel memory
+706	unauthorized access to sensitive informationunauthorized access to sensitive filesunauthorized access to sensitive information, expose sensitive informationunauthorized access to sensitive information, expose sensitive information from the database
+707	take over the accountimpersonate the accountthe ability to spoofing an accountthe ability to spoofing the website
+708	account takeoverprivilege escalationunauthorized accessunauthorized access to information
+709	a denial of servicea denial of service (DoS)a denial of service (application crash)a denial of service (crash
+710	inject arbitrary web script or HTMLXSScross site scriptinginformation disclosure
+711	remote code executionread arbitrary files on the serverread any file on the serveraccess any file on the server
+712	read arbitrary filesremote code executionexecute arbitrary codeRemote Code Execution (RCE
+713	XSSarbitrary JavaScript executionexecute arbitrary codeXSS attacks
+714	execute arbitrary codean attacker could inject arbitrary JavaScriptan attacker could inject malicious scriptsan attacker could inject arbitrary web script
+715	sensitive informationsensitive information from kernel memorysensitive information from kernel stack memorysensitive information from kernel heap memory
+716	a denial of servicea denial of service (infinite loop)a Denial of Service (DoS)a denial of service (DoS
+717	a denial of service (memory consumption)a denial of servicea denial of service (application crash)a heap-based buffer overflow
+718	remote code executionsensitive informationexecute arbitrary codeexecute arbitrary code and gain privileges
+719	sensitive informationmemory leaksensitive information from process memoryunauthorized memory access
+720	a denial of servicea Denial of Service attacka Denial of Servicea Denial-of-Service
+721	open redirectredirect users to arbitrary web sitesredirect users to a different websiteredirect users to arbitrary web site
+722	sensitive informationa denial of service (buffer overflow and system crash) or possibly have unspecified other impacta denial of service (memory corruption) or possibly have unspecified other impacta denial of service (system crash) or possibly have unspecified other impact
+723	execute arbitrary codeallows remote attackers to inject arbitrary web script or HTMLallows remote attackers to inject arbitrary web scriptsallows remote attackers to inject arbitrary JavaScript
+724	a denial of service attacka denial of servicea denial of service attacksa crash
+725	path traversalarbitrary code executionarbitrary file deletion and possibly execute arbitrary codearbitrary file read and write access to arbitrary files
+726	sensitive informationgain privilegesprivilegesprivilege escalation
+727	sql injectionexecute arbitrary SQL commandsSQL injectionSQL Injection
+728	a denial of service (infinite loop)a denial of service (system crash)a denial of service (memory consumption)gain privileges
+729	sensitive informationgain privilegesbypass intended access restrictionsbypass intended authorization restrictions
+730	a denial of service (NULL pointer dereference and system crash)a denial of service (NULL pointer dereference and daemon crash)a denial of service (system crash)a denial of service (NULL pointer dereference
+731	improper authorizationcode executionimproper authorization attacksobtain the master cryptographic key
+732	execute arbitrary codeXSScross site scriptingexecute arbitrary JavaScript code
+733	XSSexecute arbitrary JavaScript codearbitrary JavaScriptarbitrary JavaScript execution
+734	obtain sensitive information from kernel memorysensitive information from kernel memorygain privilegesobtain sensitive information
+735	remote code executionexecute arbitrary codeRemote Code Executionexecute arbitrary code on the server
+736	path traversalremote code executionexecute arbitrary coderead arbitrary files on the filesystem
+737	account takeoverinformation disclosureimproper authorizationimproper access controls
+738	authentication bypassredirect users to arbitrary web sitesredirect users to a different websiteredirect users to arbitrary sites
+739	sql injectionSQL injectionexecute arbitrary SQL commandsSQL Injection
+740	cross site scriptingSQL injectioninformation disclosurecross-site scripting
+741	XSSan XSSan XSS vulnerabilitya denial of service
+742	sensitive informationexecute arbitrary codeexecute arbitrary web scriptsexecute arbitrary web scripts or HTML
+743	unauthorized access to sensitive informationunauthorized access to sensitive dataunauthorized access to sensitive information, including sensitive informationunauthorized access to sensitive information, including sensitive information, including sensitive information, including sensitive information
+744	execute arbitrary SQL commandsexecute arbitrary coderemote code executionexecute arbitrary commands
+745	unauthorized access to sensitive informationaccess to the serverunauthorized access to sensitive information, unauthorized access to sensitive informationunauthorized access to sensitive information, unauthorized access to sensitive information, unauthorized actions
+746	sensitive informationauthentication bypassbypass authentication checksbypass intended access restrictions
+747	a denial of service (system crash)a denial of service (crash)a denial of servicea crash
+748	a denial of service (memory consumption)a denial of servicea denial of service (memory leak)a memory leak
+749	execute arbitrary codeexecute arbitrary SQL commandsremote code executionRequest timed out.
+750	a denial of service (application crash)a denial of service (application crash) or possibly have unspecified other impacta denial of servicea denial of service (application crash) or possibly execute arbitrary code
+751	XSSexecute arbitrary codeexecute arbitrary JavaScript codeexecute arbitrary JavaScript code on the server
+752	memory exhaustiona denial of servicememory corruptiona denial of service (memory consumption
+753	read sensitive informationfull control over the applicationfull access to the serverfull access to the application
+754	gain privilegesbypass intended access restrictionsprivilegesprivilege escalation
+755	Remote Code Execution (RCE)remote code executionremote code execution (RCE)arbitrary code execution
+756	inject arbitrary web script or HTMLXSScross site scriptingcross-site scripting
+757	XSSexecute arbitrary JavaScriptexecute arbitrary JavaScript codeexecute arbitrary web scripts
+758	a denial of service (memory consumption)a denial of servicea denial of service (crash)a denial of service (system crash
+759	remote code executioncommand injectionexecute arbitrary codeexecute arbitrary commands
+760	execute arbitrary SQL commandssensitive informationexecute arbitrary SQL commands on the systemexecute arbitrary SQL commands on the server
+761	a denial of service (system crash)a denial of service (panic)a denial of service (application crash)a denial of service (BUG
+762	a denial of service (application crash)a denial of servicea denial of service (segmentation fault)an application crash
+763	a denial of service (NULL pointer dereference)a denial of servicea NULL pointer dereferencea crash
+764	XSSexecute arbitrary JavaScript codeexecute arbitrary codeinject arbitrary web scripts
+765	remote denial of serviceunauthorized access to sensitive informationunauthorized access to sensitive dataunauthorized access to the server
+766	remote code executionexecute arbitrary coderemote command executionremote code execution (RCE
+767	denial of servicea denial of servicea denial of service (DoS)Denial of Service (DoS
+768	account takeoverexecute arbitrary codeuser account takeoveran arbitrary user's account
+769	improper authorizationinformation disclosureimproper access controlsimproper access control
+770	gain privilegesa denial of service (system crash)a denial of service (buffer overflow and system crash)a denial of service
+771	a denial of servicea denial of service (crash)a Denial of Servicea denial of service (CPU consumption
+772	inject arbitrary web script or HTMLexecute arbitrary coderemote code executionexecute arbitrary code on the server
+773	an account takeovera account takeoverinject arbitrary web script or HTMLan account takeover of an account
+774	a denial of service (system crash)a denial of servicea denial of service (system hang)arbitrary code
+775	cross site scriptingXSScross-site scriptingexecute arbitrary JavaScript code
+776	remote code executionRemote Code Executionarbitrary code executionarbitrary code
+777	out-of-bounds readan out-of-bounds readout-of-bounds writememory corruption
+778	gain privilegesa denial of service (use-after-free) or possibly have unspecified other impacta denial of service (system crash)gain privileges or cause a denial of service (use-after-free
+779	read arbitrary filesread arbitrary files on the serverunauthorized access to sensitive informationunauthorized access to sensitive files
+780	Request timed out.inject arbitrary web script or HTMLa denial of servicea denial of service (DoS
+781	a denial of servicea denial of service (DoS)denial of servicea denial-of-service attack
+782	a denial of service (OOPS)a denial of servicea denial of service (use-after-free)a denial of service (memory consumption
+783	information leakageimproper authorizationimproper access controlsimproper access control of data
+784	cross site scriptingXSScross-site scriptingcross-site scripting attacks
+785	remote code executionRemote Code Execution (RCE)remote code execution, integrity and availability of the whole XWiki installationremote code execution, integrity and availability of the whole XWiki instance
+786	a denial of servicea denial of service or possibly have unspecified other impacta denial of service (crash)a denial of service (use-after-free) or possibly have unspecified other impact
+787	a denial of service (out-of-bounds read) or possibly have unspecified other impacta denial of service (out-of-bounds read)a denial of service or possibly have unspecified other impacta denial of service (memory corruption) or possibly have unspecified other impact
+788	remote code executionexecute arbitrary codeinformation leakageexecute arbitrary code on the server
+789	XSSexecute arbitrary codeexecute arbitrary JavaScript codeexecution of arbitrary JavaScript code
+790	remote code executionexecute arbitrary codeArbitrary Code Executionaccess to the XWiki installation
+791	bypass authenticationauthentication bypassunauthorized accessunauthorized access to sensitive information
+792	a denial of servicea denial of service (DoS)an unspecified impacta denial of service (crash
+793	a denial of servicea denial of service (NULL pointer dereference)a denial of service (NULL pointer dereference and application crash)a denial of service (NULL pointer dereference and system crash
+794	a denial of service (NULL pointer dereference and application crash)a denial of service (NULL pointer dereference)a denial of servicea denial of service (NULL pointer dereference and daemon crash
+795	remote code executionarbitrary code executionunauthorized access to sensitive filesunauthorized access to sensitive information
+796	arbitrary code executionremote code executionarbitrary codeArbitrary Code Execution
+797	remote code executionremote code execution and obtain sensitive informationremote code execution with the privileges of the admin userremote code execution, integrity and confidentiality, integrity and availability
+798	admin privilegessensitive informationadministrative privilegesadministrative access
+799	a denial of service (application crash)a denial of servicea denial of service (out-of-bounds read)a denial of service (crash
+800	cross site scriptingexecute arbitrary SQL commandscross-site scriptingXSS
+801	a denial of servicea Denial of Servicea Denial of Service attackdenial of service
+802	inject arbitrary web script or HTMLXSSXSS attacksstored XSS
+803	a denial of servicea denial of service (crash)a denial of service (DoS)a denial of service (memory corruption
+804	gain privilegesprivilege escalationescalate privilegesa denial of service
+805	a denial of service (use-after-free) or possibly have unspecified other impacta denial of service (use-after-free and system crash)a denial of service (use-after-free)a denial of service
+806	XSSinject arbitrary web script or HTMLexecute arbitrary JavaScript codeRemote Code Execution (RCE
+807	Remote Code ExecutionRemote Code Execution (RCE)execute arbitrary SQL commandsallows remote authenticated users to execute malicious scripts
+808	a denial of service (NULL pointer dereference and application crash)a denial of service (NULL pointer dereference)a denial of servicea denial of service (NULL pointer dereference and system crash
+809	inject arbitrary web script or HTMLexecute arbitrary SQL commandsexecute arbitrary codeinject arbitrary web script
+810	sensitive informationtake over any accounttake over the applicationtake over the server
+811	a denial of service (application crash)a denial of service (out-of-bounds read)a denial of servicea denial of service (segmentation fault
+812	a denial of service (system crash)a denial of service (panic)a denial of servicegain privileges
+813	sensitive informationunauthorized access to sensitive informationunauthorized accessunauthorized access to sensitive information, leak sensitive information
+814	xml external entity referenceXXE attacksXSSxml external entity references
+815	an out-of-bounds readout-of-bounds readan out-of-bounds writean out-of-bounds read any file
+816	a denial of servicea denial of service attacka denial of service (DoS)a Denial of Service attack
+817	remote code executionimproper authorizationexecute arbitrary codeimproper access controls
+818	Remote Code Execution (RCE)remote code executionRemote Code Executionexecute arbitrary code
+819	a denial of servicea denial of service (application crash) or possibly execute arbitrary codeexecute arbitrary codea denial of service or execute arbitrary code
+820	information disclosureinformation exposurea denial of serviceinformation disclosure, denial of service
+821	a denial of servicea denial of service (crash)a crasha denial of service (application crash
+822	remote code executionpath traversalabsolute path traversalremote code execution (RCE
+823	sensitive informationexecute arbitrary SQL commandsprivilege escalationunauthorized access
+824	remote code executionexecute arbitrary codeRemote Code Executionarbitrary code
+825	a denial of servicea denial of service (application crash)a denial of service (crash)unspecified impact
+826	account takeoverprivilege escalationunauthorized accessunauthorized access to password
+827	bypass intended access restrictionsa denial of servicebypass intended security restrictionsa denial of service (system crash
+828	unauthorized access to sensitive informationunauthorized access to the user's accountunauthorized access to sensitive information, including the user's sessionunauthorized access to sensitive information, including sensitive information from other users
+829	execute arbitrary commandsCommand Injectioncommand injectionexecute commands
+830	remote code executionexecute arbitrary codeexecute arbitrary code on the host systemexecute arbitrary code on the server
+831	cross site scriptingcross-site scriptingarbitrary JavaScript executionarbitrary javascript code execution
+832	denial of servicea denial of service (crash)an out-of-bounds readobtain sensitive information from kernel memory
+833	remote code executionPrototype PollutionRemote Code ExecutionPrototype Pollution of Object
+834	inject arbitrary web script or HTMLauthentication bypassexecute arbitrary codeauthentication bypass of sensitive information
+835	a denial of servicea denial of service (NULL pointer dereference)a denial of service or possibly have unspecified impacta denial of service (crash
+836	execute arbitrary SQL commandsexecute arbitrary web scriptsdelete arbitrary web scriptsexecute arbitrary web scripts or HTML
+837	a denial of serviceexecute arbitrary codememory corruptiona crash
+838	execute arbitrary coderemote code executionexecute codeexecute arbitrary commands
+839	a cross-site scripting (XSS)a cross-site scriptinga denial of servicea cross-site scripting attack
+840	remote code executionexecute malicious scriptsexecution of malicious scriptsexecution of arbitrary JavaScript code
+841	execute arbitrary coderemote code executionexecute arbitrary SQL commandsinject arbitrary web scripts
+842	inject arbitrary web script or HTMLXSSinject arbitrary web scripts or HTMLinject arbitrary web scripts
+843	a denial of servicearbitrary code executionexecute arbitrary codearbitrary code
+844	memory exhaustionRequest timed out.denial of serviceDenial of Service
+845	a denial of service (crash)a denial of servicea denial of service (memory consumption)a denial of service (system crash
+846	remote code executionexecute arbitrary coderead arbitrary filesRemote Code Execution (RCE
+847	bypass intended access restrictionsprivilege escalationprivilege escalation, remote code executionbypass intended access restrictions and execute arbitrary code
+848	authentication bypassimproper authorizationunauthorized accessunauthorized access to sensitive information
+849	a denial of servicea denial of service (crash)a denial of service (DoS)execute arbitrary code
+850	a denial of service (use-after-free)a denial of service (memory consumption)a denial of service (system crash)a denial of service (NULL pointer dereference
+851	execute arbitrary commandsexecute arbitrary shell commandsexecute arbitrary OS commandsexecute arbitrary commands on the host
+852	cross site scriptingXSSinject arbitrary web script or HTMLcross-site scripting
+853	memory leakread memoryexecute arbitrary codememory leaks
+854	a denial of servicebypass authenticationbypass the TLS protection mechanismbypass the SSL protection mechanism
+855	a denial of service attacka denial of servicea denial-of-service attacka denial of service (DoS
+856	a denial of servicea DoS vulnerabilitya Denial of Servicea denial of service (DoS
+857	cross site scriptingXSScross-site scriptingCross-site Scripting
+858	remote code executiona denial of service (application crash)a denial of service (DoS)a denial of service
+859	cross site scriptingSQL injectionSQL Injectionexecute arbitrary SQL
+860	remote code executionremote code execution (RCE)delete arbitrary filesremote code execution (RCE) on the system
+861	inject arbitrary web script or HTMLcross site scriptingXSScross-site scripting
+862	a denial of servicea denial of service attacka denial-of-service attacka denial-of-service
+863	command injectionremote code executionexecute arbitrary codearbitrary code execution
+864	XSSinject arbitrary web script or HTMLarbitrary JavaScript executionarbitrary code execution
+865	execute arbitrary codeexecute arbitrary commandsexecute arbitrary code on the host systemexecute arbitrary code and execute arbitrary commands
+866	XSScross site scriptingXSS attacksinject arbitrary JavaScript
+867	execute arbitrary SQL commandsremote code executiontake over the accounttake over any account
+868	a denial of servicea crasha denial of service attacka denial of service (crash
+869	information disclosuresensitive informationtake over any accounttake over the account
+870	XSSauthentication bypassfull account takeoverauthentication bypass of credentials
+871	XSSXSS attacksexecute arbitrary JavaScript codethe execution of malicious scripts
+872	sensitive information from kernel memorysensitive information from kernel stack memorysensitive informationsensitive information from kernel heap memory
+873	information disclosureinject arbitrary web script or HTMLobtain sensitive informationinject arbitrary web scripts
+874	a denial of service (out-of-bounds read)a denial of servicea denial of service (out-of-bounds write)a heap-based buffer over-read
+875	a denial of servicea denial of service (crash)unspecified impactdenial of service
+876	a denial of servicedenial of serviceDenial of Serviceunspecified impact
+877	unauthorized access to sensitive informationaccess any file on the serverunauthorized accessunauthorized access to sensitive files
+878	an account takeoverobtain sensitive informationbypass intended access restrictionsbypass the password
+879	sensitive informationunauthorized accessunauthorized access to sensitive informationbypass authentication
+880	path traversalexecute arbitrary coderemote code executionarbitrary file write
+881	XSSexecute arbitrary codeexecute arbitrary JavaScript codeexecute arbitrary JavaScript
+882	execute arbitrary coderemote code executionexecute arbitrary code via arbitrary codeexecute arbitrary code on the system
+883	a denial of service (crash)a denial of service (application crash)a denial of servicea denial of service (out-of-bounds read
+884	XSSexecute arbitrary JavaScript codeexecute arbitrary codeexecute arbitrary JavaScript in the browser
+885	a denial of servicea denial of service (application crash)unspecified impacta denial of service (infinite loop
+886	remote code executionarbitrary code executionexecute arbitrary code on the serverarbitrary code execution on the system
+887	path traversalexecute arbitrary codeexecute arbitrary code on the host systempath traversal attacks
+888	XSSexecute arbitrary JavaScript codeexecute arbitrary codeexecute arbitrary SQL commands
+889	arbitrary URLsinject arbitrary web script or HTMLinject arbitrary web script or email URLsarbitrary URLs, access to the website
+890	remote code executionRemote Code ExecutionRemote Code Execution (RCE)unauthorized access to sensitive information
+891	remote code executiona denial of serviceremote code execution (RCE)a denial of service (DoS
+892	open redirectphishing attacksredirect users to untrusted siteredirect users to arbitrary web sites
+893	an XSS vulnerabilitycross-site scripting (XSS) attacksexecute arbitrary codecross-site scripting (XSS
+894	execute arbitrary codesensitive informationremote code executionsensitive information from kernel memory
+895	a denial of servicea denial of service (NULL pointer dereference)a denial of service (prototype pollution)a denial of service (daemon crash
+896	a denial of service (crash)a denial of servicea denial of service (system crash)a denial of service (system hang
+897	remote code executionexecute arbitrary codeRemote Code Execution (RCE)execute arbitrary code on the server
+898	a denial of service (system crash)an out-of-bounds reada denial of service (NULL pointer dereference)a denial of service (NULL pointer dereference and crash
+899	inject arbitrary web script or HTMLcross site scriptingXSScross-site scripting
+900	cross site scriptingXSSCross site scriptinginject arbitrary web scripts
+901	execute arbitrary SQL commandsexecute arbitrary codeexecute arbitrary commandsexecute arbitrary PHP code
+902	a denial of service (application crash)a denial of service (out-of-bounds read)a denial of servicea denial of service (crash
+903	a denial of servicea Denial of Servicea Denial of Service attacka denial-of-service
+904	a denial of servicea denial of service (DoS)a denial of service (NULL pointer dereference)a denial of service (NULL pointer dereference and application crash
+905	remote code executionRemote Code Execution (RCE)Remote Code Executionremote code execution (RCE
+906	remote code executionexecute arbitrary codeexecute arbitrary code on the serverexecute arbitrary code on the system
+907	authentication bypassauthentication bypassesauthentication bypassingauthentication bypass, authentication
+908	a denial of servicea denial of service (DoS)arbitrary code executionunauthorized access to sensitive information
+909	account takeoverimproper authorizationunauthorized accessunauthorized access to sensitive information
+910	a denial of servicea denial of service (crash)a denial of service (DoS)a denial of service (application crash
+911	sensitive informationsensitive information from kernel memorysensitive information from kernel stack memorysensitive information from kernel heap memory
+912	a denial of servicea denial of service (out-of-bounds read)a denial of service (application crash)a denial of service (out-of-bounds write
+913	Remote Code Execution (RCE)Remote Code Executionremote code executionArbitrary Code Execution
+914	gain privilegesgain privileges or cause a denial of service (use-after-free)a denial of servicegain privileges or cause a denial of service
+915	remote code executionRemote Code Execution (RCE)Remote Code Executionaccess to the server-side request forgery
+916	execute arbitrary commandscommand injectionremote command executioncommand execution
+917	a denial of service (memory consumption)a denial of servicea denial of service attacka memory leak
+918	execute arbitrary commandsremote code executioncommand injectionexecute arbitrary code
+919	a denial of service (memory consumption)a denial of service (resource consumption)obtain sensitive informationa denial of service (OOPS
+920	a connection race from a malicious local peera connection race from the malicious local peera connection race from malicious local peera connection race from the local peer
+921	bypass intended access restrictionseasier for attackers to bypass security mechanismseasier for attackers to bypass security attackseasier for attackers to bypassing attacks
+922	cross site scriptingcross-site scriptingXSSbypass intended access restrictions
+923	denial of servicea denial of serviceDenial of Serviceexecute arbitrary code
+924	a denial of servicea denial of service (out-of-bounds read)an out-of-bounds readunspecified impact
+925	a denial of servicea denial of service (crash)a denial of service (memory consumption)a denial of service (application crash
+926	a denial of service (out-of-bounds read)a denial of servicea denial of service (segmentation fault)a denial of service (crash
+927	inject arbitrary web script or HTMLcross site scriptingXSSinject arbitrary JavaScript
+928	execute arbitrary SQL commandsremote code executionexecute arbitrary commandssql injection
+929	XSScross site scriptingexecute arbitrary JavaScript codeexecute arbitrary JavaScript
+930	gain privilegesgain privileges or cause a denial of service (system crash)gain privileges or cause a denial of service (use-after-free)sensitive information
+931	a denial of servicesensitive informationinject arbitrary web script or HTMLa denial of service (application crash
+932	access to the user's dataaccess to the user's content of any useraccess to the user's data that will not have access toaccess to the user's data that will not be allowed to
+933	a denial of service (NULL pointer dereference)a crasha denial of servicea NULL pointer dereference
+934	execute arbitrary SQL commandsremote code executionexecute arbitrary JavaScript codeexecute arbitrary SQL commands on the server
+935	remote code executioncommand injectionexecute arbitrary codeexecute arbitrary commands
+936	an account takeoverunauthorized accessunauthorized access to sensitive informationunauthorized access to the user's account
+937	a denial of service (application crash)a denial of servicea denial of service (CPU consumption)an application crash
+938	SQL injectionexecute arbitrary SQL commandssensitive informationsteal user information
+939	a denial of servicesensitive informationa denial of service (NULL pointer dereference and application crash)a denial of service (NULL pointer dereference
+940	execute arbitrary codeexecute arbitrary JavaScript codethe execution of malicious codeexecute malicious JavaScript
+941	remote code executionexecute arbitrary codeexecute arbitrary code on the serveraccess to sensitive information
+942	execute arbitrary SQL commandsexecute arbitrary JavaScript codeexecute arbitrary codeexecute arbitrary PHP code
+943	XSSinject arbitrary web script or HTMLcross-site scriptinginject arbitrary web scripts or HTML
+944	XSSxml external entity referenceexecute arbitrary codeexecution of arbitrary code
+945	remote code executionRemote Code Execution (RCE)XSSremote code execution (RCE
+946	XSScross site scriptingbypass intended access restrictionsinject arbitrary HTML
+947	unauthorized access to sensitive informationunauthorized accessan account takeoverunauthorized access to sensitive files
+948	remote code executionexecute arbitrary SQL commandsexecute arbitrary codeexecute arbitrary PHP code
+949	a denial of service (application crash)a denial of service (out-of-bounds read)a denial of servicea denial of service (infinite loop
+950	execute arbitrary codeexecute arbitrary SQL commandsexecute arbitrary code and obtain sensitive informationexecute arbitrary code on the host system
+951	path traversalread arbitrary filesremote code executionread arbitrary files on the server
+952	a denial of service (application crash)a denial of service (segmentation fault)a denial of servicea crash
+953	a denial of service (NULL pointer dereference and system crash)a denial of service (panic)a denial of service (NULL pointer dereference and OOPS)a denial of service (NULL pointer dereference and application crash
+954	authentication bypassimproper authorizationunauthorized access to sensitive data, compromising the account takeover of the victim's sessionunauthorized access to sensitive data, compromising the account takeover of the victim's session, leading to
+955	remote code executionexecute arbitrary codearbitrary file writearbitrary file read
+956	a denial of service (use-after-free)a denial of service (memory consumption)a denial of service (system crash)a denial of service (crash
+957	sql injectionSQL injectionSQL Injectionsql injections
+958	remote code executiondelete arbitrary files on the serverexecute arbitrary commands on the serverexecute arbitrary commands on the host system
+959	execute arbitrary commandscommand injectionexecute arbitrary commands on the serverremote command execution
+960	unauthorized access to sensitive informationthe execution of malicious code in the context of another userthe execution of malicious code in the context of another user's browserthe execution of malicious code in the context of the victim's browser
+961	Remote Code Executionremote code executionRemote Code Execution (RCE)execute arbitrary code
+962	execute arbitrary SQL commandsexecute arbitrary codeexecute arbitrary web scriptsexecute arbitrary web scripts or HTML
+963	remote code executionremote code execution (RCE)Remote Code Execution (RCE)execute arbitrary commands on the server
+964	a denial of servicea denial of service (out-of-bounds read)a denial of service (crash)a denial of service (out-of-bounds write
+965	a denial of service (system crash)a denial of service (memory corruption)a denial of servicesensitive information
+966	inject arbitrary web script or HTMLinject arbitrary JavaScriptan XSS vulnerabilityallows remote attackers to inject arbitrary JavaScript
+967	a denial of servicea denial of service (NULL pointer dereference)a segmentation faulta Denial of Service (DoS
+968	sql injectionSQL injectionsql injection attacksexecute arbitrary SQL
+969	a denial of service (use-after-free) or possibly have unspecified other impacta denial of service or possibly have unspecified other impacta denial of servicea denial of service (crash) or possibly have unspecified other impact
+970	a denial of service or possibly have unspecified other impacta denial of servicea denial of service (NULL pointer dereference and system crash)a denial of service (use-after-free and system crash
+971	execute arbitrary coderemote code executionexecute arbitrary code on the serverexecute arbitrary code on the system
+972	a denial of service attacka denial of servicea denial-of-service attacka denial-of-service attack vector
+973	sensitive informationbypass intended access restrictionsbypass authenticationbypass intended restrictions
+974	sensitive informationretrieve the userretrieve the user's dataretrieve the user's session

@@ -1,0 +1,43 @@
+0	via SCTP packets
+1	via vectors involving a (1) munmap or (2) close system call
+2	launch the attack remotely
+3	setting a long name and making an HIDPCONNADD ioctl call
+4	manipulation of the argument n/v
+5	sending a packet during module loading
+6	using a certain large amount of memory
+7	sending a SCSI command to (1) a partition block device or (2) an LVM
+8	via a crafted method call
+9	providing a crafted argument and leveraging a race condition
+10	leveraging a mount of a share by a different user
+11	overwriting arbitrary files via symlinks
+12	requesting a token for the tenant
+13	NULL value for the device name
+14	via a flood of SYN+FIN TCP packets
+15	manipulation of the argument strUserPass/strRPCUserColonPass
+16	initiated remotely
+17	invalid MAP_HUGETLB mmap operations
+18	copy or clone a bug report
+19	a long descriptor with a long vector length
+20	PTRACE_GETREGSET or PTRACE_SETREGSET ptrace call
+21	executing arbitrary commands via shell metacharacters in a sendmail or exim delivery
+22	via a crafted string
+23	via a network request that triggers a large number of iptables rules
+24	initiating the attack remotely
+25	leveraging the CAP_NET_ADMIN capability
+26	leveraging the CAP_NET_ADMIN capability
+27	requests that use (1) addBookmark.php, (2) delBookmark.php, or (3
+28	recvfrom or recvmsg system call on an RDS socket
+29	via a crafted application
+30	inject arbitrary web script or HTML via a crafted name of an event, a procedure, or a trigger
+31	including and executing arbitrary local files via a .. (dot dot) in the action parameter
+32	reading arbitrary files via a .. (dot dot) in the module parameter to frontend/js.php
+33	via a crafted vendorLength field in an ogg file
+34	creating new tokens through token chaining
+35	launch the attack remotely
+36	inject arbitrary web script or HTML via the (1) name or (2) type of a function
+37	leveraging access to this process group
+38	via IGMP packets
+39	controlling the beginning of a string
+40	mount.ecryptfs_private mount with a mismatched uid
+41	crafted fragmented packets
+42	manipulation

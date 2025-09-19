@@ -1,0 +1,43 @@
+0	msg> Nit: unnecessary whitespace change
+1	e0
+2	msg> Please remove this empty line.
+3	e0> Cc: stable@vger.kernel.org
+4	e0> cece
+5	msg> Please remove this empty line.
+6	msg> please remove this empty line
+7	msg> nit: unnecessary whitespace change
+8	e0> * verify.c: Add new function to internal verifier API to check method instantiations
+9	msg> Please remove this empty line.
+10	msg> Please remove this empty line
+11	msg> please remove this line
+12	e0> raise exception.Unauthorized(e.message
+13	e0> Curious about this.
+14	msg> I think this line is not needed
+15	msg> nit: unnecessary whitespace change
+16	msg> Please remove this empty line.
+17	msg> Please remove this empty line.
+18	msg> This empty line should be removed
+19	e0> - Return error when userspace provides vectors whose total length may exceed - MAX_SKB_FRAGS * PAGE_SIZE
+20	e0
+21	msg> Trailing whitespace detected.
+22	e0> craft
+23	msg> Please remove this empty line.
+24	e0
+25	e0
+26	msg> This change is not needed.
+27	e0> OCP\JSON::callCheck
+28	msg> please revert this change
+29	msg> Please remove this empty line.
+30	msg> Please remove this empty line.
+31	msg> Please remove this empty line.
+32	e0> craft
+33	msg> This change is not needed.
+34	msg> please remove this extra line
+35	msg> Nit: unnecessary whitespace change
+36	msg> Please remove this empty line.
+37	msg> Please revert this change.
+38	msg> Please remove this empty line.
+39	msg> I think this line should be removed
+40	e0> Cc: <tyler-hicks@linux.vnet.ibm.com
+41	msg> Please remove this empty line.
+42	e0> sql, preparedVariables, result
